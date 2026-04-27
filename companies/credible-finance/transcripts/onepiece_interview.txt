@@ -1,0 +1,409 @@
+[Music]
+Like with credible we eliminate the
+preunding need by putting a credit pool
+and uh then enable a stable coin based
+realtime you know payment mechanism and
+uh with a higher FX rate as well.
+I'm Shri. I'm a co-founder and CEO of
+Credible. Um I actually come in from a
+fintech background where I've worked
+like nearly 14 years uh mainly you know
+uh towards traditional finance. uh uh
+prior to credible I had a healthcare
+financing company that got acquired in
+2023 and uh before that I I did quite
+some consulting in the web3 space worked
+with few exchanges worked with D5
+protocols primarily in Singapore in
+Thailand uh you know in the Southeast
+Asia region and credible came into mind
+like how we can you know combine the
+tread experience and web 3 you know uh
+scalability and uh transparency
+Essentially what credible does is we
+enable remittance rails from developed
+markets like US, Canada, Europe to
+developing markets like Nigeria, India,
+uh Philippines and uh we do it a bit
+differently than you know what other
+platforms are doing. Uh we are
+essentially having a credit you know
+pool in between that enables the real
+time transfer experience. uh what it
+means is like let's say you are an expat
+an Indian expat working in uh US you
+want to send money home now the current
+options are like wise or offx or
+remittly these platforms these platforms
+give you a realtime transfer experience
+but they charge you you know pretty
+heavy in terms of the transaction fee as
+well as the FX that they offer uh
+whereas with credible uh we give you
+like a better FX rate even higher than
+what you see on Google or See and we
+also give you a real-time experience.
+Other platforms like for example bridge
+or you know like iron or you know other
+stable coin remittance platforms they
+always have to wait for the ACS transfer
+to hit the bank account in US then do
+the on-ramp and then do you know the
+offramp or the payout on the receiver
+side. This entire process usually takes
+48 hours to 72 hours on other platforms
+because they wait for the AC to you know
+get settled on the bank account. In case
+of credible with the credit pool
+mechanism, we don't have to wait for the
+AC to settle. Uh we underwrite the risk
+assuming that the AC will settle on the
+sender side and we already you know do
+the payout on the receiver side enabling
+a real-time experience. This is how the
+preunding or the nostro setup works in
+the traditional finance and that's what
+we are mimicking with credible and this
+we are doing for B2B as well as like you
+know rem personal remittances for neo
+banks.
+Yeah. So like I mentioned uh you know
+like there are so many remittance
+platforms there are so many you know
+like stable coin based uh you know
+payment infrastructures out there but uh
+no one is coming close to the speed of
+traditional finance because traditional
+remittances work with a preunding
+mechanism and uh none of these platforms
+which are out there like bridge or iron
+or you know all these they act they work
+with preunding mechanism and like with
+credible we eliminate the pre-fund
+funding need by putting a credit pool
+and uh then enable a stable coinbased
+real-time you know payment mechanism and
+uh with a higher FX rate as well. So you
+get better rate uh same speed and you
+know also between the key corridors like
+US to India, US to Philippines, US to
+Nigeria and so on.
+I'll tell you like AI in general works
+with data sets and what we do is if
+you're you know let's say work with
+working with one of our uh partner like
+a new bank that is built on top of
+credible then uh we always check like
+what is the frequency at which you are
+sending money what is your played you
+know like banking reputation what is
+your uh uh KYC based reputation and all
+so we have all that data set and basic
+on the basis of that data set we
+underwrite the risk of the AC settlement
+uh of the money that you're sending home
+or you know making a B2B payment and uh
+that AI based risk modeling system
+ensures that uh you know we don't have
+defaults like we have been operating for
+over 11 months now and we have done
+transaction volume of over $60 million
+and we have had zero defaults so far and
+uh that's purely because of the way we
+do the risk assessment with AI Okay,
+the stable coin liquidity basically sits
+on the credit pool which acts as an
+oustroastro setup in traditional finance
+and whenever there is a new bank let's
+say in US sending money to India,
+Philippines or Nigeria, we use the
+capital in this credit pool to do the
+settlement on the receiver side and then
+after 2 days or 3 days we get the AC
+settled. and the USDC is refilled on the
+credit pool. So that's how we are using
+the uh credit pool mechanism for real
+world finance with stable coins.
+Yeah. So I'll tell you like these
+numbers are old now. We have processed
+over $60 million in stable coin credit
+and uh we are like u one thing that we
+learned is initially we were too much
+you know like dependent on like various
+uh agencies doing the credit assessment
+um we decided to move that credit
+assessment mechanism inhouse with the AI
+based you know like model and uh that's
+when things uh really started speeding
+up and we moved away from let's say
+30-day or a 90-day credit line to a 3
+days or 5 days credit line for payment
+financing. So that also helped us scale
+up the volume pretty quickly and
+minimize the risk. So the way I uh see
+this is like u from a challenging
+standpoint it's more of a operations
+learning experience that how it works
+and what is missing in the space and uh
+it took us multiple iterations of PMF to
+actually get here but uh we are glad
+that we are finally you know like we
+have a product market fit we have
+clients who are using us uh it's a B2B2C
+model and uh that's how we want to
+continue as
+Um I mean now we have over 370k by the
+way users and uh the demand is purely
+because of uh the way we engaged on you
+know like key markets like for example a
+crypto credit card is still a dream in
+countries like India, Philippines and
+Nigeria and uh it's it's a very let's
+say it's a very mainstream same thing in
+US and Europe because there's so many
+options there but there is not even one
+option when it comes to Philippines,
+India and Nigeria and uh that's where we
+found the gap and our entire objective
+is like how do we dollarize the world?
+How do we you know like u make us
+markets, US you know like assets uh US
+uh tools of finance accessible to all
+these developing markets and uh that's
+where you know that that worked for us
+very well like out of these 370k over
+150k users are actually from Nigeria and
+that's one of our biggest market that we
+have seen.
+Yeah. So we have a MSB license in
+Canada. Uh in India we have more of a
+lending and a crypto exchange license.
+And in UA we don't have our own license
+but we have partnered with you know a
+licensed uh institution. Same thing in
+US we recently partnered with another uh
+institution which can do the on-ramping
+and everything. Uh so I would say like
+uh the milestones initially like uh we
+spent quite some time you know figuring
+out how to lay out the foundation right
+like how to get all these partners in
+place so that we can start operating and
+uh it wasn't easy because uh uh we had
+to build a flow in which we do not touch
+the capital because we are not regulated
+you know and we had to convince these
+regulated partners to believe in us uh
+because we were you know pretty much
+nothing like almost a year back and uh
+some of them believed and having our own
+like uh MSB and having our own lending
+license and exchange license in India
+gave them the confidence that we can do
+the settlements in India and because
+India is the number one inward
+remittance receiving country in the
+world and it's completely untouched from
+stable coin perspective if you go to
+open FX bridge any of these platforms no
+one is doing India so that uh you know
+became our mo and uh on top profit
+having this credit facility you know
+make made it easier because uh then it
+becomes you know like it gave the
+volumes that were needed to all these
+regulatory partners as well. So yeah, so
+initially it was not straightforward to
+convince them but uh over time uh you
+know like it helped as we brought in the
+volumes
+I'll tell you like uh from the score
+point of view u we believe like I mean
+as we will be launching a credit card as
+well so we can do tiering based on the
+score uh we will be you know like
+partnering with various uh deepin
+companies uh for offering like a BNPL
+facility as well and uh these deepin
+companies really love that like we bring
+in 400k users uh we bring in you know
+like users who don't have to pay
+anything to get their product but they
+still get paid so it's pretty
+fascinating for them and then we tier
+these users based on the credit score on
+top of it uh there can be some marketing
+you know uh structure that we can build
+around the score u from other D5
+integrations like the credit pool that
+we have. Uh the idea is how we can you
+know like uh integrate it with more and
+more distribution partners who are
+aggregating the credit pools who are
+bringing in more liquidity to us because
+right now our demand is you know growing
+pretty rapidly
+and uh we need to have more and more LPS
+and we provide like 16% APY which is
+fixed and no one is doing that on
+stables. So we provide 16% on USDC USDT
+and uh that's something that you know
+like uh uh we see as a great value as
+well and from web 2 product standpoint
+like we technically are web 2.5 platform
+like we are using D5 only for the credit
+piece uh and you know the risk modeling
+but when it comes to the transactions
+because of the regulated nature of the
+product and since other fintexs are
+built on top of credible uh we have to
+give API based access to them we have to
+give them you know like um like
+abstracted experience uh to move money
+from fiat to crypto, crypto to fiat. So
+that's where you know like uh uh we are
+coming in from and uh that's also where
+you know like we implement credible
+score for any fraud detection any you
+know like anomorities uh AML you know
+monitoring all that that purpose as
+well.
+I'll tell you like KJ is really fun to
+work with. At least that has been my
+experience. He's so blunt and so
+straightforward, you know, and that's
+good, you know, like as a mentor to have
+someone like that. Uh he helped us
+getting the right PMF mindset. I'm still
+you know like I mean I'm trying to also
+build a credit credit trail between
+India and China and uh that's also
+something that you know like we are
+talking on the lines also introduction
+to few other you know angels few other
+mint mentors and all you know that
+happened through one piece labs also we
+got angel check from Michael uh that
+happened because of one piece labs
+guidance and all so I think overall it
+has been really good uh brutally Good
+right so yeah so that that we really you
+know recommend anyone else also to be
+part of the one piece labs accelerator
+and learn from the mentors here it's a
+completely unfiltered experience
+uh I would say zero is u the only chain
+which allows you to do direct
+integration with openis models and
+there's no other chain that is available
+you know in the market to do that. So
+the compute mechanism uh and the ability
+to deploy an LLM directly on chain uh
+makes zero g one of a kind and for our
+risk modeling purpose we need to have
+data access for both offchain and
+onchain and that's where zero g's you
+know like uh compute uh helps us a lot
+and uh you know like the entire
+architecture overall is really a good
+fit. My co can answer that better but
+that's the main reason why we are we
+came to zero g and uh we can't wait for
+zero g to go mainet live so that we can
+migrate our entire model on chain
+I'll tell you like uh one of the biggest
+win for us uh which is not announced yet
+is that uh we have partnered with a US
+licensed MSB and uh we will be able to
+now do like a direct on ramp in US. So
+we don't have to depend you know on like
+a third party to wait for our clients to
+do on ramp and then we settle in India.
+So that end to end flow will enable us
+to work with a lot of other neo banks
+which are not already working with
+stable coins because then the stable
+coin experience becomes abstracted for
+them. Uh they just transfer USD to the
+FBO accounts and you know we take it
+from there. So that's uh that's going to
+be you know the biggest uh milestone
+achievement for us and uh we should be
+live with this uh by uh end of uh next
+month and u uh after that like I would
+say enabling Canada to India market
+because there are a lot of Indians
+living in Canada who do not have access
+to any stable coinbased you know uh
+remittances and it's not you know it's
+not just for fun but uh if you see for
+example if you're sending a dollar from
+US to India the FX rate that you get is
+85 rupees or 86 rupees for a dollar. Uh
+but if you send it to credible you get
+90 rupees. So it's massive difference
+and the same thing like you know we are
+also enabling importers from uh you know
+who are importing from China to India.
+We are talking to a group called Trinity
+which is based out of Shenzhen and uh
+these guys are you know they're a group
+of merchant like a group of 5,000
+merchants who are ready to enable PNPL
+facility to the Indian importers and we
+are underwriting that risk and uh that's
+also a massive use case. Now China does
+not directly support stable coins. Uh so
+that's where you know like we have
+another MAS regulated Singaporean entity
+uh which will help us uh move the money
+from India to China and from India to
+Singapore and Singapore to China. So
+that's how you know like we are setting
+up that rail and we are pretty excited
+about it because it's a pure trade
+finance use case but with short-term
+credit and we already managed to onboard
+the merchant where there will be like 0%
+interest rate for the importer and the
+merchant will pay us in commissions. uh
+so that way you know like we cover the
+cost of capital so that will be the next
+big milestone for us. So I think these
+two itself are huge milestones for us uh
+to grow the business like right now like
+uh I mean in just last 30 days we have
+done $20 million in volume and this
+month we are already projecting to do
+$30 million and once we open the US we
+will be doing like over $und00 million a
+month. So that's where you know like our
+focus is
+I'll tell you like uh a lot of uh uh
+grinding happened uh for PMF because uh
+first we were trying to build what is
+trending then we were trying to build
+what the VCs want then we were like okay
+chuck it let's just build what the you
+know what the demand is where we have
+the customer and that really works. So
+we just build what the market wants.
+Don't build what is trending. Don't
+build what is you know the hype or what
+the VCs want to listen right now. Like
+uh if you have good numbers the VCs will
+come to you. Right now from frankly like
+we are in a position where like 4 months
+ago we were running doortodo to find
+investment. Uh you know that as well
+right and uh in today's date we are cash
+flow positive. We are even thinking if
+we really need to raise uh probably
+we'll raise some debt but not like a
+proper VC round. Uh and uh we came to
+this position only because we found a
+good PMF and that build a lot of
+confidence in you as a founder as well.
+So I think that's uh the most important
+learning we had.
+[Music]
