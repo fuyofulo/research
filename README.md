@@ -43,3 +43,29 @@ research/
 | File | Topic | Date |
 |------|-------|------|
 | [companies/credible-finance/deep_dive.md](./companies/credible-finance/deep_dive.md) | B2B stablecoin payment-orchestrator. Founders, funding, customers, tech stack, business model, compliance. **Cash-flow positive.** | 2026-04-27 |
+
+---
+
+## Key takeaways so far
+
+**AI × crypto landscape:**
+- ~919 tracked AI-crypto projects, ~\$22-26B combined mcap
+- ~40% of crypto VC went to AI-adjacent in 2025 (vs 18% in 2024)
+- Real plumbing: DePIN GPU, agent payments, prediction markets, decentralized training
+- Mostly narrative: AI agent launchpads (Virtuals, ai16z deflated), tokenized AI agents, most ZKML
+
+**Agent payments reality check:**
+- x402 has \$50M cumulative volume but real organic daily volume is ~\$14K
+- Stripe quietly owns the entire stack post-Privy acquisition
+- Card networks positioned to win consumer agentic commerce — they own dispute/chargeback infra
+- Compliance is the wall: banks can't open accounts for AI agents
+- Catena Labs is the dark horse — Sean Neville (USDC inventor) building a regulated AI-native FI
+
+---
+
+## File conventions
+
+- Filenames are content-descriptive, kebab- or snake-case, no numeric prefixes
+- Each `.md` is dated and self-contained — can be read standalone
+- Sources linked inline; full source list at bottom of each file
+- Founder/insider video transcripts saved as `.txt` next to the deep dive that uses them
