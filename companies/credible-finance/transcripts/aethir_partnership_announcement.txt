@@ -1,0 +1,79 @@
+[Music]
+Ether and Credible introduced the PIN
+powered credit card. The move is
+designed to give Ether's native ADH
+token holders and node operators access
+to stable coin credit without
+liquidating their tokens. Ether, a
+decentralized GPU cloud network, teamed
+up with credible finance, a lending
+protocol, to introduce what they say is
+the first credit card and loan product
+powered by a decentralized physical
+infrastructure network, Depin. The move
+is designed to give Ether's native ADH
+token holders and node operators access
+to stable coin credit without
+liquidating their tokens, a step toward
+blending onchain infrastructure with
+real world financial capital. The
+product, which debuted on Wednesday,
+lets eligible users collateralize their
+ADH tokens to access a revolving credit
+line or preload a no fee card with ADH
+or stable coins on Salana. Loan
+approvals and limits are determined by
+Credible's AIdriven credit engine, which
+evaluates a user's onchain activity,
+asset holdings, and transaction history.
+Depin projects leverage blockchain
+incentives to crowdsource the
+development of real world
+infrastructure. In Ether's case, node
+operators contribute computing power and
+earn ADH in return. These rewards are
+based on factors like uptime,
+performance, and job completion,
+effectively turning physical
+infrastructure into onchain income. The
+launch of the credit card comes as
+crypto borrowing slides. According to
+the team, decentralized lending platform
+saw $4.75 billion decline in open loans
+in the first quarter, the biggest
+quarterly contraction since 2023. At the
+same time, the global credit gap for
+small and medium-sized businesses in
+emerging markets stands at $5.7
+trillion. This downturn underscores the
+limitations of overcolateralized lending
+models and highlights the need for
+credit systems that reflect real onchain
+activity and infrastructure ownership.
+The team wrote a release shared with
+CoinDesk. This is the first depinative
+token being activated for real-time
+credit said Shriant Bolero CEO of
+credible finance. In the release, we're
+turning tokenized infrastructure into
+usable financial capital. The team wrote
+that credit card access will initially
+be available to their GPU providers.
+Node operators and token holders with
+plans to expand later. Read more.
+Ether's Mark Ryden decentralizing AI
+computing. Margo is Coindesk's tech and
+protocols reporter where she focuses
+mostly on the Ethereum and Salana
+ecosystems. a graduate of John's Hopkins
+and Emory Universities, she has a
+master's in international affairs and
+economics. She holds BTC and ETH above
+Coindesk's disclosure threshold of
+$1,000. AI boost indicates a generative
+text tool, typically an AI chatbot,
+contributed to the article. In each and
+every case, the article was edited, fact
+checked, and published by a human. Read
+more about Coindesk's AI policy.
+[Music]
