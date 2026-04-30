@@ -14,17 +14,16 @@ research/
 │       ├── solutions.md
 │       └── compliance.md
 ├── companies/                                → Per-company deep dives
-│   └── credible-finance/
+│   ├── credible-finance/
+│   │   ├── deep_dive.md
+│   │   ├── how_to_build.md
+│   │   ├── liquidity_architecture.md
+│   │   └── transcripts/
+│   └── blockworks/
 │       ├── deep_dive.md
 │       └── transcripts/
 └── plans/                                    → Strategic plans (separate from research)
 ```
-
-**Conventions:**
-- `markets/` for cross-cutting research on a category, vertical, or problem space
-- `companies/` for deep dives on individual companies; transcripts kept inside the company folder
-- New verticals get their own subfolder under `markets/`
-- New companies get a kebab-case subfolder under `companies/`
 
 ---
 
@@ -42,30 +41,18 @@ research/
 
 | File | Topic | Date |
 |------|-------|------|
-| [companies/credible-finance/deep_dive.md](./companies/credible-finance/deep_dive.md) | B2B stablecoin payment-orchestrator. Founders, funding, customers, tech stack, business model, compliance. **Cash-flow positive.** | 2026-04-27 |
+| [companies/credible-finance/deep_dive.md](./companies/credible-finance/deep_dive.md) | B2B stablecoin payment-orchestrator. Founders, funding, customers, tech stack, business model, compliance. **Cash-flow positive.** *(See `liquidity_architecture.md` for major architecture corrections.)* | 2026-04-27 |
+| [companies/credible-finance/how_to_build.md](./companies/credible-finance/how_to_build.md) | Linear playbook to build Credible from scratch — phases, dependencies, vendors, costs, hiring, marketing. Year-1 cash needed: ~\$1–3.2M. | 2026-04-29 |
+| [companies/credible-finance/liquidity_architecture.md](./companies/credible-finance/liquidity_architecture.md) | **Liquidity & tech deep dive.** PayFi Vault is on Hedera via Byzanlink (not Solana), ERC-4626/7540, ~16% est APY. Multi-chain: Hedera (live), Solana (Aethir), Plume (roadmap). Co-lending model with named TradFi partners. Founder's real product is Credible Score, not payments. | 2026-04-30 |
+| [companies/blockworks/deep_dive.md](./companies/blockworks/deep_dive.md) | Crypto media/research/events. Founders Yanowitz + Ippolito. Bootstrapped 6yr → \$12M Series A 2023 → ~\$30M revenue 2025. Killed news division Oct 2025, pivoted to data + Lightspeed IR. | 2026-04-29 |
 
 ---
 
 ## Key takeaways so far
 
-**AI × crypto landscape:**
-- ~919 tracked AI-crypto projects, ~\$22-26B combined mcap
-- ~40% of crypto VC went to AI-adjacent in 2025 (vs 18% in 2024)
-- Real plumbing: DePIN GPU, agent payments, prediction markets, decentralized training
-- Mostly narrative: AI agent launchpads (Virtuals, ai16z deflated), tokenized AI agents, most ZKML
-
-**Agent payments reality check:**
-- x402 has \$50M cumulative volume but real organic daily volume is ~\$14K
-- Stripe quietly owns the entire stack post-Privy acquisition
-- Card networks positioned to win consumer agentic commerce — they own dispute/chargeback infra
-- Compliance is the wall: banks can't open accounts for AI agents
-- Catena Labs is the dark horse — Sean Neville (USDC inventor) building a regulated AI-native FI
-
----
-
-## File conventions
-
-- Filenames are content-descriptive, kebab- or snake-case, no numeric prefixes
-- Each `.md` is dated and self-contained — can be read standalone
-- Sources linked inline; full source list at bottom of each file
-- Founder/insider video transcripts saved as `.txt` next to the deep dive that uses them
+**Credible Finance — quick read:**
+- Real B2B stablecoin payment-orchestrator, NOT a Solana protocol despite branding ("Web 2.5" — DeFi for credit pool only, off-chain for settlements)
+- Founder Shrikant Bhalerao: 14 years fintech, healthcare-financing exit in 2023, RBI NBFC director — senior operator
+- **Cash-flow positive** at ~\$20M/month volume; \$60M+ processed in 11 months with **zero defaults**
+- Real moat = ~4–5% better FX vs Wise/Remitly, enabled by USDC credit pool eliminating ACH pre-funding
+- 16% fixed APY for USDC/USDT depositors funding the credit pool — rare "real-yield" stablecoin source
