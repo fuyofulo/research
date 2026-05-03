@@ -1,6 +1,6 @@
 # AI × Crypto Research
 
-Ongoing research into problems in the AI space that crypto/blockchain can solve. Bias toward niche, under-explored problems over rehashed top-down theses.
+just researching so that I understand the ai and crypto space deeper.
 
 ---
 
