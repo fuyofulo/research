@@ -36,8 +36,6 @@ research/
 │       ├── developer_experience.md
 │       ├── product_evolution.md
 │       └── transcripts/
-└── plans/                                    → Strategic plans (separate from research)
-    └── pitch_and_raise_plan.md
 ```
 
 **Conventions:**
@@ -80,12 +78,6 @@ research/
 | [companies/bridge/use_cases_and_examples.md](./companies/bridge/use_cases_and_examples.md) | **Concrete customer walkthroughs (16 named).** End-user flow for each, with money path, Bridge products used, costs. Tier 1: DolarApp/ARQ ($3 flat US→MX), Felix Pago (**$2.99/tx, 40% reduction**), Phantom CASH (Visa swipe burns CASH on-chain), SpaceX Starlink emerging-market collect, Airtm Stellar payouts ($1.2B 2024 vol), Cenoa (**0.99% total** Turkey freelancer fee), Coinbase (USDT-Tron↔USDC-Base routing), MetaMask mUSD (M0 protocol), Hyperliquid USDH, Sui USDsui. Tier 2: DoorDash on Tempo, Payoneer Q2'26, Slash USDSL ($1B annualized vol), Dakota DKUSD (**shipped in <1 day**, 55% AUM migrated). Tier 3 inferred: Nigerian YouTube/ChatGPT subscription via Stripe-Bridge stablecoin checkout. **Open Issuance interop = 1:1 atomic swap** between CASH↔mUSD↔USDsui↔USDH↔DKUSD. Strike–Bridge integration debunked. | 2026-05-03 |
 | [companies/bridge/developer_experience.md](./companies/bridge/developer_experience.md) | **Bridge DX, pricing, and the API surface.** KYB same-business-day. Sandbox is hobbled: webhooks don't fire, Wallets/Issuance only work in production, Plaid disabled. **No official SDKs** in any language; only one community MCP server. **Pricing has no public rate card** — only Bridge's legal Fee Disclosure mentions "≤1% FX spread." Stripe Stablecoin Financial Accounts charges flat **1.5% per stablecoin payment**. Slash built MVP in **2 weeks**, hit $1B annualized; Cenoa under 1 month. 10 documented gotchas (memo-required Stellar/Tron, minimums-after-dev-fees, idempotency 24h window with 422 after expiry, Prefunded Accounts deprecated Mar 24 2026). Verbatim Transfer curl + endpoint inventory. **Verdict: Bridge is the least price-transparent stablecoin-infra vendor — Brale/Crossmint/Routefusion all publish more.** | 2026-05-03 |
 | [companies/bridge/product_evolution.md](./companies/bridge/product_evolution.md) | **Quarter-by-quarter changelog 2022→May 2026.** Founded March 2022, **first idea was bank-to-NFT acquisition** (pivoted in May 2022). Two-pillar Orchestration+Issuance pitch crystallized by March 2023 (Wayback). $40M Series A March 2024 at ~$200M (5.5× to Stripe price). Stripe deal Feb 4 2025. Then in 13 months: USDB May 2025, Tron in-house infra May 2025, Visa cards Apr 2025, Privy June 2025 (kept independent), Open Issuance Sept 2025 with Phantom CASH headline, OCC charter applied Oct 2025, Tempo announced Sept 2025, **OCC conditional approval Feb 12, 2026**, Tempo GA on Bridge Mar 27 2026. Sessions 2026: Machine Payments Protocol + Universal Commerce Protocol w/ Google. **Chain order**: ETH → Polygon → Solana → Stellar → Base → Arbitrum → OP → Avalanche → Tron → Plasma → Celo → Tempo → HyperEVM → Sui → Aptos. **Fiat rail order**: USD ACH/Wire → SEPA → MXN SPEI (Apr 25) → BRL Pix (Nov 25) → GBP FPS (Mar 26). Strategic-decision analysis (why USDB before Open Issuance, why OCC charter when, why Privy stays independent). | 2026-05-03 |
-
-### Plans
-
-| File | Topic | Date |
-|------|-------|------|
-| [plans/pitch_and_raise_plan.md](./plans/pitch_and_raise_plan.md) | **Pitch & raise capital for a Solana cross-border stablecoin payments neobank.** 6-week sequenced plan: skip YC May 4 + Colosseum Spring May 11; target StableHacks May 28 + Outlier Base Camp + Stellar grant + Colosseum Fall. Decision points, critical artifacts, top failure modes, India-specific considerations. Builds on Credible's documented playbook. | 2026-05-02 |
 
 ---
 
