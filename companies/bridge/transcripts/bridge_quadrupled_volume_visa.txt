@@ -1,0 +1,1376 @@
+Today's guest is Zach Abrams, the
+co-founder and CEO of Bridge, a
+stablecoin infrastructure platform that
+was acquired by Stripe in early 2025.
+Prior to starting Bridge, he served as
+chief product officer at Brex, head of
+consumer at Coinbase, and GM at Square.
+Zach, welcome to the show.
+>> Very excited to be here. Thank you all
+for having me. Welcome.
+>> Quite the resume. It didn't quite the
+resume. I was about to say that.
+>> Can I Can I ask which one was your
+favorite aside from Bridge?
+>> Uh yeah, I was gonna say it was like you
+kind of made it easy if you if you let
+me pick if you let me pick bridge. I I
+would say my favorite it's you know it's
+like which of your children is the
+favorite or something maybe? you know,
+but but probably the the the
+most fun was Square uh because it was
+2011
+and tech had not really, you know, uh
+been professionalized.
+And so it was just a bunch of nerds
+trying to figure out how to play, you
+know, cosplay as business people. And
+um it was it was fun as we were all
+trying to like navigate it together.
+>> Was that early cash app days then
+>> or it was before Cash App. uh we we
+basic when we joined it was like maybe
+like 250
+300 people and then 6 months or a year
+later cash app the email version of cash
+app you know if you're sort of
+intimately familiar with the cash app
+journey the email cash you know
+something at cashme or whatever to send
+20 bucks.
+>> Mhm. Yeah.
+>> All right. So you're uniquely placed
+then to answer our first question which
+we always ask our guests when they come
+on the show, Zach, and that is what does
+crypto in America mean to you?
+>> Oh, um
+I think of
+the
+um I I love the like American
+uh the the the free and very competitive
+markets that exist in the US. I think it
+is, you know, during my working career,
+so like the last like 15 years or so,
+we've just seen like amazing startups
+and businesses come along to fill gaps
+that incumbents were not serving and
+entire markets turn over. And um I think
+crypto has the same opportunity. And I
+think our country and this market are
+uniquely well suited to create the
+playing field where crypto can uh grow
+into whatever it becomes. Uh and I think
+we're certainly seeing that with with
+stable coins.
+>> Yeah, Zach, this kind of ties into
+something else we want to start with
+like on a bigger picture level. If you
+could kind of think back to a little
+over a year ago when Stripe acquired
+Bridge, this was pre Genius Act era
+passing. Um, and while stable coins
+were, you know, getting attention, they
+were growing, it wasn't as much of a hot
+topic as it it is today. What do you
+think, you know, they saw on the the
+walls back then, the writing on the
+walls, so to speak, in 2024 when Stripe
+first maybe reached out to you, if it
+was that year? Um, and then kind of fast
+forwarding to today, like how do you
+kind of see that need and demand for
+stable coin infrastructure actually
+changing? And we could go into more, but
+let's say let's go rewind and where we
+are.
+Yeah, I mean I think that
+um
+now in hindsight I can probably you know
+have a little more certainty on this is
+I think that uh John and Patrick have
+seen a bunch of their own but also many
+other businesses really um succeed as
+you know they have been you building
+Stripe over the last you know I don't
+know how many years it's been and you
+know a couple things kind of come
+together for businesses that that really
+start to work. One is that that it makes
+sense. Um you know there is like uh it's
+clearly especially in the financial
+services space it's like logical
+why uh you can in a very durable way
+deliver value differently or better or
+more efficiently than otherwise existed.
+And then two is um you see and this is
+kind of like a wonky thing to say but
+you start to see the cohorts of the
+business thriving and you know you think
+about the o early cohorts of Stripe it
+was you know the Instacarts and Airbnbs
+and so on. You saw these businesses that
+were building around Stripe really start
+to scale. And the same thing was
+starting to happen with with Bridge
+where not only did it make sense, but
+the businesses that were building on top
+of our APIs were really starting to
+work. And that was like the dollar apps
+of the world and the Bitzos of the world
+and so on. They're the products they
+were building with our APIs were uh
+scaling and growing 10% a month or 20% a
+month. And if you have both of those
+things, you know, a business that makes
+sense selling into a group of customers
+that are, you know, solving use cases
+that are scaling quickly, I think things
+tend to tend to work out. Um, yeah.
+Yeah. So, Zach, you you've had a lot of
+experience in uh fintech or or
+traditional finance. It's obviously a
+great resume for a Duke alum as we were
+discussing before
+>> before we started getting off the show.
+>> Go heels. Okay.
+>> But I am um I'm I'm curious uh just on
+the idea that a lot of people are
+discussing now with stable coins
+replacing traditional finance rails.
+You've had a lot of experience with I'll
+just call it like the jankiness of a and
+wire payments and and all that kind of
+traditional infrastructure. Um, we're
+seeing a lot of adoption in the stable
+coin space now and and obviously Genius
+was a big part of that and we'll get
+into that, but what was the moment for
+you where you thought stables are
+actually going to replace a lot of these
+traditional mechanisms like as
+settlement for the movement of money? I
+would I would say it's common like wave
+well I I guess it's come in waves but I
+had like when we started the company I
+had this like highlevel conviction that
+this would happen but I did I but I had
+very little to no lowlevel conviction
+around how it would happen if if that
+makes sense. Uh we we you know Sean and
+I believed that this was just coming
+back to the point on fintech is that
+this was just a way that enabled you to
+move value and build uh money products
+in a way that was way more economical to
+serve a bigger audience than you could
+otherwise uh and to enable transactions
+to happen at a speed that wasn't
+possible before. And so we we believed
+that this like transition would occur
+because over the arc of time you know
+money products tend to you know find
+their way towards the most efficient uh
+set of you know uh outcomes that that
+they could exist. Um but when we were
+building our APIs I actually had no idea
+who was going to use them like none. And
+so we, you know, kind of just like
+blindly built our APIs and we had a
+couple customers and
+um those first customers that we built
+with that we like went out and we
+selected we were like these are going to
+be the use cases that are going to work.
+Um they all quickly failed or went out
+of business. And um you know we started
+I I started posting on Twitter like you
+know we have these APIs you know and we
+would get like two or three customers
+come to our website and and check us out
+and they would come and use the APIs and
+then through them we would discover how
+these things were how how these APIs
+would be would be useful how folks
+wanted to use stable coins and most of
+the use cases were outside the US and so
+we grew uh for our first year mostly in
+Latam and then in and then in Africa um
+and then in Europe and that now
+increasingly in the US and all of that
+kind of those the accumulation of those
+use cases is now how I've sort of you
+know built up towards the conviction
+that we that that we started with and
+it's like clear now you know that if
+folks want to expand internationally
+stable coins are going to be our really
+you know uh uh materially improved
+infrastructure on top of which you can
+build these these international
+experiences and we see this with folks
+like Chippercach building stuff across
+Africa and Dollar across um across
+Latam. If you want to move money at like
+an incrementality and a velocity that is
+um that is uh not really feasible today
+with fiat money and we see that with
+like scale.ai paying out folks who are
+doing data labeling in really small
+increments all all around the world. We
+see this with international payments and
+increasingly now we start to see it as
+like banks start to lean in and so on,
+but like the whole financial ecosystem
+is this wild network effect. So, you
+know, you can't just plug right into the
+deepest areas of of of adoption. It kind
+of like slowly starts to turn. Um, and
+so I think over the next year we'll
+start to see, you know, many of like our
+core, you know, big global regulated
+financial institutions lean into stable
+coins and start to use them.
+>> Beck, you've been working on this since
+2022, right? Bridge, that's when you
+started it.
+>> Yep.
+>> Yeah. So, I mean, something I've been
+thinking about is like the American
+founder journey. It's been unique um but
+maybe collectively painful for a number
+of years until more recently. And I
+would imagine um and maybe we would love
+to just get your take on this is like
+what it was really like building from
+2022 to now and then you know you're
+talking about all these different
+regional aspects of like going into
+these different pockets. Um was there
+ever a thought in your mind of like
+leaving the US and going to these
+countries um and kind of like moving
+that talent and like mind share
+offshore?
+>> Yeah, I mean we um so how was the
+journey? It was um pretty pretty rough
+for the first year. Uh we we
+basically, you know, we started in 2022,
+then the world fell apart, then Teral
+Luna blew up and then, you know, we
+picked up the pieces and then FDX
+happened and we picked up the pieces and
+then SVB happened and we picked up the
+pieces. I mean, it was really it was
+really rough there for a long period of
+time and and people really just did not
+um believe that there was anything that
+was going to happen in this space. I
+mean uh our our business isn't really
+tied to crypto prices in any capacity
+but the prices the crypto prices sort of
+impact sentiment uh around the space
+generally and Bitcoin was like super
+depressed and ETH and so I mean it was
+it was it was tough and so uh there was
+very few external indicators around like
+you know the the we were doing something
+that was that was worthwhile And midway
+through that journey, I actually moved
+to London.
+And so to
+to sort of you know to your question
+like I I I I you know the rest of the
+team was still in the US but I moved to
+>> I moved to London and I was there for
+you know 10 months or 12 months
+>> and um I actually found it very a very
+hard environment to be in um because you
+know in the US there's just this amazing
+community of other people who are
+starting what seem to be impossible
+businesses and are blindly optimistic
+around what can happen and there's a
+community of other folks who have built
+businesses or who invest in businesses
+um or who just encourage
+entrepreneurship and in London it was
+just very isolating um I would meet
+other founders at like events but the
+founders would be wildly dispersed you
+know it'd be like someone who's working
+on a robotics company in Germany and
+someone else who's you know working on a
+startup in France and so you couldn't
+really be friends with them uh cuz we
+were so far so far so far apart um so
+when when we came back to the US I think
+it or when I came back to the US and we
+opened up our office in San Francisco it
+really felt like our business started to
+accelerate and some of it was like the
+business actually was accelerating but
+it but other part another big part of it
+was that you know that the energy and
+the um encouragement and the ambition
+that you get from being back here. We
+never we we've never thought about sort
+of moving folks all across um all across
+uh uh you know the world, but but I did
+I love April Fool's jokes and um for our
+second year like when the business was
+like actually starting to work, I like
+sent this note to the company. We were
+maybe like 15 people and I sent this
+note to the company that was like, "Hey,
+you know, our business is really
+starting to scale." And we had just
+raised this round from Sequoia and we
+had our board meeting with Sequoia and
+they told us that like the most
+important thing we could do is be like
+customer obsessed and you know really be
+dedicated to um to you know the success
+of all of our businesses and the be and
+and the builders who are who are
+creating you know their businesses on
+top of our APIs. And so what we're going
+to do is whenever we launch a new
+customer, we're going to send people to
+pair with them um and um and and embed
+with their teams. And you know, we we
+just had a team who is um building with
+us like near the Arctic Circle. And so
+Leo, we're going to send you there. And
+we have another person who's building
+with us, you know, in you know, this
+other country and this other country.
+And you know, I know some of these
+countries are really dangerous. So like
+Sequoa's helped us with security and so
+we're going to send everybody there.
+>> And we sent this whole thing
+>> to the company. And then um and then and
+then uh and then people started
+responding. They were like, "Oh my gosh,
+I'm so excited."
+>> Oh no.
+>> And it like totally backfire, you know,
+and then it was like, "Okay, by around
+noon, I was like, "Okay, everyone," we
+were like, "Just kidding." Like come on.
+>> Go back to your desk. Yeah.
+>> Yeah.
+>> Quit packing.
+>> Actually, on April Fool's Day, did
+anybody was anyone like, "Is this an
+April Fool's Day?"
+>> No.
+>> You had You had people searching for
+like visa requirements for
+>> long.
+>> That's amazing.
+>> I want to ask you about something I
+wrote about for the newsletter, which
+was Stripe's annual letter. uh they put
+a huge spotlight on stable coins this
+year and the role that they're going to
+play in the future of payments. I also
+noticed that bridge saw a stablecoin
+payment volume basically quadruple in
+2025. Your business quadrupled. I mean
+that's I mean that's wild.
+>> What do you actually credit that to? I
+mean what are you seeing inside um
+Bridge that's making that you know
+making those numbers work? Aside from
+and I know Gerald mentioned the Genius
+Act. I think that was obviously the big
+sort of, you know, from a regulatory
+standpoint catalyst, but is there
+something sort of more deeper uh that
+you're seeing from your end that is sort
+of driving those numbers?
+>> Um, yeah, really really good question.
+We I mean maybe maybe the pathy answer
+is coming back to the thing before is
+like a product that makes sense and then
+cohorts that are that are really that
+are really good. But but the more
+concrete answer uh is that you know one
+I think last year we we closed the
+acquisition last year and
+um our announce you know the combination
+of our announcement and um and then the
+regulatory clarity that started to
+happen post Genius really pushed the
+whole space along the adoption curve and
+we could like very viscer viscerally
+feel right at the start of the year
+where you know before that those those
+two major events happened. We were it
+was a lot of startups and very early
+adopters and after that it began to be
+like midsize and even enterprise
+businesses who were coming in and and
+adopting these products and starting to
+deploy them across not like you know
+tens of users you know and hoping to
+grow but like tens of thousands or
+hundreds of thousands or millions of
+users and so that was a a really big
+accelerant. The second is that uh a
+bunch of the you know we massively
+expanded the the the number of products
+and ways in which we can support
+customers and that has similarly
+happened because of you know more of
+these large institutions are leaning
+into stable coins. So we first just had
+our stable coin orchestration products
+where you move money back and forth. We
+expanded into cards um with you know the
+help of Visa. We expanded into stable
+coin issuance, which was um really a a
+business that, you know, we thought
+should exist for a long time, but needed
+uh Genius Act to to sort of make that
+market, you know, big. Um and we
+expanded into FX products. And the
+combination of all of those things, you
+know, having more and bigger customers
+come in, expanding the number of
+products that we offered resulted in the
+business really starting to accelerate
+the rate at which we were compounding uh
+in in the last year.
+>> Hey, Crypto America listeners, are you
+interested in effortlessly growing your
+Bitcoin portfolio? I know I sure am, but
+we have good news for you. Gemini
+designed a product just for this. Meet
+the Gemini credit card, which offers
+instant Bitcoin rewards on your daily
+purchases. This Mastercard World Elite
+product has no annual fee and no
+exchange fees to acquire your Bitcoin
+rewards. It's that simple. The magic of
+the card doesn't stop at the rewards.
+The card is a sleek metal design with
+token specific options including
+Bitcoin, XRP, and Salana. Head over to
+gemini.com/cia
+for more details and get started earning
+crypto back on every purchase with no
+annual fee. Of course, terms apply. See
+you there.
+>> Yeah. So, Zach, we kind of glossed over
+this giant thing that happened that you
+just alluded to, which is obviously the
+Stripe acquisition. Um, and it's, you
+know, congratulations on that. It sounds
+like you were talking uh to Stripe uh
+pre-genius, right? And so having those
+conversations, the Collison brothers are
+obviously sort of giants in the the
+payment space and uh of course like a
+you know it seemed like a match made in
+heaven looking back. But what were and
+they obviously didn't ask you to move to
+Ireland either so that that worked out.
+Um, but the what what was that
+conversation like for you when you were
+in those early days of discussion and
+and how did you guys get aligned on sort
+of the long-term uh application of like
+where payments infrastructure was going
+like what what were the the early
+discussions around that being such a
+good strategic fit from the Stripe side?
+I mean, I I think that
+it it all really stemmed from a um a a
+very, you know, deep conviction, you
+know, obviously on our side, but also it
+became very clear to me really quickly
+on their side in this space and in the
+opportunity for stable coins. I think
+that uh you know as we were going
+through this process, I had questions
+you know around their just conviction in
+how big or material this market could
+be. And you know my view was that stable
+coins were you know cards were this
+really big platform shift in the way
+money moved. Um, you know, before cards,
+money moved very differently and after
+cards, now money moves in in in,
+you know, a totally different way. And
+the next evolution of the way money can
+move or could move would be stable
+coins. And they similarly shared that
+shared that belief. And then I think
+that there was also this um this belief
+that you know like you know while our
+business had like proven a number of use
+cases that because this platform shift
+was going to come to be that there were
+going to be many more use cases in the
+future that were going to be created and
+and that you know the combination of
+Stripe's global reach the base at which
+it already serves and our ability to
+sort of pioneer these new markets. We
+could bring the two products together to
+really help accelerate the space. But it
+but it what it wasn't was like you know
+we're going to take this one product and
+that one product and move them together
+because um we just knew the market was
+so nent that uh the best thing that we
+could do is sort of together kind of
+push the market where it needs to be and
+follow where developers kind of show us
+the market um is going to be most
+impactful.
+Stripe I think is very consumerfacing
+Zach but stable coins I think for most
+people I guess we'd call them normies
+right people who don't cover the space
+like us and people who aren't as
+entrenched in it like you guys stable
+coins I think are still kind of a newer
+concept people are starting to
+understand them more but they're you
+know they're still relatively new I
+would say um have you seen adoption sort
+of happen seamlessly around them or have
+you had to engage in some consumer
+education when it comes to stable coins
+>> I I think that it it's been it's been I
+mean we have so so we don't serve in
+consumers or in businesses we serve
+developers but through them we've seen
+every variation of deploying stable
+coins to your end consumers that you
+could you could imagine so there is a
+team building on our APIs today called
+standard economics
+they're growing super quickly great team
+and they're building neo bankanking
+products for underserved populations in
+emerging markets starting in um starting
+in Mexico and then just launched in the
+Philippines. Their product shows you the
+entire app app experience is in Mexican
+pesos, but all of the ledgering and all
+the infrastructure under the hood is in
+stable coins and US dollar stable coins.
+So, you know, you might open the app one
+day and see, you know, 500 pesos and
+then the next day see 500.01
+or, you know, 500 499, what have you.
+Um, and so in their case, they're like
+totally removing the stable coin and
+creating this like bit of confusion at
+the top because they think that their
+customers don't want stable coins at
+all. And in other cases, we've seen
+folks roll out stable coins where they
+have a US dollar on the far other
+extreme where they have a US dollar
+balance in their app and then they have
+a stable coin balance in their in their
+app. And you can move between the two
+for whatever reason one might want. And
+I think what we've seen be the most
+successful are those who um I I don't
+think many consumers or many businesses
+like proactively want a stable coin. I
+think they just want a better dollar or
+they want whatever financial service
+folks are building for them. And so I
+think the folks who skew more towards
+the standard economics type model where
+they're just focused on their users and
+what their users want, which is very
+rarely to understand the intricacies of
+like the underlying technology or the
+ledgering system or what have you, um,
+the more successful the product ends up
+becoming.
+>> Yeah, Zach, that that makes a lot of
+sense. I I have to get your thoughts in
+terms of building for developers as the
+as the customer. There's been a lot of
+energy over the last few months around
+Deentic Payments. X42 has become a big
+topic just in terms of engineering some
+of these seamless transactions of value
+and and especially with some of the
+smaller transactions you're talking
+about. I was wondering how you guys are
+building for that space and and sort of
+where you see it going. Like do you
+think it's it's largely just sort of
+like developers talking about
+theoretical things or or how do you see
+that playing out over the next few
+months? I mean I I think so I'm very
+optimistic about the space. It's also
+very early and so you know our business
+is one where we have kind of
+you know I I had no idea how our APIs
+would be used. You know we we kind of
+built this generic set of infrastructure
+and then we let developers kind of guide
+us through this forest. I I think the
+same thing will play out in this market.
+Um, and I feel very similar to this
+market as I did with like just generic
+stable coin APIs in 2022 in the sense
+that like really high level I believe
+this is going to be going to be true.
+Really low level we haven't seen a ton
+of the um, you know, scaled use cases
+that would indicate that it's clearly
+working, but we believe they're going to
+come. Um, that being said, I think like
+coming back to this cards, you know,
+stable coins platform shift analogy,
+cards had existed for a long time, but
+card adoption wildly accelerated with
+the internet. So, there was like a a
+massive platform change that happened
+sort of globally that accelerated a
+payments platform change. And as cards
+were just uniquely well suited for the
+internet and as card adoption
+accelerated on the internet so did card
+adoption in store and you know we've
+created this cycle where you know many
+payments kind of exist in card form now
+but but when card started they were not
+necessarily like you know replacing cash
+early on. It was like the internet which
+was like a net new use case that cash
+and what have you could not serve that
+that drove adoption. I think for stable
+coins and AI the same dynamic can can
+play out where the identity and
+incrementality and velocity benefits of
+stable coins make them very well suited
+for a lot of agentic use cases that
+folks are are considering. And so as a
+result, I think a lot of money movement,
+new money experiences will be created
+with stable coins in this agentic world.
+And it's not going to like replace the
+card market or what have you. It's going
+to just be a whole new market of
+economic economic activity. And one
+thing that we're experimenting with
+there is um the machine payments APIs
+which we recently rolled out uh where
+you know any website can put using
+some of these open protocols can gate
+their APIs and charge fractions of a
+cent for access to any of the
+information on their on their on their
+website. And personally I really hope
+these things exist because what is
+happening on the internet is the you
+know the consumer is getting
+disintermediated from the website and by
+you know these chat interfaces and it
+breaks the current economic model of
+most of the internet. And if we don't
+find a way of solving it then there's
+just going to be far less ways in which
+folks can make a living uh and build the
+businesses they want to build on the
+internet. Um, so you know, I hope this I
+hope this works and there's going to be
+many other experiments that we'll that
+we'll work that we'll sort of push
+forward and we hope that other
+developers build with us.
+>> Zach, this also ties in well into
+Bridg's announcement from this week with
+the partnership with Visa. uh can you
+kind of walk us through like what this
+really entails and like are we kind of
+seeing stable coins to the point that
+you're talking about like similar to the
+evolution of cards and everything but
+for stable coins are they getting
+plugged into the existing like global
+rails there on the cards front or is it
+kind of something different happening
+under the hood? Yeah, I mean I think
+this is um a great example of where
+stable coins and cards are very are very
+complimentary because this is this is
+sort of trying to use stable coins to
+make it easier for folks to um uh to to
+you know adopt a behavior or continue a
+behavior that already exists which is
+just like buying you know buying jackets
+and clothes and subscriptions and and so
+on. And the big unlock here is that, you
+know, really before stable coins, you
+every country had their own file format
+for money. So in the US, the file format
+was a US dollar and in Europe it's a
+euro. And in order to to store those
+files, you needed a European bank
+account and a US bank account and so on.
+And and then the card sat on top of
+those those different file formats. So
+if someone in the US wanted a card, you
+would have to get a US bank and settle
+in that US file format. And in Mexico,
+you know, Mexican bank and settle. And
+it made it very challenging for folks to
+expand card products internationally.
+And because it was just very expensive,
+you had to rebuild that entire stack in
+every single in every single country.
+And the net result of that is that folks
+kind of just picked the biggest
+countries and the wealthiest countries
+to serve and the rest of the world just
+didn't
+you know just missed out because there
+wasn't a way to serve those markets in a
+means that was economical because the
+fixed cost of serving that market was
+the same no matter how big the market
+is. Uh and stable coins represent the
+first universal file for format for
+money. And so, you know, in partnership
+with Visa, we can now build a card
+program on top of this file format
+because a consumer or or a business in
+Europe or the US or Mexico or Argentina
+or the Philippines or whatever can hold
+this this file format and then we can
+create a card program that's truly
+global. And so folks can integrate with
+our APIs. They can stand up a card
+program that serves consumers. By the
+end of the year, we're targeting in a
+hundred different countries um all at
+once. And we're very excited about it
+because it will give uh developers the
+chance to build products to serve a ton
+of markets that have just been
+overlooked and a lot of consumers are
+going to get access to first class
+financial experiences that you know
+haven't been able to make it way to
+their to their country. So you kind of
+see this then like as an evolution of
+everything is kind of moving towards a
+world where stable coins become the core
+payment layer opposed to card
+transaction settling and fiat as we like
+to call it.
+>> Yeah. I mean we're we're going to be in
+in this instance, you know, we're going
+to be settling to Visa directly with
+stable coins. Uh and so you know I I
+think over time almost all money will
+move into this file format and there
+will be the US dollar type and the euro
+type and what have you. But but but
+because it's all the same file format
+you you don't need a different bank
+account to store all of them. Your bank
+account can just be a wallet and then
+Visa, Mastercard, so on will all accept
+these as um settlement currencies and
+they will pay those out. And so for this
+card use case where a consumer is paying
+online buying a one-off good or service,
+the card will be adopted and the stable
+coins will serve as uh purely as
+infrastructure.
+>> So Zach, I I'm on that point. This is a
+very interesting application like
+obviously Coinbase issued a card that
+ties directly back in your wallet,
+Settlest Stables. Do you think we're
+going to see more card issuers come
+directly out of wallets or or how do you
+see that evolving? Yeah, I I mean I
+think what we very clearly see right now
+is this kind of convergence of two
+worlds where on one side you had the
+traditional FinTechs
+and they had been building, you know,
+these like verticalized bits of
+infrastructure in these different
+countries or maybe they were just in one
+country and wildly successful like a new
+bank or what have you. Um or on the
+other end of the spectrum is like a
+Revolute which has built this in a bunch
+of different countries and on the other
+end of the spectrum you have you know
+your crypto companies like your Phantom
+and you know your MetaMask and Coinbase
+and so on. And um they are both you know
+effectively like converging and and
+beginning to compete in the middle as
+these traditional fintexs use stable
+coins uh and crypto generally you know
+tokenized stocks and all these other you
+know uh blockchain based assets to um
+expand internationally and better serve
+their customers. And then on the other
+end is the crypto companies. They are
+able to as infrastructure like ours
+exists, they're able to offer more
+traditional like services, you know,
+cards, bank accounts, and so on, but all
+on crypto rails. And so in the end,
+consumers are going to have this choice
+where, you know, I think a lot of these
+products in the end will have um lean in
+to slightly different strengths or
+weaknesses, but have a lot of the same
+core functionality like the ability to
+store balances, the ability to to to,
+you know, generate interest on the
+balances that you're that you're
+holding, the ability to spend uh with a
+card, the ability to invest in stocks
+and, you know, crypto assets and and
+that sort of thing.
+Another thing that you guys have
+announced recently, feel like you guys
+are just rolling out things, right? You
+guys got into the conga line, as it
+were, of companies lining up to get an
+OC trust charter, which is all the rage
+right now. We talk about this a lot on
+the show, and most companies applying
+are, I would say, from what I've seen,
+fintech services, um, or payments
+companies. is, you know, you've seen
+Circle, Ripple, um, Coinbase, a whole
+bunch of others at this point, Revolute.
+Yep.
+>> Bridge is an infrastructure company. Um,
+so why did you guys decide to pursue a
+charter? Why was this the right sort of
+avenue for you guys to go down right
+now?
+>> Yeah, I mean, we are we we view the
+stable coin issuance market as very
+important and uh we think it will be
+very big. Um, you know, the stable coin
+market today is pretty concentrated in
+two assets. Um, and we we just think
+that in order for stable coins to serve
+all the use cases and be as big as we
+think they can be, uh, a new economic
+model needs to exist that enable folks
+to build with them and have more control
+and have more economic participation.
+And it's kind of like, you know, the
+existing assets, you could think of them
+as like the iPhone version. And we need
+kind of like the Android version to
+serve uh, you know, this long tail but
+very very big um, set of use cases. And
+um, we have been in the issuance
+business for a while. issued stable
+coins for you know Phantom and MetaMask
+and you know a bunch of others and we
+are very optimistic uh you know about
+where this will go. we start to see um
+many large enterprises coming to us to
+to issue stable coins. And in order for
+us to fully serve this market, we have
+to have um this regulatory entity
+because there is, you know, a hard cap
+on the number of assets that someone
+could issue without having a national
+trust bank which is at which is at 10
+billion. And so we view it as as a
+necessary component to build the
+business on one hand and on the other
+hand we also know that you know a lot of
+the folks who want to issue assets are
+increasingly going to be large
+enterprises and they're going to demand
+very strict regulatory oversight because
+this is they're going to be entrusting
+you know hundreds of millions or
+billions of dollars of assets with this
+entity. uh and they need to make sure
+that they're safeguarded and there's
+bankruptcy protections and this sort of
+thing.
+>> You said 10 billion, right?
+>> Yeah.
+>> Yeah.
+>> Yeah. So, on the notion of kind of
+regulatory clarity and where we are,
+obviously, we want to get your thoughts
+on some of these yield questions that
+are working their way through. That
+seems like a big part of of your
+business. But you were recently in DC um
+in in I guess my neck of the woods um
+meeting with policy makers. Um what was
+your overall impression coming out of
+those conversations?
+Um do you think that we're kind of
+gaining ground on the education front
+about how stable coins work with policy
+makers or you know is it is it clear now
+that we're talking about more payments
+infrastructure or do you still see this
+as like kind of a crypto issue that's
+getting lumped in with a lot of other
+sort of aspects of of uh clarity and
+market structure and policy?
+Yeah, I mean I I think that
+a couple of takeaways. So, um uh the the
+first is that
+you know most folks So, I guess the
+first is that you know we I I went it
+was like my first trip to DC since I was
+in high school. Um
+>> first adult trip. Yeah. Yeah.
+>> Yeah. Literally, I was um you know, we
+were we like I think it was like on
+Tuesday or so. I forget like when I
+went, but like on Monday or Tuesday,
+someone was like, "Okay, we should go
+and we should we should have some of
+these conversations." Like, "Okay,
+great." And then uh and then the next
+day I was I like mess like what do I
+need to wear to go there? And they were
+like, "Oh, you definitely need a suit."
+And so then I like go downstairs and I
+like literally only have a tuxedo, which
+I bought last year for my brother's
+wedding.
+That's amazing.
+>> And I was like, do I I was like sitting
+there debating whether I could just like
+wear that without a tie and I was like,
+oh no, that's this is a step brother's
+moment.
+>> Extremely formal. Yeah.
+>> Uh and so I like went to a department
+store, which I probably also haven't
+been to since high school, and like that
+night and bought a bought a tux or
+bought a bought a suit and I was like, I
+don't know anything about suits. just
+give me like what is in the middle
+and then they got it tailored and then
+the next morning I picked it up and flew
+off flew off to DC. Um the the first I
+was like really impressed with the
+people I met and and we met with a range
+of folks. I mean the clarity act is like
+very technical like it is tremendously
+technical. like I don't even understand
+all of what's going on and you know
+these folks are like dealing with
+clarity but then also dealing with like
+you know agriculture and like you know
+all sorts of stuff and so it was just
+very impressive that um we could have a
+substantive conversation about these
+issues uh in with with kind of all of
+the all the folks I was you know they
+understood you know the depth of the
+issues they had opinions they had
+clearly talked to a number of folks So
+on that front it was um very
+encouraging. On the other side it was
+kind of clear to us that a lot of folks
+viewed this as like Coinbase versus the
+banks. And you know it's that's
+certainly not the you know where we
+think the it it the the dynamic should
+be. And you know we this like yield
+issue is not just like you know Coinbase
+wanting to wanting to you know share
+rewards with their customers but it's
+critical for our business and enabling
+stable coins to be issued. It's critical
+just for the stable coin market
+generally like you know you have a um a
+large exchange like ICE or NY and folks
+post collateral on those exchanges which
+is in the form of dollars and they
+invest those dollars and generate yield
+and that is core to how those exchanges
+work. And so if you want stable coins to
+be able to be used on those exchanges,
+there needs to be a mechanism whereby
+rewards are paid back um to the to the
+exch to the to the depositors on those
+on those exchanges. The same thing is
+true with you know banks and other
+financial institutions using stable
+coins. Um, if you want to move stable
+coins between a bunch of different
+financial institutions, it's tough for
+the circle model or the tether model to
+be the right one where there are
+basically,
+you know, um, uh, unproductive assets
+whenever they're sitting on your on your
+balance sheet. So we just view this as
+like a very important uh issue that uh
+really enables developers and in
+consumers and businesses to access the
+economic benefits that come from this
+new payment platform. And the Coinbase
+issue is like one of those issues and
+one of those use cases. But we see
+thousands of them. And in order for this
+market to really proliferate, uh, we
+need the ability and they need the
+ability to access these economics and
+then the freedom to use them in whatever
+context makes sense to benefit their end
+consumers and businesses.
+>> Mhm. So right now the debate has
+narrowed significantly to take off yield
+from idle balances off the table and
+it's just kind of come down to this
+notion of paying out rewards on certain
+kinds of activities. How do you how do
+you see that as a solution?
+>> I mean I think it is like a very
+imperfect solution. I think in the range
+of outcomes maybe it's like in kind of
+like the least harmful situation but
+like coming back to your question of
+like where is crypto in America or what
+have you. I mean I think that you should
+allow the market to play out in
+consumers and businesses to be able to
+um you know elect where they want to how
+they want to you know what types of
+financial institutions or financial
+assets they want to use and engage with.
+And I think creating this like, you
+know strange
+you know, imbalance between
+um between, you know, uh a bank deposit
+and a stable coin and a money market.
+You know, it it really limits consumer
+choice.
+And you know, I think the, you know, in
+the end of the day, I mean, I think John
+and Patrick say this all the time, like
+businesses don't don't aren't
+disruptive. Um, you know, consumers are,
+you know, at at the end of the day, the
+disruptors, and we should enable them to
+make a choice on how they want to store
+and and hold their money. And, uh, if
+that is stable coins, that's great. Um
+and I think the the the regulation
+should permit uh this market to sort of
+you know move in whatever direction
+consumers and businesses uh find it most
+attractive to you know and and I'm like
+very hopeful that we will get there but
+um anyways where we are today is like
+kind of this weird middle ground where I
+think they're trying to make it such
+that both sides are okay but uh unhappy
+and maybe they're getting close to
+Do you see merit in the banking side's
+argument that if you know to your point
+just now consumers should be able to
+choose where they park their money,
+right? But if it is into a stable coin
+account that gives them high yield as
+opposed to a bank account, do you see
+the argument the bank that the banks are
+making as you know having merit that
+like there'll be this massive outflow of
+of uh deposits and that'll just create,
+you know, a knock-on effect and and
+really harm the overall financial
+system. I know that's sort of like the,
+you know, the the worst base case that
+the banks are saying right now, but I
+mean, is it something that you see, you
+know, has maybe some merit?
+>> Uh, not not really. I mean, consumers
+have had the ability to move money into
+money market funds and this sort of
+thing for a long period of time and that
+has not uh destroyed the US the US
+economy. Uh, and so I find that a tough
+argument to to believe. Um I I also find
+the other argument of like if if a
+stable coin issuer wants to act like a
+bank, it should be regulated like a
+bank. I also find that argument to be um
+very you know disingenuous because no
+stable coin issuer is seeking to lend
+money and you know issue mortgages and
+and so on. It's a very different type of
+um financial activity. Um and stable
+coin issuers like ourselves are are
+becoming banks but in a very narrow and
+very specific form where we you know
+basically just hold short duration
+treasuries.
+>> Zach as we talk about rewards yields
+this whole debate everything is there
+other use cases that you think are
+underdogs or people underestimating
+right now on this run with stable coins?
+I think that, you know, just maybe in
+general folks, um, uh, uh, you know, it
+it's hard to sort of, uh, assess slope
+and intercept. And so, right now, the
+intercept of stable coins is relatively
+low. I mean, I think we've like, you
+know, gone up materially over the last
+couple years, but but, you know, in
+terms of all global payment volume, it's
+still relatively low, but the slope is
+very, very high. And you know, we're
+seeing a lot of these use cases start to
+compound. We're seeing a lot of the
+folks who are building with us become
+really successful. We're seeing a lot of
+the bigger companies see the success of
+those smaller companies and want to
+replicate it. We're seeing banks and
+core financial institutions start to
+lean in. And as you know with anything
+that is like high slope you know the
+rate of compounding creates like very
+material changes over you know a two or
+three or 5 year period of time and so I
+think that most of our like core
+financial activity um can and should
+happen via tokenized rails and I think
+we will we will get there um but it's
+just going to take us it's going to take
+us some time because it's a big network
+effect highly regulated market.
+>> Yeah, Zach, on on that point, so you
+guys started out with this set of APIs,
+you know, you I I think the customers
+kind of discovered your your model for
+you to some extent. We were out at ETH
+Denver a couple weeks ago and I joked
+that uh I didn't have a single like uh
+music NFT project pitched to me by by
+any founders. And so there is there's a
+you guys were far ahead of the curve,
+but there is a massive sort of maturity
+in the industry happening and this
+embracing of tradi and we see that
+happening at the founder level too,
+right? I ran into like a 22-year-old who
+was building basically like compliance
+infra for like onchain hedge funds and
+that was that was pretty surprising to
+me. My question is what advice would you
+give to founders or teams who are trying
+to figure out how to play in this
+intersection of digital assets and and
+traditional finance? Obviously, you can
+point to like the compliance
+requirements and that kind of thing, but
+what what advice do you give early stage
+teams that are trying to to manage this
+sort of big shift that that we see
+happening?
+I mean, I I think the um I think that a
+thing that has been like pretty apparent
+in the in the crypto markets, but also
+like very prevalent in the AI markets is
+uh a lot of folks get in and build
+companies because they think, you know,
+other they they someone else tells them
+it's a good idea or they um think that
+there's a lot of momentum there or they
+think that it's like a space where they
+can raise a seed round and start and
+start building. And then you know you
+see those types of founders you know
+pivot around a bunch and as soon as
+things change they like you know move
+from working on you know an agentic uh
+you know sales tool to open claw you
+know or in the crypto world you move
+from working on music NFTTS to working
+on like you know uh pumpf fun type
+competitor you know and and so on. And I
+think the biggest thing is that folks
+should build like real internal
+conviction that this like needs to exist
+in the world. And this is this is
+certainly what happened with us is that
+our like main alpha in the market was
+that we just really believed that this
+was going to be important. And that and
+that conviction enabled us to build when
+no one else believed. and building when
+no one else believed enabled us to
+create this market and then be the sort
+of dominant company within the market.
+And you know, markets don't just like
+happen. Someone has to build them. And
+you're only going to build them or build
+that market if you have that real
+internal conviction. So like before even
+starting make sure that you have that
+conviction to keep building through
+because that's just what is going like
+in our space that's what's going to
+separate the folks who were really
+successful versus not. I mean Coinbase
+is a great example here too. I mean when
+I joined Coinbase this is in 2017 there
+were 50 people at Coinbase but but I was
+maybe employee number like 200 which is
+a crazy thing at a company like that.
+You never see that because Coinbase had
+been around for like three or four years
+and like hired and fired and like, you
+know, they they got into, you know,
+buying stuff, you know, they but but
+Brian just deeply believed in Bitcoin.
+Um, and that is what enabled Coinbase to
+be as successful as it was. I think the
+same thing will apply to founders as
+they think about whatever new
+infrastructure we need in this crypto
+space.
+>> All right, Zach, I feel like we could
+hold you forever, but I know we have to
+wrap on this. Uh, can you leave us with
+something else that you're paying
+attention to aside from everything that
+we've discussed that you think our
+listeners should be watching as well?
+>> Um, something else in the crypto world
+or not in the crypto world.
+>> It can be anything. Yeah.
+>> If it's not in the crypto world, I think
+I know where this one's going, but go
+ahead.
+Um, I think like things that I am like
+very interested in right now or things
+that I'm like spending a lot of my time
+on is like or or not like a lot of my
+time but free time on like trends. I'm
+very interested in I'm very interested
+in uh the the the TV TVation of
+everything. um all sort of basically you
+know all media formats are converging on
+on television whether that's like you
+know podcasts are basically becoming
+television which is crazy um but news is
+becoming television you know movies are
+becoming television everything is just
+you know YouTube is becoming television
+everything is converging in that one
+trend and then there's like I have three
+kids or two kids with another kid I'm
+expecting another kid and Um I think
+education is like uh there's a lot of
+been uh a lot of like very interesting
+things that we now know about how kids
+are learning and I think it's like
+particularly it's going to be
+particularly interesting with um with AI
+and like you know we've kind of one of
+the things that's come about recently is
+like the decline of test scores over the
+last decade and you know questions
+around have we reached peak human
+intelligence
+Um, and I hope we have not.
+>> Are you going to raise your kids at home
+with AI?
+>> No, no, no, no, no. I I think that like
+um one anecdote I have heard is like
+with with all of this stuff, the the the
+the the few percentile of students that
+are like the best students are
+materially better than they were
+historically, but the averages are are
+are very are very different. And and
+what that, you know, the implication of
+that is that there's a few folks and a
+few families who've been able to really
+figure out how to use this this to like
+accelerate learning at a rate that um
+that that hasn't that that we haven't
+seen before, but but most have not. And
+so, you know, I hope that more, you
+know, we can take what has been more in
+the upper desk aisle and apply it to to
+to other folks. But no, I'm not like
+homeschooling or doing anything crazy.
+Yeah.
+>> This is like if you wanted to
+Like the rat paradise conversation we
+had at dinner the other night about how
+>> Oh my gosh. It's it's the rat study. Do
+you know the rat study, Zach?
+>> No.
+>> It's a short story, long story but short
+story is like if you put together rats
+in kind of like a box and they like
+populate over time and you give them
+perfect conditions. This study found
+that towards the end they started like
+cannibalizing each other and attacking
+each other. So like when you give them
+perfect conditions, it doesn't actually
+give a utopia is I don't know if Elanor
+if there's anything we won't say.
+>> So we need to like rattle the box, you
+know, so they all feel
+>> Yeah. Yeah. The world can't be perfect.
+Yeah.
+>> Basically a model of like societal
+collapse, right? So like, you know, when
+conditions are really good, like our
+friend kind of described it as like the
+boomers had it like really really good
+and then they they procreated and then
+like everybody after that has gotten con
+like increasingly worse.
+I mean hopefully not if that's not the
+case for you know generations after us
+but we'll see.
+>> Yeah. I mean my mom frequently
+>> my mom frequently is like you know
+sending me like alarmist articles and uh
+my main response is like you you caused
+this.
+>> There we go.
+>> Right.
+Yeah.
+>> Zach, thank you so much for coming.
+>> Amazing rate. Yeah.
+>> Yeah. Thanks so much, Zach. It was
+great. Thanks for coming on.
+>> Yeah, thanks for having me. This is very
+fun.

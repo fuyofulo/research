@@ -1,0 +1,3011 @@
+You brought your own beer selection?
+Yeah, as an international company,
+I felt like you should
+have representatives
+of different countries.
+Okay. Have you had Guinness?
+I have, and I did not remember it fondly,
+Who listening to this should be, like,
+I should issue a stablecoin?
+I mean, everybody who's
+sitting on top of money,
+that's the market, all money at rest.
+Stablecoins are like Starlink
+for, you know, money.
+Once it's in zero gravity,
+it's super efficient
+to actually move the data around
+and move the money around.
+But the ground stations on
+the ground have to be built.
+It feels like I walked
+into a college dorm.
+Exactly.
+And do you want
+an alcoholic or non-alcoholic Guinness?
+I feel like there's a
+wrong answer to this and—
+Yeah, I'm not...
+You're both checking it out.
+Waiting for you to decide.
+Stablecoins are the
+biggest financial innovation
+happening right now.
+So I invited two experts for a pint.
+Zach Abrams, founder of Bridge,
+the leading stablecoin
+orchestration platform,
+and Henri Stern who founded Privy,
+the leading crypto wallet infrastructure.
+Both these companies recently joined
+Stripe via acquisitions
+and they're in the thick of
+helping both crypto companies
+and regular companies build
+with stablecoins, cheers.
+Yeah cheers.
+Cheers.
+Okay, lots to talk about
+with both Bridge and Privy.
+I realized with Bridge, when
+you started it, it was 2023.
+Was that like at the very nadir
+of the doom loop for crypto?
+We started right before then.
+So we started right
+when it was interesting,
+which maybe made it worse.
+Which is when?
+Yeah.
+We did not know
+it was going to be horrible.
+This was, it wasn't 20...
+2023 is when we launched our APIs.
+2022 is when we start, Sean
+and I started the company.
+Okay.
+And raised money.
+And then immediately
+after we raised money,
+Terra LUNA happened.
+Ah.
+And then the whole space
+was nuked and then FTX happened
+and it was nuked again.
+Okay. So remind me of the vibes here.
+Like 2022 was still like,
+that was pre-FTX blowup?
+Pre-FTX.
+Yeah.
+The things were going really well, it was
+before like when the Ukraine War happened,
+the whole sort of
+economy started to shift.
+And it was
+before that, VC funding was really high,
+and then by June, it was gone.
+Everywhere was, everything had, you know,
+most of the space had evaporated,
+but especially in the crypto space.
+And at the time, to mark
+this in crypto years,
+when we started the company,
+the first idea we had was
+using your bank account
+to acquire NFTs.
+So it was the NFT phase.
+Right.
+Of—
+It's the carbon dating of the company
+where it's like, okay.
+It is.
+And that's where almost all
+the volume was, was NFT drops.
+The other thing I was going
+to say just about Bridge's
+beginnings is we had an
+early all-hands at Privy
+where it was a Lunch and Learn
+and one of our teammates,
+Max, worked with Zach prior.
+Yeah.
+And so Zach came
+to pitch Bridge to Privy.
+Yep.
+Being like,
+"We're going to work on stablecoins."
+And we were like, "What
+is this guy talking about?
+This is not a market, it does not exist."
+Well, on our side, when
+the NFT market blew up,
+our initial product went away
+and we were sort of pivoting around to try
+to figure out what we wanted to do.
+One of our first ideas was to
+build Wallets as a service.
+And which was, is obviously
+your business at the time.
+I don't think that you, maybe you existed,
+but at least it wasn't—
+Irrelevant.
+You weren't,
+you weren't on our radar at all.
+And I remember looking at the space
+and being like, "No, that's a tar pit."
+There's nothing for us to build there.
+It's so deeply competitive.
+And then we quickly moved on
+and went our way to stablecoins.
+So for me, looking back at like,
+you went through the exact same thing,
+saw that same idea,
+saw that same opportunity
+and it was like, yes,
+this is the thing and
+obviously built something
+really good there.
+And so how do you describe
+what Bridge does today to people?
+We enable developers to
+build with stablecoins
+and it could be anything
+they want to build.
+So we help folks like
+SpaceX use stablecoins
+to move money across border.
+We help folks like DolarApp build neobanks
+on top of stablecoins.
+We help folks like Felix Pago
+build cross-border payments
+experiences with stablecoins.
+We help treasurers rebalance
+their internal funds with stablecoins.
+Stablecoins are sort of this
+broad payment platform on top
+of which a bunch of new payment
+experiences can be built.
+And we build APIs to let people use it.
+I want to come back to
+all those use cases.
+But first to catch up. So how about Privy?
+Where in the crypto hype and then bust
+and then re-hype cycle
+did you guys start Privy?
+Peak hype.
+And so I'd worked in crypto prior
+and I think I came out of
+that experience thinking
+this space is incredible.
+We have these rails
+that can be used to sort
+of codify ownership on the web in a way
+that hasn't been possible before.
+But also no one cares about
+building like products
+that people actually want to use.
+And so this is a endless space
+where we'll work on protocols
+but never actually, no
+offense to protocols,
+which I think are deeply useful,
+but only if they got carried
+through all the way to—
+Yes, you need the actual
+end customer use cases, yeah.
+Exactly.
+And so I left
+and I think, you know, peak
+crypto brought me back which is,
+I was like I want to work
+on data tokenization,
+which was the initial idea.
+A good place to do that was crypto.
+So our first version
+of it was can we build data tokenization
+that would enable crypto
+companies to privately KYC people?
+Which is a very 2021
+idea of like, you know,
+these private pools of liquidity
+that you need to be KYC for.
+Oh my gosh. I remember—
+And that led us
+to wallets, which was,
+this is really hard,
+because people don't have
+the means of actually signing
+for things and most users
+don't want to get a wallet.
+And so we were like, we should
+solve that problem first
+and then we can come back to it.
+And that's how we got to Privy.
+Hmm, and so how do you describe
+to people what Privy does today?
+We build basically digital asset accounts.
+Wallets are the means of
+controlling crypto, stablecoins,
+any digital asset.
+And so we build APIs,
+so developers can build
+basically digital asset accounts
+directly into their app
+rather than requiring a user
+to go outside the app to get an account.
+You can get it as part
+of your neobank's payments
+platform, consumer app,
+and those are the people that we serve.
+But basically we give you the means
+of controlling assets in-app.
+Yes, so is it basically no
+one plans to be disrupted
+by stablecoins, funnily enough,
+and so if you're a remittance
+app, if you're a neobank,
+if you're any of these guys,
+you want to natively build
+digital asset functionality
+into your app
+and you guys provide the
+wallet infrastructure
+for them to do that?
+Exactly, and I think the goal is
+to say like you shouldn't need a PhD
+or deep interest in, you know,
+self-sovereignty in order to
+want to engage in this space.
+You should be able to do it as easily
+as you do anything else on the web,
+and we make that possible.
+When I talk to business people who are not
+in stablecoins, and
+especially maybe say people
+who are in fintech but not in stablecoins,
+they say, "I'm sure hearing
+a lot about stablecoins,
+but it doesn't seem like
+they're actually happening yet
+in a real way."
+And obviously the Stripe,
+Bridge, Privy house view informed
+by all the data we're
+seeing in our customer usage
+is like, no, they're happening.
+Like they're maybe not happening
+for you yet in a big way,
+but they're happening
+at an industry level.
+But I think people have
+a hard time visualizing
+'cause they say, "Well I don't, you know,
+pay at the bar using stablecoins."
+It's just I am myself
+not paying day to day,
+therefore I just don't see it.
+Maybe you guys can level set
+for people what's actually working?
+'Cause like consumer retail
+payments in the US are not,
+you know, the hotbed of
+stablecoin innovation.
+Just where is the stablecoin
+stuff happening today?
+The first use case was
+predominantly cross-border payments
+And it was taking money
+and, you know, our first developer
+was this team called Zulu
+and they were a company based in Columbia
+and they were taking Colombian pesos,
+converting them into stablecoins,
+sending those stablecoins
+through the Bridge APIs,
+converting them into dollars.
+So you'd go from Colombian pesos
+to US dollars via stablecoins.
+And for a bunch of reasons,
+it was cheaper and faster,
+and they showed us the
+cross-border payment opportunity,
+because before them,
+I actually had no idea
+that stablecoins would be useful
+for cross-border payments.
+And then since then,
+we've seen like neobanks,
+like DolarApp, and so on, become very,
+very successful building on top of us.
+And they're a global US dollar
+app built on stablecoins
+that can be used all across LATAM.
+Okay, so cross-border payments.
+Yeah.
+Dollar balances,
+dollar holdings for people
+in emerging markets, anything else?
+After that, we've seen,
+so SpaceX came to us,
+they're selling Starlink
+all over the world.
+And so as a result
+they're collecting local,
+so people are paying for Starlink
+and in, you know, dozens,
+many dozens of different
+countries with their cards,
+so they're getting local
+currencies in all these countries
+and they need to repatriate
+all those funds to the US so,
+because they fund their
+business out of the US.
+And so they started using
+us to bring currencies back
+to the US and so they would
+take money out of a bunch
+of different countries in Africa and LATAM
+and send it to the US via stablecoins.
+How do they do the initial
+conversion from, you know,
+Rwandan local currency
+or, you know, bolivars or
+what have you, to US dollars?
+So we do that for them.
+But the way that we do that
+is that in almost all these markets now,
+there are very robust
+FX markets effectively
+that exist between, you know,
+a stablecoin like USDC or
+USDT and the local currency.
+And this was like the last, you know,
+with each one of these crypto cycles,
+like more of the infrastructure gets built
+that enables the next thing.
+And in the last crypto cycle,
+the big thing that happened
+was that all these
+local exchanges started.
+So you had local exchanges in LATAM,
+in Africa, in the Middle
+East, the Philippines,
+all begin to get scale and
+those exchanges are dominated
+by stablecoin volume
+and they've effectively
+just become alternative FX markets.
+What's the remaining gap like,
+is there the biggest gap
+between marketing and reality,
+of this is doable today?
+I would say that the biggest thing
+that we see in the market
+is that these FX markets,
+so, you know, converting
+between Mexican peso and USDC
+or Mexican peso and dollar.
+Some of these fiat markets
+are phenomenally deep and
+phenomenally efficient.
+So someone could send
+$100 million to Mexico
+and convert it into pesos
+without moving the market.
+But the stablecoin market is not as deep.
+So it's hyper-efficient... the
+interesting dynamic at play
+is that in the fiat FX
+markets, as you get bigger,
+your pricing comes down.
+And the crypto markets, as you get bigger,
+your pricing goes up,
+because the spreads widen.
+So the market is way more
+efficient for startups.
+I see.
+Over time,
+the markets get deeper and deeper,
+and so those startups are
+scaling and scaling and scaling.
+We see that with like
+Felix Pago and others.
+I think what you're highlighting
+with the effects dynamic
+is underappreciated in crypto
+being a platform on which,
+you know, it's like a
+shelling point for everyone
+to come together to create better things.
+And so we now have just
+more efficient ways
+to convert bolivars to US
+dollars than we had before.
+It's not particularly crypto
+native, that particular leg.
+But crypto is load-bearing in
+bringing everyone together.
+That's kind of what we
+see I think in our market,
+which is to say like, you
+know, what my analogy is,
+is stablecoins, it's a
+very self-serving software
+to hardware analogy, but like
+stablecoins are like Starlink
+for, you know, money Where
+you need the ground stations
+to actually, you know, to beam
+the pipes up from, you know,
+co-ax or fiber onto
+line of sight, like
+zero gravity like space.
+Once it's at zero gravity,
+it's super efficient
+to actually move the data around
+and move the money around.
+But the ground stations on
+the ground have to be built.
+And at least where we take care
+of the market is mostly
+after you guys have done
+the really hard work of
+converting fiat to crypto,
+then the question is
+what can you actually do with the crypto?
+And that's where, you know,
+obviously wallets and those are the powers
+that people will come to us for.
+That analogy may be deeper than you think,
+because, do you know
+in the Starlink network
+where they started with
+more ground stations
+and then over time,
+they're enabling more
+satellite-to-satellite connectivity
+to reduce the need for ground stations?
+And so it could be a pretty deep analogy.
+I mean, okay, same question
+to you, Henri, where,
+just what are people actually
+using stablecoins for?
+For us it's, so a lot of it
+is basically, once, you know,
+wallets as the account
+system are kind of like
+the control plan,
+once you have the stablecoin,
+what can you do with it?
+And so I think the majority
+of what people use us for
+is, one, specifically the holding.
+I want to hold these assets
+and I want to put these assets to work.
+So it's opening up credit
+markets and yield generally
+for people who otherwise
+didn't have access before.
+And one of the things
+that's like, you know,
+shocking about USDT is like USDT
+is like a 0/100 hedge fund.
+Like they keep all of the carry for you,
+which speaks to how like much
+people want stable currency
+across the world.
+And then the other
+thing that we're seeing,
+to your point about startups,
+is kind of the emergence
+of like fintech super apps.
+A lot of early-stage companies
+that now have the actual
+stack to build everything
+that has taken, you know,
+the neobanks of the world,
+the Revoluts, the Klarnas,
+decades to build and they can do in a year
+because everything's ready for them here.
+So those are the sort of two types
+of use cases which is I want
+to build like bank accounts
+that are fully global that work
+for any consumer once they can
+get their hands on a crypto.
+And then I want to make sure
+that these assets are put
+to work either through traditional markets
+or by actually investing in other assets.
+Yeah, that's what, I mean,
+one of the things I'm
+most optimistic about
+is you have, like the
+financial world before,
+if you wanted to expand into a bunch
+of different countries,
+you had to uniquely build
+your US infrastructure,
+uniquely build your
+European infrastructure,
+uniquely build your
+Mexican infrastructure.
+And the next company that came around had
+to do the same thing.
+You know, and then the next
+company around had to come
+and do the same thing and, you know,
+now what's possible is you have a wallet
+and one person just needs to
+build a US dollar stablecoin
+and then you throw it into the wallet
+and now you have a US balance
+and then someone else in the world needs
+to build a naira stablecoin.
+And now you have naira.
+Someone else in the world,
+JPMorgan, JPY stablecoin.
+Now you have—
+Yes, previously it was N
+squared and now it's just N.
+Yeah, exactly, you kind of open source
+your financial stack.
+And, you know, it's like
+very early days in this,
+and to get here, we
+need local stablecoins,
+and right now stablecoins
+are dominated by US dollars,
+but you open source your financial stack
+and the companies who are
+building on top of this
+are behind today,
+but basically making a bet
+that the cumulative power
+of all the builders in the
+world is going to create
+a better application over N years.
+Why have the local
+stablecoins been so slow?
+'Cause like, you know, US
+dollars are not that big a share
+of global currency balances,
+but, you know, US dollars
+are 95 plus percent
+of stablecoin balances.
+What's going on with the euros
+and the Canadian dollars and
+the Swiss francs and the—
+My theory is that this is
+like reveal preference.
+US dollars are not that big a share for—
+We're seeing the true preference—
+Exactly, whereas the true preference,
+if you go to a country
+that that, you know,
+I can think of many,
+and you have a crisp $100 bill,
+that's worth a lot more than
+like any other currency.
+I've traveled to places where
+I have euros and dollars
+and people are like, "No,
+give me the dollars first."
+So I believe you in the
+emerging market context
+where, you know, clearly
+if you're in Turkey
+and you can hold like Turkish lira
+or US dollars, that's not
+even really a contest.
+I don't, as a European, I'm
+not that unhappy holding euros.
+I'm not that concerned about it.
+And so euro stablecoins,
+Swiss franc stablecoins,
+just other major market
+stablecoins should be a lot bigger.
+But this is where, I mean, I don't know,
+the two dichotomies to me
+is like US versus global
+and then it's like B2B versus B2C.
+I think the majority of
+the stablecoin market today
+is B2B and that'll change,
+but like the reality is
+basically where it is B2C,
+it's emerging markets,
+hence the US dollar preference,
+and where it's B2B,
+it's American companies,
+hence the US dollar preference.
+So since supposedly
+it'll even out over time,
+but at least for now,
+it seems to be a real preference
+that like dollars are—
+I think that's probably true.
+I think that the majority of...
+the two main use cases
+for stablecoins for,
+or the main use case for stablecoins
+for many years was trading.
+And in market, everything
+is just quoted in dollars,
+and there is a real network effect.
+So, you know, as more and
+more liquidity was built
+around a few dollars
+that that makes sense,
+I think over time, you will
+see more of these stablecoins.
+But ultimately those same
+network effects are going to,
+you know, I think perpetuate,
+I think you're going to
+see while like physic...
+you know, fiat US dollars are X percent
+of the global market, stablecoin
+US dollars are going to be,
+you know, way more forever.
+But I do think we,
+and I hope we get to local
+stablecoins being 15%-20%
+of the market,
+because you need them
+transactionally in all these markets
+and you want to have
+alternative FX markets
+and you want people to be able
+to store in local currencies.
+I think that's going to create
+much better experiences.
+But we're not there yet.
+And to your point, or just
+about the history of this,
+Tether got started as a like
+deposit asset for trading.
+You didn't want to basically have
+to trade out back to dollars.
+You didn't want to hold your
+position over, you know, night.
+So you would move into the stablecoin
+And they couldn't get dollars
+And and they... Exactly.
+But I think like it's a 24/7 currency.
+You don't have to like wait to move.
+So I think, you know, why should
+you care if you're working
+on a business today that
+broadly handles money
+but is like, you know,
+my money works fine.
+Yes, yes.
+Is like,
+I think the UX is going to
+be much better for consumers
+to actually have an
+always-on, like money rail.
+Beyond that there's
+a reality which is,
+you get to have a
+relationship with your user
+that's much longer lasting.
+Ostensibly Uber's done this
+where Uber drivers get financing
+for their cars via Uber.
+But now any company can
+really do this where instead
+of like paying out and
+then the relationship ends
+because the bank now owns the user,
+they can maintain a relationship
+with the user via these
+accounts that they enable.
+So every company ostensibly
+has a neobanking arm that
+they can build into this
+to create a much tighter loop of benefits
+to their constituency.
+But what's the long-term equilibrium here?
+Because presumably consumers don't want
+their money spread out across, you know,
+15 different services they
+interact with or do they, I mean?
+I mean, credit card chopping such
+as I see it on Reddit subthreads
+would would say that maybe they do.
+But I think this is the entire point,
+and where at least Privy gets dinged a lot
+with embedded wallets is it used
+to be the wallet was the users
+and you would carry it with yourself from,
+like app to app to app,
+and you had a single point
+where you held everything.
+And that's great for, you know,
+centralization of these controls.
+It's really bad for UX,
+because it means you're
+running third-party software
+on every site you go to.
+We've enabled an inversion
+of that whereby the app
+can serve their own self-custodial wallets
+as part of the app experience.
+But it creates this fragmentation.
+And at least to me,
+this is the real opportunity
+for building these like money networks
+where if you can help users make sense of
+that fragmentation, where even
+though you have your assets
+in 15 different apps, each
+app on your phone is a bank.
+You have some control plane
+where you can manage those
+assets between all of them.
+It's not that fragmented
+if it's programmable,
+That's the hope.
+Yeah, I think that
+this question is like
+overwhelmingly going to be dictated
+by regulatory requirements.
+I think in like a free market,
+then we would resolve to like
+90% US dollars or something.
+Is MiCA good, bad, fine?
+I would say it seems to be
+fine, but it could be bad.
+And I think the thing with all
+of these like regulatory requirements
+are that they're sort of like untested.
+And so what is,
+what's basically happening
+is there's like a few folks
+who are compliant in Europe
+and they're stretching it to, you know,
+the regulatory requirements
+to meet their, like, specific needs.
+And then over time they're
+going to clamp down
+and what it looks like
+to be compliant in Europe
+will probably be different,
+very different in five years versus today.
+Oh, interesting, so you're saying,
+we haven't seen MiCA enforcement yet?
+Yeah.
+And that will inform
+people's views of MiCA?
+Yes, exactly, like the way
+that the USDC is complying
+with the requirements are very different
+than the way local European issuers
+are complying with the requirements.
+The interesting, like
+Delta for us, at least,
+was we saw European customers trying
+a lot more things under MiCA
+because at least they knew
+ostensibly where the lines were.
+Yeah.
+Which wasn't true
+before GENIUS, and now we're
+seeing that with GENIUS
+where people are willing to engage.
+So I would argue that compared to
+what existed before,
+which was no clarity and
+no willingness to engage,
+something is better than nothing—
+It's been very good for
+the European crypto.
+Totally.
+Yeah.
+You described Tether
+as a 0/100 hedge fund.
+I hadn't heard that before,
+but it feels to me that paying out 0%
+of the yield is not the
+longterm equilibrium
+when it comes to stablecoins.
+And so what happens to Tether?
+So I went to to to Kenya
+on holiday a year ago
+Oh, it's very widespread
+in emerging markets today.
+And there was a poster
+that had a crypto app on it
+and there were two logos on it.
+It was Bitcoin and it was Tether.
+And so I do think brand
+matters in a sense.
+And I think like if you ask
+someone do you want, you know,
+Tether or alternate stable,
+they will pick Tether.
+And so I think for the most part,
+and you have more views on
+this with open issuance,
+but like there will be
+broad interoperability
+and every app can have their
+own so that they can choose how
+to program their stablecoin.
+But I wonder if like the
+network effects are already
+so entrenched and so powerful
+that maybe they're forced
+to change some of how the
+yield management works,
+but it's too far established
+for it to be a complete inversion?
+Yeah, I mean I think Tether's going
+to be wildly successful.
+I mean, it already has been.
+It's like arguably one of—
+They seem to be doing okay for themselves—
+Yeah, one of like the
+most successful fintechs
+in the last like three
+decades or something.
+But I think there will be,
+and continue to be, I think there is this,
+like enormous network effect
+behind their business.
+That being said, I think that pretty soon,
+like in the next year, any
+consumer who wants access
+to the risk-free rate is
+going to have access to it.
+Yeah.
+And I think that is going
+to create a sucking sound from some USDT,
+but I also think that it's
+going to take the market
+and expand it like materially.
+Yes.
+What I hope happens
+is that, you know, USDT grows,
+but instead of it's at
+like 60%-70% of the market,
+it becomes like 10% of the market.
+The alternative point is
+simply like, you know,
+also let's figure out the alternative.
+Like the reality is you can hold Tether
+or you can use 25%,
+you can lose 25% of your
+net worth every year
+by doing nothing.
+No, no, no, no, I agree.
+It's better than the alternative.
+I was just wondering what's
+the longterm competitive equilibrium,
+like in five years, do you
+think Tether pays yield?
+No.
+Really?
+No.
+I would take the
+same side of that.
+Yeah, no.
+Just because that is their view?
+Yeah.
+Their worldview?
+Yeah yeah yeah.
+I don't think they'd have to
+in order to stay dominant.
+Yeah, the areas where
+Tether is most successful,
+which is in trading.
+There's no need to pay yields back
+and the network effects
+there are really material.
+That being said, I think that
+the trading use case was like 100%
+of the market two years ago,
+was 80% of the market today and, you know,
+will be 5% of the market
+in some number of years.
+We're talking about the international
+adoption of stablecoins.
+The way I've been explaining it
+to people is I feel
+like it's pretty common
+that you have very
+network-effect-y products
+that are adopted first internationally
+and then come into the US.
+And so WhatsApp used to only
+be used internationally,
+and then it was used by Americans
+who were kind of cosmopolitan
+and had international friends,
+you know, or like I travel
+abroad, you know, whatever.
+It's like, you know, if you have WeChat,
+it's because you know people in China.
+And so for a while it was that,
+and now it's more mainstream
+in the United States
+and it's, you know, I mean
+it's not totally broadly used,
+but it's pretty commonly used.
+That feels to me the story of
+how stablecoins get adopted
+in the United States
+where you start to see some
+of these network effects being used.
+Is that the case or will we just see
+other ways they're adopted?
+I think we we're at least seeing
+a complete sigmoid in terms of like
+where the adoption's happening.
+So you have these absolute whales,
+like apps and companies that have,
+call it 20,000 users,
+but the users are moving
+millions of dollars in assets
+through trading and investing
+and using stablecoins heavily
+in the US and elsewhere.
+And then on the other
+side, you've got all the—
+So the whales are the businesses
+or the customers?
+Or the traders.
+The traders themselves.
+Company or the customers.
+So you have very large
+US traders doing all
+the same product stuff.
+Exactly.
+And then on the other side,
+you've got a much smaller company...
+much smaller consumers abroad
+and a much like wider network
+that you're talking about.
+But I suspect you kind of see this, like,
+you know, it's going to
+be a two-pronged strategy
+where it comes in through both ends.
+I think that's true but,
+I mean, I think right
+now we see, you know,
+the dynamic that you're
+mentioning certainly playing out.
+And like a great example of
+this is like the Polymarkets
+of the world, like global markets built
+on top of stablecoins.
+They're now coming into the US.
+Those same markets are going
+to be stablecoin-oriented.
+And so people are going
+to be able to deposit
+from their bank accounts,
+but it's all going to land in stablecoins,
+because you want one global market.
+And we're seeing the same
+thing with fintechs where,
+you know, you have folks who
+are expanding internationally.
+Eventually you just
+want one dollar balance.
+You're not going to want many
+different dollar balances.
+And I think that's like
+definitely the case.
+I think that as we look, you know,
+startups that are starting today,
+even if you were just
+serving the US market,
+it makes sense for you to
+build on stablecoins for,
+you know, it's cheaper, it's
+like much faster go-to-market.
+But you also know that
+eventually you probably will want
+to go international and
+this is the foundation
+that enables you to do that.
+Everyone wants to be future-proof
+and stablecoins are the
+only way to do that.
+Yes.
+Well, it's cool as a
+European, at least, you know,
+as a French person, like
+it always felt tough
+to see French startups
+because the market's too small
+and like there's too many
+European like differences
+like selling to France
+doesn't mean you can sell it
+to Spain or Germany.
+Yep.
+And the US
+has never had that problem
+because the market is like so big.
+Yes.
+And it's kind of cool to see
+that at a fintech level,
+which is always kind of
+landlocked playing out globally.
+Where there's just a
+much bigger opportunity
+if you can build a global
+business from day one.
+The other like amazing dynamic is that
+the fintech ecosystem just overall
+has been very concentrated globally.
+Like in the US we don't appreciate
+how many banks there are
+and how many of them are
+willing to support, you know,
+all these different crazy fintech ideas
+and how many of them have APIs
+and, you know, lending products,
+or card products or what have you.
+But in some countries,
+you go into a country, there's one bank.
+Mm-hmm.
+And that bank has like
+no interest in enabling
+you to build a fintech.
+And as a result the
+consumers in that market
+see no advancement in their
+financial experiences.
+And so stablecoins represent
+like the first opportunity
+for like large swaths of the world.
+People in the US do not
+have a good mental model
+for how different the banking ecosystem
+in every other country is
+because the US is so generous,
+it's like 5,000 banks or
+whatever the number is currently
+in the US, whereas every
+other banking market
+has between three and eight banks,
+and it's very concentrated
+and generally pretty steady.
+Yeah, when we were like talking to a bunch
+of founders in all
+these different markets,
+some of them would tell us like, oh,
+we're getting our bank license in,
+you know, whatever country.
+And like in my mind I'm just like, oh,
+that's like the equivalent
+of getting like an MTL
+or something like, whatever, you know?
+And in their mind they're like, no,
+this is like a huge
+deal and now I have like
+a much deeper appreciation.
+Appreciation. Yeah, yeah.
+Who will build the
+successful neobank in the US?
+And is it going to be a single super app
+or is it actually going to get
+fragmented as like, you know,
+there'll be more of them because it's—
+Okay, it sounds like
+you have a thesis here.
+Well, I think it's
+actually much more likely,
+to your point about like
+this is open sourcing,
+the like fintech stack.
+Like the reality is you
+actually get to pick
+and choose the layers at
+which you want to play.
+You can offer credit to your consumers
+or you can offer like, you
+know, balances to your consumer
+or you can offer payments
+to your consumer,
+but you don't have to bundle all of them
+if you don't want to.
+So I think we'll see like two things.
+We'll see, I would argue
+that today the closest things
+are like, I guess, call
+it Robinhood and Cash App,
+are the closest things I see to like
+a European style neobank
+working in the US.
+I think gravity has
+shifted thanks to the sort
+of stuff there that
+that crypto has enabled
+and stablecoins have enabled.
+And I basically wonder if it's going
+to be singular platforms
+or if it's just going to become a part
+of the fabric of many more platforms.
+I think that will happen.
+But if you think concretely,
+like if you measure neobanking primacy
+as where does your paycheck get deposited?
+Sure.
+Like at least in my case,
+I moved to the US for college
+and when I was there
+freshman year in college,
+I set up a Bank of America account
+and my Stripe paycheck to
+this day is like deposited
+in that Bank of America account.
+And like in 10 years time,
+who are people getting their
+paychecks deposited into?
+I think that the market is going to,
+I think that these banks are
+still going to be really big.
+They were, same thing happened to me.
+I was on campus
+and someone gave me a free
+Duke t-shirt to sign up
+for a bank account
+and I still have that
+bank account, you know—
+They really understand
+the CAC to LTV dynamics.
+They're like, those
+t-shirts are cash money.
+It's like a venture type outcome for them.
+Yes.
+Like is banking going to
+be as sticky as it was
+if you have a lot more
+competition in the market?
+Which obstensibly this
+will, you know, engender.
+Well, what I think is going to happen,
+I think that most financial
+experiences are going
+to be rebuilt on blockchains.
+I think lending is going to
+be rebuilt on blockchains.
+I think obviously like
+trading is going to be,
+I think saving is going to be,
+spending is going to be.
+I think a lot of these
+financial experiences
+are going to get rebuilt on blockchains
+and they will all compound each other
+to make the next generation of neobanks
+that are building on top of,
+you know, crypto wallets,
+materially better across
+a bunch of different,
+a bunch of different dimensions.
+And as a result I think there will be
+a pretty material fragmentation
+of the market versus where it is today.
+And it's already relatively fragmented.
+A very hard day for us at Privy was SVB,
+which led to a stressful set of—
+That was the first week we launched.
+Oh my god.
+Yeah, it was a long few days and we were,
+you know, asked by our
+backers to diversify risk
+a little bit more than we had.
+Until then, it was our only bank account.
+And so we've been billed
+basically like, you know,
+accounts at like three
+different institutions
+and at least the pitch for self-custody
+in crypto used to say
+the account is yours,
+the skin that you choose
+to take it through,
+meaning the UX of the
+actual sort of rails,
+the add-on services
+that you get, all of that
+will come through the sleeve
+that I guess you put the account in.
+Yes.
+But the account is yours
+and can be ported over
+and over and over again.
+So I think that's one of the
+big questions I'm interested in
+over the next decade is what is the split
+of custodial versus
+self-custodial accounts?
+So this is like a very old timey analogy,
+but many people don't
+realize that, you know,
+Chase builds their own software,
+you know, the big banks do.
+But if you bank with a credit union
+or a mid-sized bank,
+they absolutely do not build
+their own banking software
+for the ledgering and
+managing the accounts
+and anything like that.
+And there's, you know,
+Fiserv, there's Jack Henry,
+there's First Data, there's
+a few companies like this
+who build the bank cores as they're known.
+And so the banks are actually, you know,
+a balance sheet and a credit strategy
+and a brand of various things
+but in front of all this software that
+is provided by some someone else.
+And so are you saying
+that your vision is that
+there's much more of that
+where you can plug in
+the crypto equivalent of a bank core?
+Again, this is like a
+total TradFi analogy,
+but you can plug in the crypto equivalent
+of a bank core
+into a neobank or, you know,
+maybe Uber and Lyft want to want to—
+Maybe Uber and Lyft want to build this
+for their drivers, you know,
+or something like that.
+Is that basically your
+vision of where things go?
+That's, I think, the hope in many ways for
+where things should go or could go.
+I think, you know, it's
+very much an open question.
+It's a big part of where we feel as Privy
+that we have a responsibility
+to try to make sure
+that it's kind of an even playing field
+and there are good opportunities
+on both sides of the aisle.
+But, yeah, I think
+that's exactly the point.
+I think the point would be the ledger
+is already public, because it's on chain.
+The account is really like cryptography.
+It's like private keys that
+that people should be able
+to take with them.
+And accordingly, you can move
+the banking core yourself
+as a consumer and I think
+the Uber and Lyft analogy
+is, at this point,
+a very tired crypto analogy.
+I'm sure you've heard it,
+but the old crypto dream
+was what if Uber basically enabled you
+to like have a different
+rating system based
+on where you were and a different pool
+of like the core network is
+shared but then the actual app
+and delivery mechanism for which you have
+is something that you can
+like build on top of much,
+much more easily.
+Yeah, was that a woefully
+out-of-touch analogy
+from me showing just how—
+No, I've been trying to figure out
+how do we explain self-custody in,
+because the only self-custodial
+like asset is cash
+and so it's very helpful actually
+to have more mental models for it.
+Okay, so we got one Guinness here.
+Go check out, collect.
+All right, this is just
+our regular NFC interface.
+And so what payment
+method do you have there?
+I am paying with a Fuse
+card which is backed
+by my stablecoin balance.
+So this—
+It's a Visa card issued
+that is tethered to a balance in a Solana,
+USDC on Solana balance.
+Okay, so there is no
+bank account associated
+with this card.
+It is Visa backending to
+a Solana on-chain balance?
+Exactly.
+Okay, see if it works.
+Please be accepted.
+Sweet. You're good for it.
+How does the on-chain transaction work?
+Does that happen in realtime?
+The stablecoins in the balance
+are then moved immediately
+to a smart contract and
+then at the end of the day,
+all the funds in that smart
+contract are then settled
+to the networks.
+So the balance is actually
+moved out of the wallet.
+So I've had $5.36 moved out of my wallet.
+But is there a real-time,
+like can you get race conditions here?
+These are the age old questions so, yeah,
+like can you overspend?
+You can double spend.
+Okay, yeah you can't overspend
+because it checks the balance
+in the wallet in real-time?
+Yeah.
+But you could have
+a double spend attack.
+If during the exact same
+moment two transactions
+are authorized at the exact same time
+on the same card from the same balance,
+then both would in theory be approved.
+So you're saying we need a
+blockchain built for payments?
+That's what I'm saying.
+And the account layer is
+something that we've had
+to build on the wallet side,
+which is actually the ability
+to freeze funds based on the first payment
+to prevent double spend.
+So it's actually something that we've had
+to build out for some of our customers,
+specifically for that reason.
+And you're doing this at the Privy level
+rather than the chain level
+and then you post that
+transaction at the chain?
+Exactly.
+That's cool.
+Again, you would see why you'd want this.
+So one of the mistakes I
+think people make thinking
+about crypto is they think it about it
+as a discrete invention.
+Like, you know, one day we had computers,
+but of course one day we had like UNIVAC
+and, you know, then we had the Apple I
+and then we had the Macintosh, you know,
+and actually the computers
+got much better over time
+to the point of almost
+being different things.
+And I think similarly people think
+of blockchains happening
+at one point in time,
+but like we tried, for
+the payments use case,
+we tried raw Bitcoin,
+no lightning or anything
+back in the day in like 2013,
+2014, that was not a
+good payments blockchain.
+I'll tell you that.
+And despite the fact that
+the Bitcoin white paper
+really talked about payments
+as the core use case
+rather than many things
+that have really worked for Bitcoin.
+And so I'm curious, as you
+look at the last 5 to 10 years
+of blockchain advancements,
+just how would you guys describe them?
+We started building, you know,
+payments use cases on top of blockchains
+like two, three years ago.
+And it became very clear to us immediately
+that none of these things were
+optimized for this use case.
+And it was like a bunch
+of micro decisions that,
+you know, probably made
+sense for different use cases
+that were being optimized for,
+but made it really hard
+for us to be successful.
+So like one example
+is that on some blockchains,
+in order to make the address,
+make it possible for that
+address to accept USDC,
+you have to fund it
+and prime it so that it is
+available to accept that USDC
+and that might cost 30 cents.
+You can't send USDC to an
+address that does not have it?
+Yeah, that does not have GAS
+and has not been basically
+programmed to accept the USDC.
+Because it would be stuck there post-fact.
+Yeah, it would just,
+the transaction would just get denied
+and you couldn't get it out and, yeah.
+And so, you know,
+imagine that you want
+to use this blockchain to create millions
+of wallets at the same time.
+You know, that becomes
+phenomenally expensive.
+The other thing is that the majority
+of these, you know, blockchains,
+in order to send a stablecoin transaction,
+you need this other random token
+that knowing, you know,
+now it's kind of just like common
+that folks are are comfortable with that
+or just the throughput
+requirements on blockchains
+or the failure rates on blockchains are
+relatively high for payments use cases.
+I mean, in fact the first time we did
+an aid payment disbursement,
+we were working with the US government
+to disperse aid payments into LATAM,
+we were sending tens of
+thousands of payments,
+which was like a lot for us.
+It's not that much for Stripe.
+It took us like 18 hours to send all
+of those transactions.
+And what was the bottleneck?
+It was the,
+basically all of
+the transactions need to be
+serially sent through the,
+and confirmed through the blockchain.
+And what would end up
+happening is that there's
+a relatively high failure rate for these.
+So a decent number would fail.
+We'd have to capture them, chronicle them,
+and then resend them.
+And it's just because they're
+not picked up, you know.
+No worse fate working on
+a blockchain than having
+to manually set the nons
+for the transaction.
+When you get to that place, you
+know it's a dark, dark time.
+Yeah, and so we just realized time
+and time again that
+there's been blockchains
+that have been built for, you know,
+trading use cases and
+blockchains being built
+for storage use cases,
+but not many blockchains that were built
+for payments use cases,
+which have their own,
+you know, it's hundreds
+of very small decisions
+that add up to a, you know,
+materially improved experience if you want
+to build payment infrastructure
+Won't Solana people say
+Solana solves this, like,
+it's the blockchain built for scalability?
+Solana is a great blockchain
+for a lot of use cases,
+but it's still not great for payments.
+Yeah.
+Maybe a a geeky,
+very geeky take on on this.
+Like if you go through the history
+is like very early Bitcoin is, I think,
+the reemergence of like
+peer-to-peer computing
+from the like, you know,
+late '90s early aughts where instead
+of these being volunteer
+networks like Tor is
+or others, this is now,
+we've built incentivization into P2P.
+So you have a means
+of incentivizing resource
+coordination globally
+through these networks.
+So that's like step one.
+I think step two, Ethereum,
+is we've gone from a
+single-purpose chain Bitcoin
+to now actually a programmable chain.
+So this is like akin to like
+von Neumann architecture.
+You move from like fixed like programs to,
+you can now store the program separately
+from the like compute and you can
+have the computer do anything.
+And so these are like Turing complete,
+they are actually Turing
+complete blockchains.
+And you know, Ethereum is the
+world computer in that regard.
+And I think the phase we're
+in now is scalability.
+So this is, you know, the L2s, Solana,
+and also specialization.
+And I think a lot of
+what crypto gets wrong
+is a super tribal take.
+Like the meme is we want to bring
+on the next billion people,
+but I think a lot of people don't mean it
+because if you bring on
+the next billion people,
+then you're no longer
+be the rebel fighting
+for this technology.
+The technology gets accepted,
+which feels very hard.
+But I think conversely
+the appropriate concern
+is like we know how to
+build scalable systems,
+just use a database, like they work great.
+And so if we give away a lot of
+what has made these systems janky,
+but has been needed for us
+to scale this technology
+and we recentralize, then
+what was all this for anyways?
+And this is I think like a sensible way
+to say if if crypto becomes
+solely regulatory arbitrage,
+it'll have been because
+we'll have taken away a lot
+of things that make these real special.
+So I think some of the like
+defensiveness around new chains
+comes from like three things.
+It's like too many scam chains around
+and people being like, well,
+this is a new chain, it's probably a scam.
+And like instead of adding,
+you know, the XKCD comic,
+instead of adding your 15th standard,
+just use one of the ones
+that's already here.
+The second I think is a
+fear of I've bled for this
+and now these newcomers are
+going to take it away from me.
+And I think the third really
+rational one is like a concern
+that there are easy technical
+paths to solving some
+of the inefficiencies that
+blockchains introduce,
+but those come at a cost.
+The UX can be better,
+but the questions of self-sovereignty,
+decentralization and so on are given up.
+But at least the way I
+would see it is like Tempo
+is another computing device.
+You know, sometimes the mobile
+phone is a great form factor
+for doing a number of things.
+Sometimes the computer is,
+sometimes rarely the iPad is,
+but like you need
+different computing forms
+to do these things.
+And like I think Tempo
+is a chain purpose-built
+for like one use case
+and doesn't mean it'll
+be good for everything,
+but conversely it doesn't
+mean the other things
+are like particularly good for
+that either, payments being.
+Yeah, I think it's like interesting
+where you see these, like,
+this isn't like a
+blockchain-specific thing,
+but you see these like pockets
+where there are moments
+in time where a bunch
+of people build the same thing
+to solve the same problem
+because the problem becomes so acute
+that like the world is like, oh,
+this is obviously a
+thing that someone needs
+to build a solution around to do it.
+And if you zoom into the blockchain where,
+we've seen this now twice,
+where a couple years ago everyone
+was building scalable
+blockchains, you know,
+Sui and Aptos and Solana
+and all of these kind of came out right
+around like the same time period
+to solve the scalability
+problems of Ethereum and Bitcoin.
+And then now we're going
+through the same moment
+where everyone's realizing
+that those blockchains
+that were previously
+great or were really good,
+but not great for payments use cases.
+And we have Tempo
+and others coming out to solve
+the payments use cases and all
+of them seemingly coming out
+and going to market at the same time,
+which is a good thing for
+the blockchain ecosystem
+because, you know,
+one or many of these will
+solve these problems.
+And this was a part of the conversations
+that we had at Privy
+when talking to Stripe
+about M&A, which was like,
+what are conditions under which we think
+we can be successful here?
+And I think one of them was
+the need to be able to work
+with competitive endeavors,
+endeavors competitive to Stripe
+itself and the, you know,
+no offense to the Bridge as well.
+And I think the point was to say
+it's way too early in
+market development to try
+and like verticalize the stack.
+Part of the core value prop
+of the stack is that
+actually it's like layered
+and you can assemble it in the way
+that best fits your use case.
+Yes.
+And I think, you know,
+at least the fear that I'm
+seeing is people thinking,
+well, this is a play at owning
+the entire thing as opposed
+to like owning modules that you can,
+and to compose that I hope, you know,
+for the sake of us being useful to Stripe,
+that Stripe will compose
+so that Stripe users get
+a really great experience
+leveraging Bridge,
+leveraging Privy, but where Privy
+and Bridge customers can
+use whatever they want
+to get the best possible experience
+for their use case and their users.
+So that's at least part of
+what I've been excited about,
+but I think has taken, you know,
+talking to my team, and
+so on about, you know,
+this is how we'll work
+with Tempo and this is how we won't.
+I think it's like if you're
+serious about all these layers
+of the stack, you can't
+bind them all together,
+because just like there's
+no way you're going to get
+that much, you know, if
+Microsoft is serious about
+the Office suite, they're
+going to have it run
+on Mac and Windows because
+you're just not going
+to get meaningful market share
+of an Office suite otherwise.
+And beyond that, like Microsoft, you know,
+at this point has its own laptops,
+but like they're not
+building their own chips,
+or maybe they are, but
+like the point is you
+can't verticalize the entire community—
+They're also mostly not
+building their own laptops
+that are running, you know,
+Windows software, yeah.
+Ultimately we want these blockchains
+to solve payments use cases.
+You know, folks are only going
+to build payments use cases
+around infrastructure that they feel like
+is open and neutral.
+Yeah.
+There's not a world
+where there's like a JPMorgan
+chain and a Stripe chain
+and a Bank of America chain
+and there's like a thousand, you know,
+unique company blockchains.
+That's not going to happen.
+The one thing I think I'll note is
+a lot of the things that are being solved
+by Tempo are like theoretically
+possible on any other chain,
+but I think this is one thing
+that we often get wrong in this space,
+which is the gap between
+the theoretically possible
+and the actually true.
+And so of the like, you know,
+Tempo features that I know our
+customers are excited about,
+the ability to like
+sponsor GAS with any asset,
+the ability to have like
+batch transactions built
+into the chain,
+you know, really reliable like throughput
+where transactions aren't getting dropped
+or priority lanes for payments
+where you're not paying more
+because something happened on the chain.
+All this stuff is theoretically
+possible elsewhere,
+but I think making it a
+primary purpose of the chain
+and making it something
+that comes out of the box
+with it ends up leading
+to a very different developer experience
+if you're building with it and so I...
+You didn't touch on the
+most controversial of all
+of those, which is decentralization.
+No but yeah
+and I think that's the two
+sides are like if you work the,
+I think that the set of launch partners
+that Tempo has is exceedingly exciting
+because if you build for these customers,
+this has been super true of
+how Privy has sought to build,
+which is we will build for customers,
+they will dictate our product
+roadmap in a very real way.
+And that is how we stay away
+from like shiny object syndrome
+or building stuff that no
+one actually cares to use.
+And I think if Tempo can do that
+and deliver for the
+partners that they have,
+they'll build an exceedingly
+useful payment chain.
+I think it comes at the risk
+of actually over-centralizing.
+And I think the real
+question is over a, you know,
+two year, three year journey,
+can they make good on
+actually decentralizing
+the validator set and the people
+who are running, you know,
+transaction validation
+on Tempo altogether?
+Doesn't this get to the related question,
+which is like nobody really knows how
+a token should be valued and
+in particular, it's not clear,
+it's at least never been clear to me
+that you could have 10
+times the transaction volume
+on Ethereum or 100 times the
+transaction volume on Ethereum,
+and no one can really
+tell you mathematically
+what that should correspond to
+in terms of the Ethereum token price.
+And I think if you try to reason about it,
+it bottoms up on like this is
+how much value we will accrue
+to the underlying token holder.
+And this is what's so
+interesting about the dynamics,
+like Ethereum, I think,
+has vastly underperformed
+its utility as a network.
+Yeah, it's like a value
+capture, value creation.
+And like Ethereum, wild value creation,
+like of all the blockchains,
+minimal value capture.
+Whereas there are a bunch
+of others where, you know,
+like Solana's probably perfect,
+you know, value creation,
+value capture, and then
+there are some others
+where there's like very
+little value creation,
+lots of value capture.
+You should name them.
+But that's where I think
+Bitcoin at least is very simple.
+Like we know what we're valuing
+and it's valued by the market in that way.
+Yes,
+Yeah, and Solana.
+Yeah, it all depends what
+your reference point is.
+Is your reference point
+other crypto assets
+or is your reference point companies.
+Right right right.
+Why is crypto so tribal?
+Is it just because people,
+it's as if people were,
+it's as if everyone was a
+shareholder in their soccer team
+and like people are constantly
+starting new soccer teams,
+is that basically what's going on?
+I think there's two reasons.
+I think, one, people's
+relationship to money
+is very complicated
+and I think, you know, as a French,
+like being a French person
+in the US like it's stark
+to see the difference
+between how people interact
+with money as a thing.
+And so I think it is that,
+it is like soccer teams
+and a self of identification
+with something
+that's like quasi-religious.
+Especially because like, you know,
+working in crypto for the last decade
+has been just being rejected time
+and again by like anyone
+else, like, you know,
+but you can tell how the
+crypto market is going
+by how people describe what they do.
+I work in, you know,
+tech or in fintech or,
+but I think being part of a leper colony
+for long enough creates
+really strong bonds
+of kinship with others.
+And then on top of that, you've got money.
+And that creates, I think,
+an insane amount of tribalism
+where you feel like if
+anybody else succeeds,
+it comes at your detriment.
+Everyone went through the
+share of suffering together.
+Yeah, and, I mean,
+I think crypto being so zero
+sum is such a great shame
+because there's such an opportunity
+to make this technology—
+Zero sum in mindset,
+do you mean?
+Mindset.
+It's not actually zero-sum.
+No, it's not.
+And it shouldn't be.
+It's very positive sum.
+Right.
+But I think we all act
+as though someone else succeeding means we
+are doing less well.
+Yes.
+Yeah.
+What has change in your
+guys' worlds post-GENIUS Act?
+On our side, it has been this
+incredible tailwind to our business.
+The benefits of stablecoins
+have not changed.
+You know, you can—
+Yeah, they were legal
+before, so it's funny.
+It's like, it's not a technical
+change to your business.
+Yeah, like the building of global products
+and the economic benefits
+of using stablecoins,
+the cross-border
+opportunities of stablecoins,
+all of these benefits were there,
+but the perceived risk of
+engaging with stablecoins
+or issuing stablecoins was really high.
+So it made everyone comfortable
+with doing stuff with stablecoins?
+Yes, yes, it purely, like
+in people's ROI brain,
+you know, it lowered the risk
+upfront and increased the—
+It was like an official statement
+from the US government that stablecoin—
+We can try things now.
+Yes.
+And so that's the first
+thing that happened.
+And the second thing that
+happened is, you know,
+we launched this open issuance platform
+because now all these folks are interested
+in launching stablecoins,
+and now people realize there's a license
+for them to participate in the market,
+and this market is likely
+going to be very big and
+a permanent part of the
+US financial ecosystem.
+Describe the open issuance
+strategy and early customers
+and just like what's going on there?
+Yeah, we have, Bridge
+was sort of predicated
+on the belief that, you know,
+one, stablecoins would be important
+and then, two, that there
+would be many of them.
+And our belief that there
+would be many of them was,
+you know, just purely based
+on like companies acting
+in a self-interested manner.
+Yes.
+And that they're going to want
+to control the infrastructure
+on top of which they're built
+and they're going to want
+the underlying economics
+of the stablecoin.
+And importantly, this has
+not been the case up to now
+where it's mostly been USDC
+and Tether, this is like
+where most stablecoin balance.
+Yeah, and it was all USDC,
+all Tether for a long time.
+And that was because the perceived risk
+of issuing a stablecoin,
+creating a stablecoin,
+doing that was really high.
+And we then, over the last, you know,
+basically year have been building
+this open issuance platform
+that makes it really easy
+for any platform to come to us
+to issue their own stablecoin
+so that they can access
+the underlying economic benefits
+and they can control the money on top
+of which whatever financial
+experience they want is built.
+So who is issuing their own stablecoin
+and who should issue their own stablecoin?
+Like for who listening
+to this should be like, "I
+should issue a stablecoin."
+I mean, everybody who's
+sitting on top of money,
+they should issue a stablecoin.
+That's the market, is all money at rest.
+And today we're issuing
+stablecoins with Phantom,
+we're issuing stablecoins with MetaMask.
+We're issuing stablecoin for Hyperliquid.
+These are all the leading crypto wallets
+in the first two cases
+and a trading platform
+in the third case?
+Yeah, yeah.
+This has been an interesting duopoly
+that we've seen, which is a lot.
+You know, one of the things
+that we find really important is
+to serve both, you know,
+traditional businesses who
+are otherwise uninterested
+in crypto other than the
+benefits that crypto gets them,
+and then crypto businesses.
+And I think both have, like,
+are going to be big businesses.
+I mean, one of them already are,
+and crypto businesses
+will continue to grow.
+But I think it's really
+important to serve both
+because you have early adopters
+in the crypto businesses
+who are the first to do these
+things that then set the rails
+for this is how it's
+done for everyone else.
+And I think GENIUS has
+at least opened it up
+so that you have a lot more
+traditional businesses engaging
+as early adopters and willing
+to be early adopters of the tech itself.
+Yeah, like what we see on
+the adoption curve is you had
+a lot of the crypto businesses,
+you know, the Phantoms,
+the MetaMask coming
+and issuing stablecoins,
+issuing stablecoins first.
+We very quickly see the
+fintechs coming after them.
+And this is like any of those folks
+who are building a global neobank,
+they're sitting on top of stablecoins.
+They're sitting on top of millions,
+tens of millions, hundreds of millions,
+billions of dollars of stablecoins,
+and they can literally just swap them out
+and all of a sudden earn, you know,
+4% on all of those balances.
+It is extremely economically
+rational for them to do that.
+Is the yield the only reason
+why you would want to do it
+as a business sitting on a balance?
+No, the other really big reason
+is that then you control your money.
+And so, and that manifests in two ways.
+So one is, let's say you want to build
+on a specific blockchain.
+Let's say you want to build on Tempo,
+or you want to build on Arc,
+or you want to build on Sui,
+or you want build on
+Aptos, or what have you.
+If it's your stablecoin,
+you can guarantee that it
+will be available to you.
+Or maybe you want to
+build your own blockchain,
+you can guarantee
+that your asset will
+be available wherever—
+You control the product.
+Wherever you move.
+And then the second thing
+is that you control all
+of the fundamental economics of it.
+So right now, a lot of
+stablecoins like Tether,
+for instance, charges burn fees
+when you move out of that stablecoin.
+So let's say you build a giant platform
+on top of a stablecoin,
+and then over time,
+that stablecoin changes the economic game.
+And now all of a sudden,
+in order to move in and out of it,
+there are additional fees.
+Now all of a sudden to
+move in and out of it,
+there are delays if you want it,
+you know, if you want it
+free, but if you want it fast,
+you have to pay more for it.
+All the economics of
+building on the platform.
+Like it's not that
+different than being Zynga
+and building on Facebook, you know,
+and then all of a sudden
+Facebook is like, oh,
+you're making more money than we are,
+like why don't we take that money and—
+So it just reduces general
+platform dependence,
+which can be economic but can be roadmap
+and all those things.
+Yeah.
+But it feels like the leap from,
+I want to use stablecoins,
+should I build my own?
+This is, if you're already convinced
+that you want to use stablecoins,
+these are the advantages
+of building your own.
+Like do you have the pitch
+for the people who, you know,
+have balances in a Chase account
+and are generally saying,
+well, I am earning a yield,
+like my savings account kind of works.
+Like, what's the pitch for
+the business that, you know,
+is otherwise not using stablecoins at all?
+So I think that ultimately
+all like corporate treasuries
+will move into stablecoins.
+So like let's say you're
+a large global company
+and you have a business,
+and I was actually talking
+to one such company.
+You have, you know, a business in the US
+and then you have a business in Brazil.
+And in order to move money
+from the US to Brazil,
+you actually, because of the
+way your entities are set up,
+you need to move it
+from the US to Ireland,
+Ireland to Singapore, Singapore to Brazil.
+You know, today that swift,
+settle, swift, settle,
+swift, settle, in the future,
+you should just tokenize your treasury,
+set up wallets and all
+balances, click a button,
+and it goes one, two, three,
+four down into the thing.
+And that should be your own stablecoin,
+because you don't want
+your balances commingled
+with everyone else and you
+want access to the yield.
+That's a very good analogy where, yeah,
+if we're a corporate treasurer,
+they then have their own system
+for kind of managing their treasury.
+But importantly people think,
+won't this be crazy if
+there are thousands,
+tens of thousands of stablecoins.
+Part of the vision is that
+they're all interoperable, right?
+Yes, there will be,
+ultimately these stablecoins will recede
+into the background
+purely as infrastructure.
+And I believe that in a
+couple years, you know,
+today, you look at a
+product and you're like, oh,
+that's a stablecoin balance
+and that's a dollar balance.
+And like it's like another FX out there.
+And actually there are many,
+because you could have a wallet
+and in that wallet you
+could have US dollars
+and you could have USDC
+on Solana and USDC on Eth,
+and USDT on Tron, and so on.
+But so like is the right
+analogy for people,
+because I think when people hear,
+everyone's going to have
+their own stablecoin,
+currently stablecoins are very different.
+It's a big thing.
+You know, there are very
+hard boundaries between them.
+Maybe people's mental
+model should be like,
+you have money in
+different bank accounts...
+like with different banks.
+And moving money between banks
+isn't like completely instant
+and trivial, but it's pretty trivial.
+Yeah.
+And and that's
+maybe the mental model?
+Yeah, and I think it will
+be like completely trivial
+to move money, like, you know,
+already from moving money
+to MetaMask to Phantom
+with stablecoins we issue,
+it's a seamless transition.
+And when you move from one to the other,
+it settles as cash or MUSD.
+And that's going to be the
+case as money pings all
+around the world when it comes to Stripe
+and then when it goes to Walmart,
+then when it goes to Amazon, and so on,
+it will just change shape,
+and be attributed to each
+of the different entities.
+How about you? The GENIUS question.
+How's it changed your life?
+So we're a software business.
+In this regard, I feel very grateful,
+compared to both of you.
+We have a much simpler life than you do
+and we're not involved
+in the flow of funds.
+And so we build software where
+we'll be able to, you know,
+really key management
+and then everything that comes with it,
+which enables these
+digital asset accounts.
+So what it's really done for us is
+it's opened up a lot
+of new business for us,
+of companies who were
+not willing to engage—
+So companies being excited.
+Who are,
+so much broader US customer base,
+much broader fintech base,
+and then much larger companies
+who are now engaging in this.
+What got you excited about joining Stripe?
+Many things, I think, so, Zach,
+we have a strong interweaving journey
+with Zach where I think, well,
+so the first time I met Zach
+was when he was talking about,
+you know, what Bridge was.
+And we all thought this is a crazy idea.
+Stablecoins are not a thing.
+The second time I met Zach,
+I think I was your
+reference call for Sequoia.
+Oh yeah, yeah, yeah.
+Where our
+joint investor at Sequoia
+Yes.
+Was like, "Do you want to talk to Zach?
+Like I feel like it'd be helpful for him
+to understand what we're
+like to work with."
+Yeah.
+And then the third time
+was you were my reference for Ribbit.
+And then the fourth
+time we were doing a lot
+of work together and I think
+you had a choice sentence,
+which was something along the lines of,
+in the next two years, we
+will either work together
+or we will compete very heavily.
+And it wasn't said as a threat,
+it was said as a pure statement of fact,
+which I think was factual in fact.
+Yeah.
+Because what you guys were building was
+so close to each other?
+We're building very different
+products in so many ways.
+Like I would argue that
+you guys are building,
+like the programs,
+you guys are building,
+stablecoins are programs—
+No, but geographically close.
+But geographically close.
+And there's a sense of as you expand,
+you'll want to move into
+each other's spaces.
+So I think this is part of the answer.
+It's the least romantic part,
+but the least romantic part
+of the answer was there was a real sense
+of if we want to move fast
+and we want to have real
+impact in the space,
+there's deep value to bundles
+and to being able to layer our software
+with stablecoin orchestration,
+stablecoin issuance with
+traditional fiat money movement
+and rails with the networks
+that Stripe has built
+across like, you know,
+marketplaces and merchants.
+And so there was a sense of we can take
+what are 10-year roadmaps for
+us with many possibilities
+of death and turn these
+into two-year roadmaps
+where the expected value
+that we have in the world becomes much,
+much greater if we're able to, you know,
+become a part of a whole
+that can serve something
+much more complete.
+So that was the first one.
+I think the second one
+which is going to sound very brown-nosy,
+so, sorry, is like a lot
+of how we've shaped Privy
+was looking at Stripe as a business
+and what it meant to
+take very complex things
+and make them more simple,
+and hopefully work towards
+elegance of APIs in order
+to unlock things that otherwise
+would not be possible.
+And so at least from, you know,
+in a world in which we
+were going to be acquired,
+who would the acquirer be?
+I think it romantically
+made a lot of sense
+for us that this would be it.
+And then frankly, going back to Zach,
+I think having seen him
+go through the journey
+and talking to him about, you know,
+what it was like, felt very reassuring.
+It felt like, you know,
+he had sort of walked,
+so we could run, I don't
+know how you would do this,
+but like basically he had
+done all of the hard things
+of figuring out M&A integration
+and we got to sort of
+follow in your footsteps.
+Pave the road.
+Pave the road for you to go down. Yeah.
+How about you, Zach?
+So, first, when we started talking,
+I didn't think our company was acquirable.
+Like I just didn't, I thought we were,
+we were so optimistic about
+what was possible with stablecoins.
+No one else could be more optimistic?
+No one could be more,
+there was like the Venn
+diagram of companies that were
+as optimistic and had like the
+capital behind it, you know,
+and the tolerance
+to push this space forward
+was like, there was like,
+I didn't think there was
+anybody in that intersection.
+So I think as like we went
+through the process, we,
+you know, Sean and I were kind
+of like the whole time like,
+"This is like not real."
+And then over time it
+became pretty apparent
+that it was real and
+there was like a very,
+like a strong shared belief in
+how big the opportunity ahead was.
+And I feel like we have pushed
+the stablecoin space forward
+in this like pretty material
+way over the last two years
+and we wanted to continue
+pushing the space forward
+and pushing it as far
+as it could possibly go.
+And it was pretty clear that that
+was like much more possible
+to do that together than
+to do it alone.
+I mean, there's just a lot of things,
+like our stablecoin issuance platform
+that we just launched.
+An amazing opportunity.
+We could launch that as
+an independent business,
+but it is a very different opportunity,
+a very different set of
+customers that are interested
+in working with us as a result.
+Well, one question I have
+that, you know, Asta,
+my co-founder and I have
+been asking is like,
+how has your view of M&A
+changed over the last,
+call it year through a few iterations?
+I mean, obviously you've done M&A before.
+Yes.
+Hopefully you will do M&A
+post-fact, we've not disgusted
+you from the prospect,
+but like what's changed about
+your old view on this is
+how we should acquire and
+integrate companies within Stripe?
+Yeah.
+At some level, Bridge and
+Privy make me much more bullish
+on M&A because we had
+an idea going in
+and Stripe was very much taking crypto
+and stablecoins seriously.
+And there's no way we would
+collectively be where we are now
+or there's no way Stripe would be
+where we collectively are now
+had we not bought Bridge and Privy.
+Now I think not everything is like crypto
+where I think the cultural
+difference between companies
+like Stripe, that essentially
+grew up before crypto,
+I mean, technically the Bitcoin
+white paper precedes Stripe,
+but, you know, for all
+intents and purposes,
+grew up before crypto, and
+more crypto-native companies.
+I basically think that
+cultural difference is useful
+and part of what we are
+bringing in is that culture.
+And that's probably not true
+in other pure like, you know,
+we know how to build software
+and, you know, we know how
+to build a bunch of things.
+And so it makes me more bullish
+because of how well it has worked.
+Broadly speaking, I think the other
+real nuance is like
+Oracle buys companies for, you know,
+15 times PE when they're growing
+at 15%-20% in a mature industry
+and then they pull out 10%
+of the cost, blah, blah blah.
+But it's like this total rinse and repeat
+of very established, you know,
+companies and they know
+how to do that really well.
+And they're exceptional at it by the way.
+They're almost like a
+quasi-private equity firm,
+but it's a different thing.
+Whereas I think the real art
+is how do you grow
+new initiatives internally
+through acquisitions and do that well?
+And is prior art here.
+And, you know, we always
+try to learn from that.
+And, you know, Google's a good example of,
+YouTube is now a $50
+billion revenue business.
+And I believe they
+literally had no revenue.
+I mean, they were hemorrhaging money
+when Google acquired them,
+but importantly they had no revenue.
+And now it's like one of
+the crown jewels in Google.
+And actually as you look
+across a huge amount of Google,
+it was all acquired in at
+this incredibly early stage.
+You know, there were acquisitions
+that became Google Maps
+and separately Google Earth
+and, you know, Google Docs
+and all this kind of stuff.
+There's actually some
+good acquired episodes
+on this recently.
+And I think that is a different skill
+to acquire things that are
+growing, you know, 10X,
+and and build those businesses.
+And a big part of the art of it,
+and you guys have seen,
+is companies are sort of
+standardization machines
+because like there's a
+way they do things, right?
+And when a large company
+makes an acquisition,
+the natural tendency is
+like, okay, great, you know,
+we're going to do things
+the Stripe way now.
+And there are some places
+where it's valuable to
+do things the Stripe way.
+Like there are certain
+things Stripe is good at,
+but there's an incredible art to, okay,
+these are things that
+we're going to standardize.
+These are things where, yeah, you know,
+you guys are going to stay
+doing it the startup way
+and that's more freewheeling
+than the Stripe way
+and that's great.
+When we closed the deal, I
+like reached out to a bunch
+of folks who had sold their companies
+to get feedback on like,
+well, how did you like it?
+Was this good? Was it not good?
+And there was like, for sure,
+there was like a fair share
+of horror stories, and regret and tears.
+But the person who was the
+most impactful was this guy
+who leads integrations at Google.
+And he had seen, you know,
+YouTube and Nest and Waze and DeepMind
+and, you know, all these
+success really successful
+and some unsuccessful.
+Sure.
+And one of the things
+that he told me,
+because I was coming in, you know,
+like I think any founder who
+comes into the company is like,
+you like running your company,
+you think you're like pretty
+good at running your company.
+You know, there's a reason
+why your company was bought
+and so you kind of want to
+like keep running your company
+and like doing your thing.
+And he was telling me that
+like it now he's seen basically
+all these acquisitions and, you know,
+you buy a company because
+you believe that there
+is some way in which,
+you know, 1 plus 1 equals more than 2.
+And so if you totally stay independent
+and you don't do any form of integration,
+there is like 1 plus 1 equals maybe 2,
+but probably less than 2.
+Almost certainly, like definitionally,
+you are setting yourself
+up for less than 2.
+And so at some point in
+time during the journey,
+there is like this moment that comes
+and it could be in year one
+or it could be in year five
+or whatever, where it becomes
+clear that the two need
+to come together to
+like create that value.
+You're saying you have to
+learn how to use the stuff
+that the large company has
+because otherwise why
+would you work together?
+Yeah, and it doesn't happen right away,
+but at some point it becomes clear
+and then you need to lean into it.
+Yes.
+And a great example
+of this is like DeepMind at Google.
+DeepMind was a totally separate business,
+separate everything for 10 years.
+But now AI is like its
+thing and now it's one.
+Yes.
+And the art was like enabling it
+to stay its own thing and like
+push forward the frontiers.
+But as soon as we entered this moment,
+bringing them together.
+Yeah.
+It's like a bit
+of collective faith.
+We can suspend this belief that
+the connection points arise
+in ways that are organic and, yeah.
+Yeah, and a big part of my conviction
+is we think
+crypto-enabled transactions
+are going to be a very large part
+of the economy
+and just Stripe's business in
+the relatively near future.
+But then it's also the
+case that there isn't going
+to be a crypto economy
+and a regular economy
+and never the two shall meet.
+And we're already seeing
+this, like one of my favorite,
+one of the most bullish stablecoin things
+in my mind is when you look
+the Felix Pago website.
+Felix Pago is a remittance app.
+It's powered by stablecoins.
+It doesn't mention stablecoins
+or crypto anywhere on the website.
+It just talks about customer value,
+the fact it's nice integration
+with WhatsApp and things like that.
+And so Felix Pago is just off competing
+in the remittance space
+and, you know, same with,
+you know, you're talking
+about neobanks starting
+to integrate, you have your fiat balance,
+and your stablecoin balance.
+And so we're just seeing this convergence
+and so I think our
+collective belief is, okay,
+we can build something really compelling
+on the infrastructure side here.
+There's actually a lot to build.
+Like there's a lot of scope
+to have a good offering in the market
+and so that's why it ends
+up being better together.
+And then the integration
+challenge is, again,
+you have these like separate companies,
+separate code bases and
+you're trying to integrate
+as you grow like an absolute banshee.
+That's just like,
+I don't know, it's a fun
+challenge, let's just say.
+I mean it's so, everything
+about it is so hard.
+Like I did not appreciate how hard it is.
+Like even little things like, you know,
+our CRM is different from Stripe's CRM
+is different from your CRM, you know,
+and bringing those things that, you know,
+and so if we're all talking
+to the same customer, who's on first?
+Yes, and, you know, we
+have acquired, you know,
+Bridge and Privy at the inflection
+it's really working
+kink in the life cycle,
+but everyone talks about, you know,
+that hold on for dear life startup stage.
+And so then what you have
+when you have an acquisition
+is you're at the hold on
+for dear life startup stage
+if this thing really
+has product market fit.
+Oh, and now we have to
+layer on a CRM migration
+and all these other things
+and just no one has more bandwidth,
+and like most startups
+are already at running
+at 120% capacity.
+And so, you know, you
+can't add more things on...
+Which anyway, that's what
+makes it challenging.
+CRM migration though, but yeah.
+What was the, I'm curious
+on the other side,
+obviously having been on the,
+our side of the table.
+Yes. Yes.
+What was it like on
+your side of the table?
+Like is there a good cop bad cop team
+between like you and Patrick
+or like other people on
+the Stripe side of the room
+of like there is a pro-champion
+and there is a like wet blanket
+as part of the acquisition talks?
+Like how do you make decisions?
+Surprisingly, no, where
+I think, look, all of me,
+Patrick, Will, Rob, you know,
+we're all super bullish
+on crypto, you know,
+super bullish on you
+guys after we met you.
+And so it's not like anyone,
+like I don't think they would
+survive the company very long
+if someone's walking around
+who's like, I don't know,
+I don't think this stablecoin
+thing is going to be a thing.
+And so the debate you're always having is,
+do we build this in-house?
+Like for every acquisition,
+there is some price that is too expensive.
+And of course part of the challenge there
+is early-stage startups.
+It's just like so hard to
+put a number on things.
+It's like venture rounds,
+it's like, you know,
+what is the price,
+like what people are paying at some level.
+And so you end up
+doing a lot of math
+and it kind of comes down to some amount
+of gut feel and, yeah.
+Yeah.
+But there's a lot of
+spreadsheets backing up
+that gut feel.
+And a lot of it is about
+the founders and the team
+because what you're buying
+is not what already exists.
+Again, it's not like
+that Oracle late stage,
+we're going to buy Cerner
+and this existing business
+and customers and everything like that.
+It's like we are going
+to build the leading crypto
+infrastructure product
+together over the coming decade.
+And there's just a lot of
+uncertainty in that, so.
+Yeah.
+Last question,
+just what do you guys project
+the next two to three
+years looks like for each
+of you on the product
+side, on the business side?
+I think, like, I don't know,
+it's been true thus far and
+we're still early, obviously,
+but it's been true thus far
+that like every year we look
+at the company and it's
+completely unrecognizable
+from the prior year.
+And I think if we can keep that
+up for another three years,
+like we're really in business
+and it's going to be very
+interesting three years from now.
+So I suspect the scale of customer
+and the amount of, like,
+call it household names who are not,
+you know, it starts in
+many ways with fintech,
+because they are the most
+exposed to money as a thing,
+but I think my hope is that
+the amount of household names
+and stablecoins themselves
+become ubiquitous
+where they are just a part
+of the fabric of reality
+if you're interfacing with like, you know,
+economic systems in the world, one.
+I think I hope wallets become ubiquitous
+whereby everybody has a means of owning
+and controlling digital assets
+and being able to port
+them across platforms
+and being able to put them to work
+in ways we couldn't have imagined.
+And then I hope, I think there's a sort of
+two step going on,
+which is Stripe itself becomes
+much more crypto-native
+and crypto kind of suffuses the entirety
+of how the company operates.
+And in like a few ways, which
+is it's like another rail
+that Stripe users can
+like choose to utilize,
+but also it is a superpower that like,
+separate from being in another rail,
+is just a whole new means that
+they get to tap into like,
+you know, some stuff it's like, you know,
+if you want to do a stablecoin sandwich
+to move money from A to B, there
+were other ways of doing it
+that might not have been as good.
+But there are things that you can do now
+with, call it open issuance,
+that you just could not have done before.
+And then I also think
+like hopefully Stripe
+is like the best purveyor
+of crypto tooling via,
+you know, Stripe's efforts via the brands
+that it has in Bridge and Privy.
+So my hope is that we're able to,
+at least on the Privy side,
+grow the team really sensibly
+to a place where we're both
+delivering extreme value
+to like standalone customers that we have
+that we couldn't dream of today
+who are like really incorporating us
+as a core part of their stack,
+like akin to AWS in level of importance,
+and then also serving that through Stripe
+and enabling Stripe products.
+That's a... Yeah.
+Yeah, I mean, on, I agree
+with like, you know,
+what you said at the
+beginning really resonated.
+Like our company, you
+know, same with Bridge,
+totally unrecognizable versus
+last year or the year before.
+Before Bridge, there really wasn't
+that much infrastructure,
+really any infrastructure
+to build, you know,
+financial experiences with stablecoins.
+So that kind of means like, you know,
+we started the company three years ago,
+our APIs were available
+for like roughly two years,
+so that means there's kind of
+only been like two years-ish
+of teams building at like
+the application layer
+on top of stablecoins.
+And so, you know,
+it's like I feel like I am like,
+even though I live in this,
+like constantly reminded
+of how early we are
+and how few applications have been built
+and how few of the big problems
+that need to be solved have been solved.
+And I think what I'm most
+excited about is more
+and more of those teams coming
+and building on that application layer
+which pushes the frontier
+of stablecoins forward.
+And, you know, that then forces
+us to change our company,
+change our APIs and change
+who and how we serve people.
+I think I really agree
+with what you're saying,
+which is people still have no idea
+how big stablecoins are going to be
+and I think they discount it
+because it feels like it's
+a lot of hype right now.
+But we're going to look
+back when stablecoins
+are 100 times bigger and just think
+of this moment as so cute.
+One question I have is whether they
+will in fact disappear.
+And to me at least it's
+one place where it's,
+for companies building on stablecoins,
+really important to maintain optionality.
+Like, you know, the joke is
+something like Bitcoin grows
+one death at a time,
+which is a person holding gold dies
+and a new generation will decide
+to hold the digital equivalent.
+Yeah.
+Like it's not just,
+I think, a difference in like degree.
+It is a difference in kind
+in a few different ways.
+And so I think the question of like,
+will it be branded as stablecoins
+or will you just like
+lose track of the fact
+that it's the underlying medium?
+Yes.
+To me that's a real question
+that like I'm interested in,
+I can see both paths five years from now.
+I think it's more likely
+that actually people
+will be more aware of this infrastructure
+because it is unique in different ways.
+Ah, interesting. I'm in the other camp.
+Okay.
+I think it will
+recede into the background.
+I think I'm more in Zach's camp
+because there's so many tech improvements
+where like remember when
+everyone was talking about AJAX?
+Like, you know, JavaScript to application?
+Then like applications
+are still, you know,
+JavaScript's web applications,
+but just we don't talk about AJAX anymore
+or you know, there was a time when
+all your iPods went solid state
+and didn't have a spinning hard disk
+and your songs didn't skip anymore.
+But like just it
+happened, life got better.
+Or like the cloud or—
+Yeah, are stablecoins
+the cloud or the solid state drive
+or are stablecoins is the computer?
+Because we talk about the computer today.
+Like I can, you know,
+you might've told me,
+well, you have a spreadsheet,
+but I've got a human computer over here.
+Yeah.
+Yeah, we do and we don't talk
+about the computer, right?
+Like my car now unlocks
+when I walk up to us
+it, but it's just a car.
+But I think both.
+Yeah.
+I think your car is like, you know,
+38 computers, but then you
+also do have your computer.
+And I think potentially
+that's how it happens.
+For the most part,
+it will recede and it will
+become fabric of like reality.
+Yeah.
+But in some places,
+I think it'll be like blindingly obvious.
+Yeah.
+Okay, we're going to do
+another one of these in five years time
+and we'll check back in on the,
+whether people are still
+talking about stablecoins
+despite 100X the volume.
+Yeah. All righty.
+Yeah.
+Thank you, guys.

@@ -1,0 +1,1152 @@
+Hello everybody. Welcome to another
+episode of Fronta, the podcast where we
+analyze crypto insights from frontier
+markets. And today we have Sack Abrams.
+He's the co-founder of Bridge. Bridge
+was acquired last year by Stripe and
+they've been killing it lately. And this
+is an episode in preparation for the
+stable coin conference that's going to
+happen on August 27 and 28 in Mexico
+City. You can visit the website that
+it's stablecoin conferenc.com
+and also with the code fronta 10 you can
+get your tickets powered by fronta and
+yeah I'm really happy to have sack here
+and sag you know that there is this joke
+about the stable coin summer and the
+brit pop summer I think that the
+headliners of the brit pop summer are
+oasis definitely and the headliners of
+the stable coin summer it seems like
+it's rich
+>> I did not even know that there was a
+competing summer. So,
+>> maybe I created
+>> it how heads down we've been. Yeah.
+>> Yeah. Yeah. Yeah.
+Dude, also talking about being heads
+down. A couple of weeks ago, there was
+this meme on Twitter about share
+something about yourself. And I think
+that you've done a lot of podcasts about
+bridge, your journey. So I I would
+advise if people don't know what is
+bridge, I would advise to listen
+specifically to the empire episode. I
+think that was was a really great one
+talking about the story, the vision.
+We're going to talk a lot about it also
+today. But I want to start with this
+meme that you shared about share a piece
+about yourself. You said that bridge
+started as a consumer app and obviously
+not a lot of people know that. Tell me
+what's the story behind that. Well, we
+so Sean and I started working on some
+version of Bridge in around like
+February, April of 2022. And this is
+like when
+this is the very tail end of the NFT
+sort of uh cycle, the last NFT cycle.
+So, you know, it was almost the NFT
+summer. uh and we
+basically wanted to create a way to
+acquire NFTts, you know, with fiat
+funds. And so we were imagining creating
+a wallet where you could link a bank
+account. Uh you would be able to pay
+with you know your this wallet funds
+would be pulled from your bank account
+converted into stable coins and then
+used to acquire these NFTts. So it was
+kind of like a consumer play, a consumer
+wallet play. And we basically
+uh you know once we started working on
+it, you know, between then and and when
+we were like somewhat close to launching
+uh you know just like everything that
+could go wrong went wrong in the sense
+that you know we we went from you know
+nobody being in that space to everyone
+being in that space. there was a huge
+number of competitors and the NFT space
+also just completely fell over and so we
+worked on it but we never shipped it and
+we very quickly pivoted uh to into the
+unknown. We actually stopped working on
+that idea before we had an idea of what
+we would want to build next which was
+pretty scary. I mean, you know, Sean and
+I, it it was probably the the the point
+at which we had the most friction in our
+relationship as founders because, you
+know, we have been working on this thing
+that we wanted to ship. And the feedback
+you get from everyone is like, oh, just
+ship a product and get it out in front
+of consumers and iterate and so on. And
+I didn't want to do that. I wanted to
+like nuke that product and and start
+over. And um I I thought that we were
+kind of iterate we would be iterating
+from a place that was um a pretty you
+know had a der of resources. You know
+it's like you know if the first well you
+drill there's no oil within a 100 miles
+why why would you drill there? Um, and
+so it was a it put a bunch of strain on
+our relationship, but but you know, I
+think in the end there's like no amount
+of arguments that go back and forth that
+can convince, you know, one person to
+the other. In the end of the day, there
+was just, you know, we at Sean and I had
+started another company and so there was
+a huge amount of trust and um he kind of
+trusts trusted the the my instincts and
+we stopped and just pivoted into the
+unknown. Yeah, that was one thing I was
+going to mention also that this is your
+second company with your co-founder,
+right?
+>> Yeah, it is. It is. And um you know a
+lot of people talk about how like you
+know starting a company is like getting
+into a marriage or you know whatever
+whatever other analogy folks folks want
+to use and and I do think that like you
+know to the you start a company and
+everything goes well then like you know
+even a more tenuous relationship will
+probably work out because you create
+this like immense connection through the
+success of whatever it is that you're
+starting. But but our thing certainly
+did not go did not go well and uh you
+know the first idea didn't work. It was
+really stressful. We pivoted. We didn't
+know what we were going to work on for a
+long period of time. And so having this
+like well of trust and this just desire
+to go on the journey together is played
+like an enormous role for us making out
+the other side. And by this time you
+have already raised like an angel round
+as what was the fundraising situation?
+Well, well, this was 2022, so this was
+this was like, you know, in crypto
+terms, this was before Terra Luna
+happened
+>> and this was before FTX happened. And
+so, you know, an angel round at the time
+was big.
+>> Uh, and so, and so we had raised, you
+know, a lot of money. Um uh and we were
+and and like I felt this like immense
+sense of pressure to do something
+valuable with with that money and
+actually when we when we pivoted it was
+by far the most stressful time you know
+in starting the company and you know I
+was losing sleep I was super anxious I
+wasn't like eating that well and it All
+because I felt like, you know, we had
+decided to go on this journey and this
+first idea was bad and investors had
+trusted us and we were letting them
+down. And I actually called one of our
+investors and you know after we pivoted
+and I called them I was like hey you
+know this idea and I like you know I
+like rehearsed the call. I had like
+talked about the call with Taylor, you
+know, like because I thought it was
+going to be so so tough. And I called
+him. I was like, "Hey, you know, this
+this is not, you know, this first idea,
+you know, we lost confidence in it.
+We're pivoting. You know, I just wanted
+to give you a heads up." And he was
+like, "Oh, I didn't think that idea was
+any good anyway."
+And
+>> I'm glad you did it.
+>> Yeah. It was like it it was kind of the
+first of many lessons where you know the
+the when you're starting a company for
+me you know the pressure that I put on
+myself is so much greater than the
+pressure that others you know put upon
+us. And so oftent times when like I'm
+feeling the most stress it's it's
+generally self-induced. Uh and
+>> and we've seen that play out like
+multiple times over. But yeah, I mean he
+was like I I didn't think this was going
+to work. And then I was like, "Oh, I I'm
+I I I'm we're working really hard. We're
+going to find a new idea in like a month
+and we're going to go." And he was like,
+"Oh, I I figured you'd probably take a
+year, maybe longer, to figure out what
+you work on." So, it's just this
+reinforcing of my own expectations and
+and so on being so much so disconnected
+from what I perceived his expectations
+would be.
+>> Yeah. I think that that's a classical
+story of h there's this quote about
+where Kobe got gets asked like what do
+you what do you think about fans
+expectations and he says like fans
+expectations no one's going to have
+higher expectations for me than myself
+right
+>> so I think that it's a classical way of
+like a founder or someone that is a top
+performer in their in their field
+like we try to put ourselves like in
+that amount of pressure and then trying
+to move from that is kind of complex and
+it's hard to see through the fog but at
+the end everything worked out. How did
+you landed into the stable coin idea
+because you you wanted to think for a
+month how long did you did it take to
+like to get this idea really really like
+settled down.
+>> Yeah. I mean even just coming back to
+your expectations point you know I still
+feel that today you know like I feel you
+know pressure I am positive that the
+pressure that I put on myself you know
+for to deliver whatever at the end of
+this month or whatever at the end of the
+year or you know for bridge to become X
+or Y is uh you know greater than you
+know whatever else is out there and
+that's just sort of like a permanent I I
+think that's probably like a uh You
+know, now I've like come to realize
+that's just like a part of building
+building the company that that
+motivation kind of has to come
+internally from whoever is driving the
+product forward. You know, if the
+external forces are what's driving, you
+know, setting higher expectations,
+that's probably not a good situation to
+be in. Um
+>> yeah,
+>> but but but how did we how did we um how
+did we make our way to bridge? So we um
+we when we started this transition you
+know this pivot away from the first idea
+our one of our big takeaways was that we
+want like we knew we wanted to build in
+the crypto space. We like fundamentally
+believed that this was going to be you
+know very important financial
+infrastructure. Uh but we the first
+product was highly focused on a very
+cryptospecific use case which was NFTTS
+and so we knew going into this search
+that that you know one we wanted to work
+in the crypto space but two we didn't we
+wanted to build something that we
+thought was going to be useful and um
+and powerful outside of the the the sort
+of crypto world. uh that existed at that
+moment in time and you know the crypto
+space was very small. You know there's
+there's you know millions of people at
+the time probably around the world who
+were who were using crypto products and
+we we we wanted to approach and serve
+much bigger markets but we didn't know
+exactly what markets we wanted we wanted
+to solve
+over time. there was probably no like
+one specific insight that that got us
+there but but maybe the accumulation of
+like multiple different conversations uh
+and and some of which happened well
+before we started the pivot. So when I
+was in 2019, I was at Coinbase. I was
+leading the consumer business at
+Coinbase. And at that time, we launched
+USDC. And at the time, we didn't at the
+time, we didn't know how we were going
+to use USDC. Uh, and one of the ideas
+that we had was to take USDC and
+embedded across all of the Coinbase
+consumer properties and build this
+global consumer NEO bank on top of
+stable coins. And we never ended up
+doing that. But that idea had sat there
+of like stable coins as this like global
+core global bit of financial
+infrastructure that opened up whole new
+markets. And so I kind of had that
+sitting in the back of my mind. Then two
+is that we started to see some USDC and
+some USDT traction and we had this had
+conversations with several several other
+folks that made us believe that there
+would be multiple other stable coins
+that there was going to be this desire
+due to due to you know wanting to
+customize the actual smart contracts to
+access the yield or to derisk the
+reserve management for folks to want to
+have their their own their own stable
+coins. Um, and then the the third thing
+is that we we saw the launch of um
+of actually Binance's stable coin and
+saw how that started to gain, you know,
+tons of traction. And so through the
+combination of this like apply this this
+real application at Coinbase you know
+seeing believing in the proliferation of
+stable coins and ultimately seeing USDB
+launch or B USD launch we gained this
+belief that you know one stable coins
+would be super important and two there
+would be many of them and those two
+premises were very core to bridge and
+once we had those two beliefs we then
+were kind of off to the races building
+what ultimately became bridge
+Okay, perfect. So, basically you went
+through the idea maze and
+your experience at Coinbase was
+instrumental to understand uh stable
+coins, the asset uh how to use it as a
+financial infrastructure, right?
+It it it certainly was and you know but
+but this was I I left in mid 2019 so we
+had like just launched USDC so it was
+all like hope you know it was all uh
+this uh at the time we we never I didn't
+see it through you know it ultimately
+took much longer than I would have
+anticipated for USDC to be deeply
+embedded across all the consumer
+products it took like 3 four years for
+that to for that to happen but that was
+incredibly important in making this
+realization.
+>> Yeah. And what one thing about like
+getting to product market fit as you
+said for a USDC took longer maybe
+because the infrastructure was not
+there, blockchains were not um as fast
+as today. Also, I can I can see how
+complex the Coinbases infrastructure in
+2019 is completely different. It should
+be completely different as today's
+>> from wallets. How do you manage
+liquidity? A lot of things uh a lot of
+things change and I came I come to to
+this uh comment because personally I've
+seen a lot of companies use bridge as a
+as a story. I talk with a lot of
+foundaries in in frontier markets
+specifically in Latin America and bridge
+came a lot during different
+conversations. Even some people uh some
+fellow friends that in when when I was
+working at Bitso they constantly were
+saying like bridge is killing it. Bridge
+is doing great. Uh one com one friend
+also told me like yeah we use bridge
+like everyone else. So basically it was
+like a commodity right for this type of
+technology in Latin America specifically
+that's where I have like more context
+about it but I'd love to to know the
+other side of the story like from the
+insights from bridge um could you share
+a little bit of information of how
+relevant Latin American emerging markets
+are for you? Yeah, I mean we so when we
+started like you know we kind of we had
+this like inside a bridge of like okay
+stable coins will be important and there
+will be many of them and we can build
+this infrastructure and and so on and
+then and and then we we set off to
+actually build the product which you
+know our product is a bunch of
+orchestration APIs that enable you to
+convert between you know fiat and stable
+coins or stable coins stable coins
+stable coin fiat and then as part of
+that issue your own stable coins.
+and these core orchestration and
+issuance APIs. It took us a long time to
+build, you know, many many months to
+build. And we thought that the first
+application of these would be crypto
+products. And so we set out and and kind
+of picked you know the the first
+customers which were two crypto
+companies and uh they were like
+wellunded US companies you know so on
+and uh they were our early design
+partners and then in around March or so
+we launched with them and basically both
+of those companies went out of business
+with within like two weeks or so of
+launch And then I went on Twitter and
+just posted that hey we've built this
+bit of infrastructure you know here's
+our website please come and talk to us
+you know we desperately need someone to
+use the product and through Twitter uh
+the demand just organically started to
+come from Latin America so one of the
+first developers that came to us was a
+team based in Colombia that was building
+a crossber payment payments app. And by
+working with them, we began to
+understand the crossber payments
+opportunity with stable coins. And then
+we had another team come to us in Mexico
+who wanted to build something similar.
+And then we had another team come to us
+in Brazil. And so it was less, you know,
+our our sort of product market fit in
+Latam was less about, you know, our our
+sort of foresight, you know, that that
+we were building this bit of
+infrastructure that would be really uh
+useful in this market and more so that
+that that the builders and entrepreneurs
+in Latam pulled it out of us. They came
+to our product and showed us what was
+useful and then asked us to adjust and
+shape the product to meet their needs.
+And a big pivot point for us actually
+came when when very early on like you
+know three four three months in maybe
+when we got connected to Bitso
+uh your and and your old team and uh we
+started we we started we like negotiated
+the contract and it was actually you
+know some of the folks you probably know
+it was like very
+it was a very funny experience because
+we were like three people at the you
+know, Bitso is like, you know, the core
+customer that you can get in in Latam.
+And uh Nano, if you know, Nano was the
+person that Yeah. that we were
+negotiating the contract with
+>> and and because we were like such small
+potatoes for for them. Nano would like
+call me to negotiate the contract when
+he was like on his like scooter, you
+know, you'd like hear like horns beeping
+and like, you know, and then and then he
+like pulls up to a light, he like yells
+at someone and then he like yells at me.
+He's like, "No way are we going to pay
+that price, you know?" And then like try
+or he's calling me when he's at the gym,
+you know? It's just like so unimportant
+to him that he's just like squeezing it
+in between all the other all the other
+times at work. And you know we we we
+eventually signed the contract with them
+and launched in September and that
+represented a very big inflection point
+for us. How I I want to have some more
+insight on that demand because that
+started picking and definitely when you
+know classical thing of growth begets
+growth and now you start working with
+the largest crypto company in Latin
+America and also you're starting to work
+with other smaller companies across the
+region and your product market fit in
+Latin America is expanding and I think
+that something that I that we try to
+communicate a lot in Fonta is that
+really there are a lot of cultural erh
+things in common in in Latin America
+specifically, but there are a lot of
+different use cases across the region
+that are completely different. So from
+the inside, could you walk us through
+like the main use cases that you've seen
+in Mexico, Brazil, Argentina, Colombia?
+What's the main thing on each market?
+Yeah and and I I like very strongly
+agree with agree with that point. I
+mean, one of our, you know, we build
+infrastructure for developers. And so,
+what has always been the case for us is
+that, you know, entrepreneurs, builders,
+enterprises come to us and they know
+their business and they know their end
+customers and they come to us and they
+tell us what their in customers demand.
+You know, we aren't serving those in
+customers. And so through working with
+all of these teams, we are able to, you
+know, understand where the stable coin
+space can and should go. And this has
+just played out many, many, many times
+over. Um, we are I think there are some
+products where you you know you're
+you're you have like a very crisp view
+of where things need to be and you're
+like you know and oftentimes this is the
+case in like consumer products or what
+have you and you're sort of pulling the
+space towards your view. Uh in our case
+it is that we know that there's this
+multitude of ways in which the stable
+coin space can unfold and these like
+dozens and dozens and dozens of use
+cases that will be discovered. And by
+working with developers and builders all
+over the world, they'll help us see
+these use cases. And over the last
+couple years, you know, we've there's
+really like two core things that I would
+say today are working and very clearly
+working. The the first is uh crossber
+payments and we see crossber payments
+working in every way shape or form. So
+this could be like supporting scale.ai
+and taking US dollars, converting them
+into stable coins and paying people out
+all over the world. It could be um uh
+working with SpaceX to take funds uh
+from LATAM and move them back into the
+US or it could be you know the the the
+fiat to fiat flow. So, you know, helping
+a business in Europe pay a contractor in
+Mexico and Mexican pesos. And then the
+second use case that's really working as
+stable coins as this global financial
+building block. So, we've started to see
+neo banks and you know consumer and B2B
+fintex build on top of stable coins and
+it is this one platform on top of which
+they can serve consumers in Mexico or
+businesses in Brazil or Argentina or
+what have you. And before stable coins,
+you'd have to build, you know, MXN
+infrastructure, then BRL infrastructure,
+then, you know, Argentinian peso
+infrastructure, and so on. Now, you can
+build one on top of stable coins and use
+that same product to serve consumers in
+a bunch of different markets. We're
+seeing those two things clearly work.
+And now, as this space has been pulled
+forward, uh, we're starting to see other
+use cases emerge. you know, treasury use
+cases and bank use cases and marketplace
+use cases like Shopify and so on
+accepting payments and even beginning to
+see the hints of some agentic use cases
+that are all starting to to come to be.
+But those first two use cases are the
+ones that are the most developed and
+have been the most proven by a huge
+number of builders all across Latan
+showing us what's what's possible there.
+Yeah, I think that understanding the
+story of stable coins, some of the first
+powerful use cases are the ones that you
+just said about money movement, right?
+>> Like the the need to move the asset
+quickly on an asset that is USD
+denominated is fundamental. Something
+that I I believe is that we are entering
+the phase of the stable coin and crypto
+era where it's not it's not just
+important to have quick money movement
+but the blockchain as a decentralized
+ledger can solve a lot of reconciliation
+problems to big fintexs. And so we're
+moving from moving money to just having
+a common ledger that you cannot do fraud
+that there are all these stories in
+fintech that they need to put out of
+their balance sheet because their
+banking rails do not match. I think that
+we're moving to that moment on stable
+coins.
+>> Yeah. I mean I mean very concretely one
+of the ways in which almost all fintech
+applications are built today is like FBO
+accounts. you know, you have one pulled
+account and then you ledger that account
+for every single consumer or business.
+And one of the one of the things that is
+like super nice about building on top of
+blockchains and stable cocoins is you
+you get a ledger for free. You know, I
+worked at I worked at, you know,
+Coinbase and and Square and, you know,
+so on. We we have enormous teams that
+are just building and maintaining a
+ledger.
+>> And that benefit alone is extremely
+valuable to teams. that enables you as a
+team of two people to launch a neo bank.
+That would never be possible, you know,
+never ever be possible to do with a team
+the same size.
+>> I completely agree. When I when I joined
+Bitso, they hired me to be like this
+payment ops manager for crypto and one
+month in we realized like we don't need
+that. Like there's no payment ops in the
+blockchain. We don't need to call a
+bank. We don't need to do
+reconciliation. And then I moved around.
+But that's a I think that that that's a
+specific insight that a lot of fintexs
+are coming to to understand
+and and now I would love to talk more
+about your growth in frontier markets
+because
+>> as I understand Latin America is your
+largest market right now.
+>> Yep. Yep.
+>> Okay. Perfect. and you're moving
+obviously scaling globally
+for people that are building from
+different parts of the world into Latin
+America. I would love to hear some of
+the main challenges or some stories that
+you find that would be interesting to
+share. We've in in Fonta we have the
+best essays about frontier markets and
+one that we identified is that in Latin
+America there are big problems. There's
+not a lot of funding and talent is
+scarce. So we're seeing teams like
+bridge like the guys at Etherfuse that
+are American people building huge
+businesses in Latin America. So for
+those folks, what can you share about
+the region? Some interesting stories
+about building here.
+>> Yeah, I mean I I'll I'll um one one
+example that kind of touches on your
+previous question of like you know how
+this market has shaped our product and
+then you know highlights sort of some of
+the use cases that that we're solving.
+So a year ago, we basically our product
+was the only fiat rail that we supported
+or the only fiat rails that we supported
+were US dollars and euros and our
+business was like overwhelmingly focused
+on the US market and from a from a fiat
+standpoint.
+And uh one of our investors, this was
+sort of before the whole Stripe thing,
+one of our investors came to us and you
+know asked us if we were thinking about
+adding support for local payment methods
+in Mexico or Brazil or Argentina or
+Colombia or or wherever else. And at the
+time I told him no like we see zero
+demand for that. All the folks who were
+building on our product had already
+built connectivity into the local
+market. And so it it would be like a a
+team in Colombia who had built you know
+direct access to COP and were looking
+for you know stable coin access in the
+US market or a company like Bitso. Bitso
+had already built the local connectivity
+into you know Mexico, Brazil, Argentina
+so on and they were looking for stable
+coin and USD or Euro access and then
+when the um when the Stripe acquisition
+was announced the market materially
+shifted and we saw a whole new set of
+folks come in and start you know wanting
+to build with stable coins and a lot of
+these folks had not yet built that local
+connectivity.
+And so all of a sudden building local
+support for you know Mexican pesos or
+BRL or whatever else became incredibly
+important. And so you know just a couple
+just a couple weeks ago with the help of
+local partners we launched support for
+you know MXN payins and payouts. you
+know, pretty soon we'll be doing the
+same thing in BRL and the same thing in
+Argentina and the same thing in in in
+Colombia and and it's all because a
+whole new set of builders are coming to
+create you know local pay local pay
+local products for these markets but
+they need you know deeper connectivity
+and so you know what our our product is
+is very much sort of shifting as
+builders come to us and seek
+different things that they want to that
+they want to build. And so that could
+be, you know, before it was that that
+Colombian business or that Colombian
+builder was just building in Colombia,
+but now that that same Colombian
+entrepreneur wants to expand to Mexico,
+wants to expand to Argentina. And so I
+think with the help of our
+infrastructure, we're enabling these
+folks that would just be serving local
+markets to expand and serve across the
+entire region. We're also helping folks
+who built FinTech that want to come into
+Latam to serve consumers to come in and
+add, you know, storage and local payins
+and local payouts. And so the the the
+shape of the products with, you know,
+the infrastructure that we've built has
+changed materially over time as the
+builders have have come to us and told
+us, you know, what's needed. How do you
+see what's like the end state of bridge?
+because this sounds a lot like I don't
+know like a swift on the blockchain. Uh
+like super fast
+no t + one settlement
+uh all these connections is like a do
+building a global payments network or a
+global money movement network not
+necessarily payments but how do you see
+that?
+Yeah, I mean I I think
+so I think that stable coins represent
+like a complete platform shift in in in
+financial services. So cards were the
+last really big platform shift for money
+and you know we talk about platform
+shifts like um you know mobile was a big
+platform shift or AI now is a big
+platform shift but but these like
+platform shifts do not impact every
+space equally. uh for instance like the
+mobile platform shift did not
+necessarily revolutionize healthcare but
+but AI is a big platform shift for the
+for the healthcare space financial
+services have you know their own
+platform shifts the car was this
+enormous platform shift it was a totally
+new way of of moving money uh and you
+know a lot of the really big fintexs
+were built on the back of cards whether
+that's new bank or revolute or you know
+stripe or what have
+And uh crypto represents something very
+similar.
+It is a
+platform shift for money and stable
+coins in particular are are um are we
+think going to be like an enormous new
+building block on top of which a lot of
+existing financial services are rebuilt
+and a whole bunch of new financial
+services are created. And we think that
+bridge is going to play an incredibly
+important role there. Much like, you
+know, you could think of like JP Morgan
+or something as this global bank that
+has created this like full stack of
+solutions to enable folks all over the
+world to deeply access uh global fiat
+infrastructure. We are doing the same
+thing for this new tokenized dollar
+infrastructure. And so we believe that
+we're going to, you know, there's going
+to be these tokenized rails that exist
+globally and that infrastructure like
+ours that help, you know, entrepreneurs
+and builders in any part of the world to
+access and build whatever products they
+want on top of these tokenized rails uh
+is going to be incredibly important. And
+we're going to serve them in whatever
+way makes sense. Um, and we're kind of
+going to be this new global financial
+institution that uh provides the full
+stack of solutions for folks who want to
+build on top of these new tokenized
+dollars. I think that this approach of
+this new infrastructure being a platform
+shift it makes a lot of sense more when
+you think about this is something that I
+was while making some like the research
+for the episode obviously stripe
+acquired bridge stripe acquired prebi so
+it's it feels like they are building or
+you are building this strip or like a
+super band of interesting crypto
+products um personally I see bridge as
+like I don't know like the plumbing of
+the house. Uh maybe pre is like the
+house preset because they need to host
+the assets or something and that's I
+think that's something that the Collison
+Patrick Collison or one of the brothers
+said in a in a post or an interview. So
+I see how things can are being connected
+like bridge being the pump making move
+everything and when things don't move
+they need to be hosted somewhere that's
+prevy. I would love to get more insight
+then again from from the inside the
+platform shift that you are that you're
+thinking definitely stripe is like
+building a backbone for that how will
+this infrastructure look in a couple of
+years the connection between stripe
+bridge uh pre maybe more acquisitions to
+come more products to come what's the
+strategy
+>> yeah I would So um you you know we we
+view you know collectively stable coins
+as this really big platform shift. We
+think that stable coins are this first
+like universal file format for money.
+It's open source and we want to give
+people the ability to build on top of it
+in whatever way makes the most sense to
+them. And there are multiple ways in
+which you can access that today. and we
+want to support you at whatever level of
+abstraction makes the most sense for you
+and and your business. So at the bottom
+of the stack there is the actual payment
+rails. So, you know, we work with and
+partner with, you know, blockchains and
+foundation teams and so on to enable
+folks to have the best experience if you
+want to build on top of Salana or
+Stellar or an EVM chain or base or
+whatever else. A level above the actual
+base layer is the account and the
+account is Privy. Um, privy sits on top
+of the rail itself and gives you the
+ability to store a balance and engage
+with that rail. And so if you want to
+interact, you know, with this new stack
+at the account level, you know, privy is
+going to be the best set of the the best
+um abstraction that enables you to build
+whatever products you want. Bridge sits
+on top of the rail and on top of the
+account. And bridge is like the bank.
+Just like a bank, we give you access to,
+you know, spay rails or or or a rails or
+blockchain rails or whatever else. We
+give you access to accounts and we wrap
+it all so that you can build whatever it
+is you want to build and then on top of
+the the bank itself
+are all the applications and the and and
+the applications are either going to be
+built you know some of which are being
+built by Stripe which you know Stripe is
+kind of like the AWS for money and so
+Stripe is um enabling payment acceptance
+and you know store balances and and and
+payins and payouts and you know all
+these products unique for merchants but
+there's also you a bunch of other teams
+who were building, you know,
+applications on top. And so we're
+building this stack that enables folks
+who want to build on this new platform
+to engage at whatever level makes sense.
+>> Whenever there is a a platform change,
+also some formats die. And it's really
+interesting to think about that in a in
+a payments approach. Uh, I was just
+thinking about this meme of how ports
+have changed in a MacBook. Like maybe
+this could be like AC and Spay and Evan
+and I don't know the one of Brazil that
+I forgot the name and now it's only
+USBC, right? before we need to have
+>> y
+>> a lot of a lot of different ports to
+different types of inputs for the
+computer, energy, data, erh storage, a
+lot of things. How do you see that that
+would change globally with stable coins?
+Do you believe that everything will run
+on stable coins? Which ports are the
+most important that will never die? this
+because obviously if this happens it's
+decade decades of work because it's so
+embedded in the in the global
+infrastructure. How do you see this
+evolution?
+>> I I think that I think it's a great
+question and I think um if I had to
+guess I I I would I would say that there
+will not be you know one stable coin
+format that wins. uh I believe that
+stable coin there's you know platform
+and there will be th hundreds of
+thousands millions of different stable
+coins and I think there will be a role
+to play for US dollar stable coins there
+will be a role to play for local stable
+coins there's going to be enormous role
+for like AMMs that enable the conversion
+between stable coins uh and so I I don't
+think that it's all going to unify the
+same way they those ports do around US
+USBC VC.
+Um, and I I I and so that's the way I
+think it will play out. What I believe
+will happen is that a lot of the
+reduction of those ports, so to speak,
+will happen under the hood without
+consumers realizing it. And I don't
+think people have an app, you know, I
+certainly did not have an appreciation
+for how complicated
+uh it is to store and move money
+globally. Like I had zero appreciation
+for the complexities of this space. You
+you basically have hundreds of walled
+gardens with all these different file
+formats and there's no clean conversion
+mechanism when a file format needs to
+change. You know, when you need to send
+dollars into euros, it's it's really
+complicated. Or dollars into pesos, the
+most the the largest remittances
+corridor in the world, it's extremely
+complicated, let alone pesos to naira,
+you know, and what I think is going to
+happen is all this fiat infrastructure,
+which is literally these walled gardens,
+will be converted into tokenized, you
+know, dollar formats. and all of and and
+a lot of that friction between
+converting between file formats will
+basically just go away. Uh and it's
+going to enable global products in a way
+that was not possible before. or it's
+going to reduce the cost of payments and
+like I saw this at Square and we see
+this at Stripe when you reduce the
+barriers to financial services uh e even
+very marginal reductions you know
+shaving bits off of transactions
+it creates this like whole new worlds of
+economic opportunity uh and when you
+open up markets that that were not
+possible before now FinTech and so on
+can serve global audience just like
+stripe and enabled merchants to sell to
+the world. Uh it enables, you know, a
+whole bunch of like financial benefits
+to consumers. So that's what I'm like
+most excited about. That's the way I
+think things will will will unfold.
+>> Yeah, definitely. I see a big
+opportunity on something like a I don't
+know a sappier for payments that
+basically connects everything. It mixes
+it and the user never knows. Erh, it's
+like when you go abroad and you pay with
+your card, you don't say I'm offramping
+USD and on ramping MXN. Basically,
+everything happens behind and you don't
+care right?
+>> And
+>> we are getting close to the ending of
+the episode.
+You've been building a pretty successful
+company. You've worked at like top
+fintech and crypto companies around the
+world. and you've you have this insight
+that you've chatted with a lot of
+entrepreneurs around Latin America and
+other emerging markets and whenever you
+do this like user research or product
+demonstrations it's really easy to
+identify problems that they're having
+that you don't want to solve because
+it's not in my field and I don't care
+that they are having problems with X
+because I want to focus on building
+bridge right you being suck H but
+obviously with all the product document
+that you have and like the payments
+document that you have, I would love to
+hear maybe two or three problems that
+excite you that entrepreneurs in Latin
+America around payments are having
+because those are big opportunities for
+someone to build a solution around.
+>> Yeah, absolutely. And and the thing I'd
+say is before going into the specifics
+there is, you know, I talked to, you
+know, we just we just chatted a bit
+about sort of where the space can go
+and, you know, what we think how big we
+think the opportunity is going to be.
+And and if there's one big thing I've
+learned in starting Bridge is that is
+that you know ultimately what this space
+ends up becoming is going to be entirely
+defined by what people built. And it
+sounds super obvious but but but
+oftentimes we talk about spaces like
+it's like this inevitable march of
+progress, you know, like the space is
+inevitably going to go in this go in
+this direction and that's not the case.
+like people actually have to build it
+and and we felt that viscerally with
+with our product and our space like the
+you know when we started our company the
+stablecoin space was like nowhere you
+know it was like dead you know FTX
+collapsed people thought crypto was dead
+there was nothing going on and like use
+case by use case we built momentum and
+helped some people see what was possible
+and you know there are there are dozens
+hundreds thousands of teams who will do
+the same in all sorts of different
+directions for stable coins and
+ultimately the work that folks do there
+will shape what this space becomes. Um
+so then specifically to to your answer
+so uh I I think there are a few things
+I'll give I'll give a few um a a few
+areas that I'm most you know interested
+in. Um the first is generally just
+tokenization. So right now we've done a
+lot of work to build really good dollar
+tokenization in the US and you know if
+if you think about like you know US
+dollar tokenization we can mint and burn
+very large amounts we can do it
+programmatically you can do it across
+multiple issuers you know there's really
+good soundness of a dollar it it's like
+it's very very good and then and then
+there's like European tokenization which
+is like you 20% as good as US
+tokenization. It's it's you can't mint
+and redeem. You know, it's it's just
+much weaker. And then there's like the
+rest of the world which is, you know, a
+lot of those products are um even more
+naent. And we what what we want is more
+tokenized dollars in more places like we
+have demand on our platform to store
+tokenized MXN tokenized BRL tokenized
+Argentinian peso tokenized CO uh these
+these dollar formats need to be
+tokenized. There needs to be good
+infrastructure around that tokenization
+so that you can mint and redeem it
+really easily. Ideally you can do that
+with other stable coins. uh and that's
+going to enable a whole bunch of new
+financial products to be to be built.
+So, we're really hoping to see a lot
+more teams invest in that space. The
+second area is local connectivity.
+You know, we're building with partners
+in Mexico and Brazil and Argentina and
+we need better better payment better,
+you know, payment APIs and more reliable
+infrastructure in all of these markets.
+uh super important for the space. Like
+even as more, you know, stable coins
+proliferate, you're still going to need
+to settle into fiat um in a bunch of
+different ways. And so that connectivity
+becomes very important. And then the
+last area is like more abstract, but one
+of the things that I'm that I'm really
+excited about is as more dollars are
+tokenized, you basically start to have
+open-source money and people can begin
+to build programmable build applications
+on top of this money in a way that
+wasn't possible before. And in the US,
+you know, the way you build these
+applications is by connecting to Plaid.
+You know, for those of you who know, you
+like flaid is basically the the the
+wrapper on top of which money becomes
+programmable in the US and it's a very
+uh weak rapper, but that doesn't exist
+in a lot of markets. Uh and so, you
+know, folks who can build those rappers
+that enable folks to build on top of
+these tokenized dollars will enable even
+more applications to get built.
+>> Yeah, perfect. I I I see them. It's
+really
+The first thing that you said that
+basically people that build build the
+products will shape the future of the
+industry is basically the classical
+human ingenuity of how like one simple
+design decision can change the future of
+how money moves around the world in the
+next couple of years. So that's really
+exciting and also it's really exciting
+to hear these things that you say
+because there are several teams across
+different regions building these type of
+solutions and I think that there's a big
+opportunity there's a big opportunity to
+fund these teams and there's a big
+opportunity for people all around the
+world to come and build these things
+that it's something that we've explored
+heavily in front and sack well thank you
+for coming to Fronta
+you are I think that bridges is a big
+part of the stable coin conference
+that's going to happen in August.
+We're going to be super happy to host
+you in Mexico City. Any final remarks?
+Anything that you want to say before
+closing the episode?
+>> No, huge thanks for huge thanks for
+having me. And you know, anyone who
+wants to build with Bridge, if there's
+any way we can help, just visit us at
+bridge.xyz
+and uh we can get you access to the to
+the APIs. would love to build with
+whomever wants to build. Uh so so
+uh please please visit us and and help
+us shape what this space ultimately
+becomes.
+>> Amazing. Perfect. Well, as always,
+subscribe to the newsletter. We're going
+to post a deep analysis on on the
+episode with Sak and Sak, thank you for
+coming. You can follow me at Abrahamcr,
+follow Fronta and Espas Crypto and see
+you next time. Thank you.
