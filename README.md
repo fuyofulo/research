@@ -21,6 +21,10 @@ research/
 │   │   ├── how_to_build.md
 │   │   ├── liquidity_architecture.md
 │   │   ├── architecture.md
+│   │   ├── operational_partnerships.md
+│   │   ├── may_2026_update.md
+│   │   ├── numbers.md
+│   │   ├── website_faq_analysis.md
 │   │   ├── happypath.png                     (user's hand-drawn flow)
 │   │   └── transcripts/                      → Founder interview transcripts
 │   ├── blockworks/
