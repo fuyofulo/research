@@ -16,6 +16,11 @@ companies/<company-name>/
 ├── architecture.md           → how the product actually works under the hood — technical mechanics, API surface, banking partners, on-chain custody
 ├── use_cases_and_examples.md → named customers with concrete end-user walkthroughs (NOT generic descriptions)
 ├── marketing_vs_reality.md   → the truth file — every marketing claim dissected against verifiable substrate
+├── explain_like_new_teammate.md → dumb-questions explanation: what it does, who buys it, how the product flows, why it matters
+├── product_flow.md           → canonical step-by-step user/data/money flow, including failure cases and handoffs
+├── source_ledger.md          → source-by-source provenance: what each source proves and how reliable it is
+├── contradictions.md         → conflicting claims, stale metrics, copy drift, and unresolved inconsistencies
+├── diligence_questions.md    → what to ask before investing, buying, partnering, or competing
 ├── developer_experience.md   → API/SDK quality, sandbox, KYB, pricing reality, gotchas (only when company has a developer-facing product)
 ├── product_evolution.md      → quarter-by-quarter changelog (only when company has 2+ years of history worth tracing)
 ├── on_chain_truth.md         → for blockchain-native companies — direct mirror-node / explorer pulls comparing claimed TVL/volume to verified reality
@@ -23,6 +28,97 @@ companies/<company-name>/
 ```
 
 The five core files for any non-trivial company are: **deep_dive, architecture, use_cases_and_examples, marketing_vs_reality**, and a fifth that depends on company type — `developer_experience` for API companies, `on_chain_truth` for protocols, `product_evolution` for mature companies with rich history.
+
+The five **understanding/provenance files** should be produced for every serious company research run unless the company is too small or source-poor: **explain_like_new_teammate, product_flow, source_ledger, contradictions, diligence_questions**. These are not optional polish. They are what make the research usable after the long-form deep dives are written.
+
+### Understanding/provenance files
+
+#### `explain_like_new_teammate.md`
+
+This is the file for "dumb questions." Write it as if a smart new teammate knows nothing about the company or category but must understand it by tomorrow.
+
+Required sections:
+
+- What does the company do in one sentence?
+- What problem exists before this product?
+- Who buys it?
+- Who uses it day to day?
+- What exactly happens step by step inside the product?
+- What data, money, or state moves through the system?
+- Why is this hard?
+- Why now?
+- What is actually impressive?
+- What is still unclear?
+- The mental model: "Think of this company as..."
+
+#### `product_flow.md`
+
+This is the canonical flow file. It should be simple enough to explain verbally, but specific enough that an engineer/operator can see the moving pieces.
+
+Required sections:
+
+1. User starts here.
+2. Data enters here.
+3. The system transforms it here.
+4. External tools/partners/rails are called here.
+5. Money/data/state changes here.
+6. User sees output here.
+7. Failure cases go here.
+8. Human handoffs happen here.
+9. Mermaid diagram of the primary product flow.
+
+#### `source_ledger.md`
+
+Inline citations are necessary but not sufficient. The source ledger prevents accidental over-reliance on company-authored marketing.
+
+Use this table:
+
+| Source | Type | Date | What it proves | Reliability | Notes |
+|---|---|---|---|---|---|
+
+Source types: company page, docs, blog, case study, investor post, press release, regulatory filing, third-party press, customer-authored source, podcast/interview, analyst report, social profile, explorer/on-chain data.
+
+Reliability labels:
+
+- **High** — primary legal/regulatory filing, direct docs, on-chain pull, customer-authored proof, audited report.
+- **Medium** — reputable press, investor post, founder interview, partner announcement.
+- **Low** — company marketing page, unsourced metric, cached snippet, directory profile, scraped profile.
+
+#### `contradictions.md`
+
+Start this file even if it is short. Startups change copy fast; stale snippets and metric drift are findings.
+
+Use this table:
+
+| Claim | Source A | Source B | Conflict | Why it matters | Current interpretation |
+|---|---|---|---|---|---|
+
+Look specifically for:
+
+- metric drift (`$600M` vs `$1B`, `90%` vs `98.8%`)
+- product-scope drift
+- geography/license drift
+- customer-count drift
+- "launched" vs "coming soon"
+- legal entity mismatches
+- old brand vs new brand
+- acquired vs partnered vs integrated
+
+#### `diligence_questions.md`
+
+This is the buyer/investor/competitor question bank. Organize it by:
+
+- Product
+- Customers
+- Revenue/pricing
+- Unit economics
+- Security/compliance/legal
+- Technical architecture
+- Operations/services ratio
+- Competition
+- Founder/company history
+
+Every diligence file should end with the **top 10 questions** ranked by importance.
 
 ---
 
@@ -172,7 +268,112 @@ For protocols and on-chain products, never accept claimed TVL / volume / users a
 
 ---
 
-## 6. The marketing-vs-reality discipline (most important section)
+## 6. Phase 2 — normalize evidence and explain it simply
+
+After the parallel streams return, do **not** jump straight from raw reports to final prose. Add a Phase 2 pass that converts evidence into understanding.
+
+### Step 1 — normalize the evidence
+
+Create or update:
+
+- `source_ledger.md`
+- `contradictions.md`
+
+Rules:
+
+- Every source that materially supports the research goes into the ledger.
+- Every material mismatch gets written down, even if the likely explanation is "old copy."
+- Company-authored case studies prove that the company claims a customer/result; they do not independently prove the result.
+- Investor posts are useful but still promotional.
+- Directory profiles are weak evidence unless they point to another primary source.
+
+### Step 2 — decide the actual category
+
+Before writing final analysis, force a category decision:
+
+| Question | Answer |
+|---|---|
+| What category does the company say it is in? | |
+| What category do buyers likely think it is in? | |
+| What category do incumbents likely think it is in? | |
+| What category is it actually in? | |
+| Which adjacent categories are misleading comparisons? | |
+
+This prevents lazy competitor lists. A company can mention "AI," "payments," "contracts," or "stablecoins" without actually being an AI infrastructure company, PSP, CLM, or protocol.
+
+### Step 3 — map the product flow
+
+Create `product_flow.md` before writing the final architecture summary. The flow should answer:
+
+- What is the user trying to do?
+- What is the first object created or connected?
+- What systems does the product read from?
+- What transformations happen?
+- What is written back to external systems?
+- What happens when the happy path fails?
+- Where do humans intervene?
+- What would break if the product disappeared tomorrow?
+
+### Step 4 — explain it to a new teammate
+
+Create `explain_like_new_teammate.md` last. This file should be low-jargon and high-clarity. It should not be dumbed down; it should be made legible.
+
+The target reader should walk away able to answer:
+
+- What does this company actually do?
+- Why does anyone pay for it?
+- What does the product do in order?
+- What is the business model likely to be?
+- What is impressive?
+- What is risky or unresolved?
+
+### Step 5 — write the diligence file
+
+Create `diligence_questions.md` after the skeptical read. Ask the questions that would decide whether the company is real, scalable, defensible, and safe to buy/use/invest in.
+
+Always include questions about:
+
+- unit economics and gross-margin pressure
+- human-operations vs software automation
+- pricing and contract structure
+- customer concentration
+- compliance and legal entity details
+- security artifacts and subprocessors
+- claims methodology
+- data export and lock-in
+
+---
+
+## 7. Business model and unit economics
+
+Every company research run should include business-model reasoning somewhere, usually in `deep_dive.md`, `marketing_vs_reality.md`, or `diligence_questions.md`.
+
+Answer:
+
+- What does the company charge for?
+- Is pricing seat-based, usage-based, volume-based, transaction-based, platform-fee, spread-based, AUM-based, or services-based?
+- Is pricing public or sales-led?
+- What is likely high-margin software?
+- What requires humans, capital, licenses, support, or partner fees?
+- What gets cheaper with scale?
+- What gets harder with scale?
+- What is the wedge?
+- What is the expansion path?
+- What could compress margins?
+
+For AI/automation companies, explicitly estimate the **software vs services ratio**:
+
+| Workflow | Pure software | AI-assisted | Human ops | Unknown |
+|---|---:|---:|---:|---:|
+
+For fintech/crypto companies, explicitly estimate the **capital/partner dependency**:
+
+| Workflow | Own license/rail | Partner-routed | Manual/ops-heavy | Unknown |
+|---|---:|---:|---:|---:|
+
+---
+
+## 8. The marketing-vs-reality discipline (most important section)
 
 Every company markets itself in ways that are technically true but materially misleading. The job of research is to translate marketing back into substance. Patterns to watch:
 
@@ -197,7 +398,7 @@ Neither is dishonest standalone. Together they reveal that "what the company is"
 
 ---
 
-## 7. Common pitfalls to avoid
+## 9. Common pitfalls to avoid
 
 1. **Generic descriptions.** "They do stablecoin payments" is worthless. Always force specificity: which currency pairs, which corridors, which customers, which dollar figures.
 2. **Single-source claims accepted as fact.** If something only appears on the company's own marketing, label it 🔴 — even if it sounds plausible.
@@ -209,10 +410,14 @@ Neither is dishonest standalone. Together they reveal that "what the company is"
 8. **Letting agents waste tool calls on duplicated WebSearch.** When prompting parallel agents, partition the search space — don't give two agents overlapping mandates.
 9. **Reading the agent's full JSONL output back into context.** It's huge. Save the final report as a file and reference the file path; never `cat` the JSONL transcript.
 10. **Premature synthesis.** Save individual stream reports as separate files first. Synthesize across files later only if the user asks.
+11. **Skipping the dumb-questions explanation.** If you cannot explain the company simply, you do not understand it yet.
+12. **Treating customer case studies as independent proof.** They prove the vendor is willing to publicly claim the result; they do not prove the metric unless the customer independently confirms it.
+13. **Ignoring metric drift.** Conflicting numbers across current pages, cached snippets, and press releases are findings. Put them in `contradictions.md`.
+14. **Missing the unit-economic tell.** High-touch support, partner routing, capital needs, manual compliance, and concierge operations can be the product, but they change the business model.
 
 ---
 
-## 8. Git workflow
+## 10. Git workflow
 
 Every company deep-dive ends in a series of commits to the GitHub research repo:
 
@@ -224,7 +429,7 @@ Every company deep-dive ends in a series of commits to the GitHub research repo:
 
 ---
 
-## 9. Quick checklist (use this every time)
+## 11. Quick checklist (use this every time)
 
 Before starting:
 - [ ] Created `companies/<company-name>/` folder + `transcripts/` subfolder
@@ -239,9 +444,15 @@ While running:
 While writing:
 - [ ] Every non-trivial claim has ✅/🟡/🔴 label
 - [ ] Sources cited inline as markdown links
+- [ ] `source_ledger.md` created with source type, proof, and reliability
+- [ ] `contradictions.md` created, even if it says no material contradictions found
 - [ ] Mermaid diagrams for architecture and money flows
+- [ ] `product_flow.md` explains happy path, failure cases, and human handoffs
 - [ ] Customer walkthroughs are SPECIFIC (named users, named cities, named banks, dollar figures)
 - [ ] Marketing-vs-reality file ends with the honest 30-second pitch
+- [ ] `explain_like_new_teammate.md` answers the dumb questions in simple language
+- [ ] `diligence_questions.md` lists buyer/investor/competitor questions and ranks the top 10
+- [ ] Business model / unit economics / software-vs-services ratio is addressed
 - [ ] On-chain claims verified against block explorer reality (for protocols)
 
 While committing:
@@ -251,7 +462,7 @@ While committing:
 
 ---
 
-## 10. The mindset
+## 12. The mindset
 
 The default mode of company-research is **breathless summarization** of the company's own marketing. The default mode of *good* company research is **adversarial verification** — assume every claim is a marketing artifact until verified, then say which ones survived.
 
