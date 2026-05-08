@@ -54,7 +54,7 @@ research/
 │   │   ├── use_cases_and_examples.md
 │   │   ├── marketing_vs_reality.md
 │   │   └── product_evolution.md
-│   └── altitude/
+│   ├── altitude/
 │       ├── README.md
 │       ├── deep_dive.md
 │       ├── architecture.md
@@ -64,6 +64,44 @@ research/
 │       ├── developer_experience.md
 │       ├── product_evolution.md
 │       └── transcripts/
+│   ├── velocity/
+│       ├── README.md
+│       ├── deep_dive.md
+│       ├── architecture.md
+│       ├── developer_experience.md
+│       ├── use_cases_and_examples.md
+│       ├── marketing_vs_reality.md
+│       ├── product_evolution.md
+│       ├── explain_like_new_teammate.md
+│       ├── product_flow.md
+│       ├── source_ledger.md
+│       ├── contradictions.md
+│       └── diligence_questions.md
+│   ├── corgi/
+│       ├── README.md
+│       ├── deep_dive.md
+│       ├── architecture.md
+│       ├── use_cases_and_examples.md
+│       ├── marketing_vs_reality.md
+│       ├── product_evolution.md
+│       ├── explain_like_new_teammate.md
+│       ├── product_flow.md
+│       ├── source_ledger.md
+│       ├── contradictions.md
+│       └── diligence_questions.md
+│   └── kast/
+│       ├── README.md
+│       ├── deep_dive.md
+│       ├── architecture.md
+│       ├── use_cases_and_examples.md
+│       ├── marketing_vs_reality.md
+│       ├── product_evolution.md
+│       ├── explain_like_new_teammate.md
+│       ├── product_flow.md
+│       ├── source_ledger.md
+│       ├── contradictions.md
+│       ├── diligence_questions.md
+│       └── on_chain_truth.md
 ```
 
 **Conventions:**
@@ -125,6 +163,21 @@ research/
 | [companies/altitude/on_chain_truth.md](./companies/altitude/on_chain_truth.md) | **On-chain ground truth.** Standard Solana DeFi rug-check returns mostly N/A: no Altitude token, no protocol-pooled vaults, no DefiLlama listing (the "Altitude" on DefiLlama is a different EVM bridge). On-chain footprint = Squads V4 + Smart Account Program PDAs deployed by Altitude's backend keypair. V4 immutable + 4-firm audited; SAP audited but upgrade authority `HT3JknwuufXdtVJggz5Z9JcnYtanPpLzTCqLWsVX1Vu2` NOT yet burned. **Five-minute verification recipe** for getting true Altitude AUM (enumerate every smart account created by Altitude's deployer authority, sum balances). $200M throughput claim plausible but not on-chain-verifiable today. Real risks are operational (Bridge/Stripe counterparty, KYB engine, USDC/Bridge stablecoin SPOF) — not the program layer. April 2026 address-poisoning attempt was UX-layer phishing, zero financial loss. | 2026-05-05 |
 | [companies/altitude/developer_experience.md](./companies/altitude/developer_experience.md) | **Grid API developer experience — sandbox, KYB, SDK, pricing, gotchas.** Public OpenAPI 3.1 spec at `grid.squads.xyz/api-docs/openapi.json` — 51 paths, 211 schemas, MIT-licensed. Self-serve dashboard, sandbox/devnet/mainnet envs, idempotency keys, structured errors with `documentation` link field. **Embedded-wallet aggregation: Grid orchestrates Privy + Turnkey + Dynamic + raw passkey + external signers behind one REST surface** with automatic provider failover and TEE-based HPKE session encryption. Sumsub-backed KYB with "approve once, distribute everywhere" PSP fan-out. Pricing: Basic $0, Pro $499/mo, Enterprise custom — but **fiat rails, KYB, fee sponsorship, multisig proposals are ALL enterprise-only** (Pro is demo-ware). Two genuine gaps: NO public webhooks (showstopper for production async), NO documented rate limits. SDKs: `@sqds/grid` 3.1.2 (~2.5k weekly DL), `@sqds/multisig` 2.1.4 (~26k weekly DL — load-bearing in Helium / Hyperlane / LayerZero / Solana Foundation explorer / sendai-fun / faremeter). Weekend feasibility: Solana-only stablecoin payroll = yes; ACH-funded USD payroll = enterprise-tier no. | 2026-05-05 |
 | [companies/altitude/product_evolution.md](./companies/altitude/product_evolution.md) | **Quarter-by-quarter changelog 2021→2026.** Q3 2021 Solana Season hackathon: team of 6, mobile-first DAO governance MVP, **UNFINISHED** — creation-myth correction; they're framed as "the multisig team from day 1" but explicitly tried to build a DAO platform first. Pivot DAO platform → governance → multisig primitive. V1 mainnet Feb 2022 + $5M Multicoin round. V3 late summer 2022, immutable Feb 2023. V4 Oct 2023 — first formally verified Solana program. V4 fully open-sourced Oct 11 2024, **immutable Nov 22 2024**. Fuse smart wallet Jun 2024 + $10M Series A. Breakpoint Singapore Sep 2024: V5 + Fuse Pay (Visa via Bridge). SAP live Q1 2025. Grid public Sep 2025. **Altitude public launch Solana Breakpoint Abu Dhabi Dec 11-13 2025.** Earn (Plume + Kamino+Gauntlet + BlackRock-via-BUIDL) + Bill Pay shipped Q1 2026. $18M strategic Apr 29 2026. **Killed/dropped:** DAO governance, Realms integration, "Teams" account type, "Trade Any Asset", Fuse de-prioritized to plumbing under Altitude. **Three full program rewrites** (V2→V3→V4→SAP). | 2026-05-05 |
+| [companies/velocity/README.md](./companies/velocity/README.md) | **Velocity folder index — enterprise stablecoin payments and treasury infrastructure.** Headline: serious competitor to the stablecoin CFO stack idea, but taking the high-end enterprise route: payments, settlement, treasury, liquidity, FX, API, custody, compliance, and TMS/ERP integrations. Raised $10M pre-seed in May 2025, later added Dragonfly, with named Fireblocks and Zodia Custody partnerships. Docs are gated; customer/volume/licensing coverage remains unproven publicly. | 2026-05-07 |
+| [companies/velocity/deep_dive.md](./companies/velocity/deep_dive.md) | **Velocity deep dive — founders, funding, legal footprint, partners, maturity, competitive read.** Founded/announced by Tom Greenwood and Eric Queathem; current public leadership centers Eric Queathem. UK holding company incorporated Jan 2025; PSC filings still list Greenwood and Queathem. Team appears ~25 people across London/Warsaw. Strong institutional stack: Fireblocks, Zodia, Dragonfly, Paxos/USDG, Revolut quote. Verdict: real and serious, but broad enterprise execution scope creates room for a narrower AI-native Solana CFO wedge. | 2026-05-07 |
+| [companies/velocity/architecture.md](./companies/velocity/architecture.md) | **Inferred architecture — account/ledger/policy layer over custody, bank, liquidity, compliance, and stablecoin rails.** Public API primitives include entity, wallet, bank_account, quote, transfer, beneficiary, Travel Rule, and fees. Homepage exposes a `USDC-EUR` transfer quote example. Custody likely runs through Fireblocks/Zodia; compliance likely combines Velocity workflow ownership with vendors/partners. Exact chains, currencies, bank partners, and custody legal model are not public. | 2026-05-07 |
+| [companies/velocity/developer_experience.md](./companies/velocity/developer_experience.md) | **Developer experience audit.** Velocity has an API posture (`api.velocity.xyz`, portal, docs landing, sample quote call), but full docs are password-protected. No public OpenAPI spec, sandbox, SDK, rate limits, pricing, webhook payloads, or supported coverage. Public DX score: 5/10, likely higher privately. This is a wedge for us if we expose a clearer sandbox/API from day one. | 2026-05-07 |
+| [companies/velocity/marketing_vs_reality.md](./companies/velocity/marketing_vs_reality.md) | **Marketing-vs-reality audit.** Real: company, $10M pre-seed, Dragonfly investment, Fireblocks/Zodia partnerships, SOC 2 Type I posture, portal/API/docs footprint, hiring. Not proven: live volume, named customers, country/currency/chain coverage, direct licenses, pricing, public API quality, and whether AI is a meaningful product layer. Strongest positioning is trust, not crypto novelty. | 2026-05-07 |
+| [companies/corgi/README.md](./companies/corgi/README.md) | **Corgi folder index — AI-native full-stack startup insurance.** Headline: Corgi turns startup business insurance into a fast quote/bind/document workflow, while building the regulated operating stack underneath: licensed producer entities, affiliated/partner carriers, claims admin, underwriting/pricing/policy ops, and AI across quoting, underwriting, claims, fraud, and service. | 2026-05-08 |
+| [companies/corgi/deep_dive.md](./companies/corgi/deep_dive.md) | **Corgi deep dive — YC S24 insurtech/financial infrastructure company.** Founded 2024 by Nico Laqua and Emily Yuan; YC lists team size 70. Announced $108M seed+Series A in Jan 2026 and $160M Series B at $1.3B valuation in May 2026, over $268M raised. Core wedge: startup insurance packages for CGL, D&O, Tech E&O, Cyber, Media, EPLI, Fiduciary, and specialized lines. Key nuance: "full-stack carrier" is legally a group/program structure, not one simple entity. | 2026-05-08 |
+| [companies/corgi/architecture.md](./companies/corgi/architecture.md) | **Inferred architecture — AI-assisted insurance operating system.** Flow: application intake → risk classification → AI/rules/human underwriting → pricing/quote → payment/bind → policy/certificate generation → dashboard → upgrades/claims. Public disclaimers say AI/ML/automated tools are used in marketing, quoting, underwriting, pricing, policy issuance, claims processing, fraud detection, and customer service, with human oversight for material decisions. | 2026-05-08 |
+| [companies/corgi/use_cases_and_examples.md](./companies/corgi/use_cases_and_examples.md) | **Customer workflows — insurance as blocker removal.** Named examples: Intryc used Corgi to move from submission to documents/Slack support in ~5 minutes for enterprise compliance; Eragon closed an enterprise contract in days; Imagine AI went form → quote → paid → insured in about 2 minutes; Sorcerer needed custom global hardware-risk coverage; Artisan claims broader coverage 30% cheaper and bound in two days. | 2026-05-08 |
+| [companies/corgi/marketing_vs_reality.md](./companies/corgi/marketing_vs_reality.md) | **Truth audit.** Real: YC S24, named customers, producer licenses in 45 jurisdictions, $268M+ raised, $1.3B valuation, AI usage disclosures, ETF filings through Corgi Strategies. Needs diligence: "$40M ARR" definition, loss ratio, combined ratio, risk retention/reinsurance, which policies are Corgi-affiliated vs partner-underwritten, and claim outcomes. Main tell: landing page says "we own our carrier"; legal docs reveal affiliated/partner carriers, TRRG, producer entities, claims admins, and reinsurance. | 2026-05-08 |
+| [companies/kast/README.md](./companies/kast/README.md) | **KAST folder index — stablecoin-powered neobank/card app.** Headline: KAST gives users a USD account, stablecoin deposits/withdrawals, local payouts, Visa cards, memberships/rewards, and yield products. It raised $80M Series A in Mar 2026 and claims 1M+ users and ~$5B annualized volume. Critical diligence: KAST is not a bank, services are partner-provided, and ordinary stablecoin deposits are treated in the Terms as a sale to KAST for a USD reference balance. | 2026-05-08 |
+| [companies/kast/deep_dive.md](./companies/kast/deep_dive.md) | **KAST deep dive — consumer/business stablecoin banking alternative.** Founded by Raagulan Pathy and Daniel Bertoli; Pathy is ex-Circle APAC/Singapore CEO. $10M seed led by HSG/Peak XV, then $80M Series A co-led by QED and Left Lane. Products: USD accounts, cards, payouts, stablecoin deposits/withdrawals, KAST Earn, memberships, and Business waitlist. Entity in Terms: KAST Tech, Anjouan, Comoros; regulated services provided by partners. | 2026-05-08 |
+| [companies/kast/architecture.md](./companies/kast/architecture.md) | **Architecture — custodial stablecoin neobank ledger over partner fiat/card/crypto rails.** Flow: KYC → USD reference ledger → partner ACH/Fedwire account, stablecoin/crypto deposit and swap, Visa card authorization, local PSP payouts, and Earn vaults. KAST Cash is legally different from Earn: normal deposits become KAST-owned assets with user reference balance, while Earn claims USDKY/vault shares sit in user's Privy wallet on Solana/Base. | 2026-05-08 |
+| [companies/kast/marketing_vs_reality.md](./companies/kast/marketing_vs_reality.md) | **Marketing-vs-reality audit.** Real: app, support docs, fees, stablecoin network matrix, USD account support, cards, $80M Series A, M0 partnership. Needs diligence: active users, volume methodology, partner bank/issuer/custodian structure, reserve backing, account protection, card/payout success, and whether "unlimited" survives compliance reality. Copy drift: 170/190/200+ countries, 10% vs 7% APY, rewards changes. | 2026-05-08 |
+| [companies/kast/on_chain_truth.md](./companies/kast/on_chain_truth.md) | **On-chain truth file.** KAST uses on-chain rails but is not publicly analyzable like a DeFi protocol. Supported deposit/withdrawal chains are documented, and M0/KAST USDKY is described publicly, but official token addresses, reserve dashboards, KAST wallets, and on-chain AUM/volume are not public. Most diligence must focus on legal terms, partner structure, and ledger/reserve practice rather than explorer data. | 2026-05-08 |
 
 ---
 
