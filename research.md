@@ -31,6 +31,53 @@ The five core files for any non-trivial company are: **deep_dive, architecture, 
 
 The five **understanding/provenance files** should be produced for every serious company research run unless the company is too small or source-poor: **explain_like_new_teammate, product_flow, source_ledger, contradictions, diligence_questions**. These are not optional polish. They are what make the research usable after the long-form deep dives are written.
 
+### The quality bar — structure is not enough
+
+A complete folder is not automatically good research. The target standard is:
+
+> **Dense competitive intelligence + clear explanation + explicit provenance.**
+
+Every serious research run should hit all three:
+
+1. **Rich factual density** — the report should contain hard numbers, named entities, dated events, product mechanics, pricing, API details, legal structures, and customer examples. Avoid vague filler.
+2. **Adversarial interpretation** — the report should say what is real, what is marketing, what is inferred, what is weak, and what a competitor should learn from it.
+3. **Reusable clarity** — the report should still be understandable to a new teammate who does not know the category.
+
+When reviewing your own output, ask: **would this help us make a build/buy/partner/compete decision, or is it just a polished company summary?** If it only summarizes, it is not done.
+
+### Minimum factual density checklist
+
+Every serious company file set should aggressively look for and include:
+
+- Funding rounds, round dates, leads, total raised, valuations, and strategic investors.
+- Revenue, ARR, volume, AUM, TPV, customer count, user count, headcount, geography, and growth claims.
+- Founder history, prior exits, prior employers, unusual founder-market-fit signals.
+- Legal entities, incorporation jurisdictions, license names, license numbers, regulator names, and current ownership/acquisition status.
+- Bank partners, card issuers, issuer processors, payment processors, custodians, broker-dealers, KYC/KYB vendors, liquidity providers, stablecoin issuers, custody vendors, and infrastructure vendors by name.
+- Product SKUs as customers buy them, not only marketing categories.
+- Pricing, fees, spreads, FX markups, take rates, APY/yield terms, minimums, volume tiers, and footnotes.
+- Named customers, named use cases, disclosed savings, implementation times, support burden, customer complaints, and review-site sentiment.
+- API base URLs, auth model, scopes, webhooks, idempotency, rate limits, SDK/package names, GitHub/npm stats, sandbox behavior, and docs quality.
+- Recent product launches, killed/de-emphasized features, roadmap claims, and copy drift over time.
+
+If a fact cannot be found, write that down. A missing bank partner, missing sandbox, missing license number, or missing customer metric is often itself a finding.
+
+### Richness rubric
+
+Use this rubric before calling a research folder complete:
+
+| Dimension | Weak output | Strong output |
+|---|---|---|
+| Numbers | "Fast-growing fintech" | "$100B+ annualized purchase volume, 50K+ customers, $1B+ ARR, valuation $32B, all company/press-claimed unless audited" |
+| Partners | "Uses partner banks" | "Cards issued by Sutton/Celtic; processor Marqeta; Bill Pay via Increase; treasury via First Internet Bank + Apex + FUGXX" |
+| Developer detail | "Has an API" | "Base URL, OAuth/Bearer model, scopes, endpoint families, webhook signing, sandbox limits, SDKs, package stats" |
+| Customers | "Used by enterprises" | "Perplexity: 7-9K monthly transactions, 97% straight-through coding; Notion: 10+ countries, 94% in-policy" |
+| Marketing audit | "Claims are mostly true" | "30-claim table; each claim translated into verified / inferred / marketing; hidden fees and methodology issues identified" |
+| Competitive value | "They compete with X" | "Here is the wedge they own, the moat that is real, the gap a startup can target, and why it matters for our thesis" |
+| Usability | "Long report" | "README one-liner, product flow, new-teammate explainer, source ledger, contradictions, diligence top 10" |
+
+The best research combines both columns: it is dense enough for strategy and clear enough for onboarding.
+
 ### Understanding/provenance files
 
 #### `explain_like_new_teammate.md`
@@ -205,15 +252,20 @@ Every non-trivial claim must carry one of three labels:
 - Company name origin (sometimes reveals the original thesis)
 - The pivot story (what was the first idea? when did they pivot? why?)
 - Funding round-by-round with leads, co-investors, valuations, and any strategic investors
+- Current ownership status, acquisition offers, completed acquisitions, and whether current copy still reflects standalone status
 - Major acquisitions made by the company (e.g., BVNK acquired System Pay Services for the EMI license)
 - Press timeline as a structured table — useful for spotting clustering of events
 - Geography: incorporation, HQ, offices, where engineering vs sales sits
 - Regulatory licenses: enumerate each one with jurisdiction, license type, license number
+- Headcount, hiring footprint, layoffs, offices, and leadership changes
+- Revenue/ARR/volume/customer/user metrics, with exact source and confidence label
+- Founder-market-fit signals: prior exits, domain background, investor relationships, regulatory experience, distribution history
 
 ### Stream 2 — Architecture and products
 
 - The actual product SKUs (not the marketing categories — the real things customers buy)
 - Banking partners: who holds the fiat? Get NAMES not "tier-1 banks"
+- Card issuers, issuer processors, networks, card program managers, payment processors, broker-dealers, custodians, sweep banks, trust companies, KYC/KYB vendors, and compliance vendors
 - Liquidity / mint mechanics: how does fiat actually become stablecoin? Is there an internal float? Where does the float get replenished?
 - On-chain custody: self-custody, MPC, Fireblocks, Privy, in-house? Be specific
 - Settlement chains supported with stablecoins per chain
@@ -223,6 +275,9 @@ Every non-trivial claim must carry one of three labels:
 - SDK availability and quality (count GitHub stars/forks/last-commit; read package.json publish date)
 - Sandbox limitations (what works, what doesn't — sandbox lies are common)
 - Pricing: any public rate card? FX spread caps in the Fee Disclosure Statement? Volume tiers?
+- Security/compliance artifacts: SOC 2, ISO 27001, PCI, pen tests, audits, status page, trust center, subprocessors
+- What is built in-house vs partner-routed vs manual operations
+- What breaks if a named partner disappears
 
 ### Stream 3 — Customer use cases
 
@@ -248,6 +303,14 @@ This is the highest-leverage file. Approach:
 3. **Look for the "tell."** Partnership announcements that paper over weaknesses. Strategic investor lists that reveal what the company can't do alone. Marketing that quietly drops earlier claims (Credible dropped "Solana" from its enterprise positioning).
 4. **Identify the dual-positioning game** — does the company pitch differently to crypto audiences vs enterprise audiences? Both can be honest standalone but together suggest message-segmentation for fundraising.
 5. **The honest one-liner.** End the file with a 30-second pitch describing the company as it actually is, not as it markets itself.
+
+Also include:
+
+- **What does not survive scrutiny** — inflated metrics, hidden spreads/fees, stale claims, non-exclusive partnerships, roadmap features marketed as live, regulatory footnotes, support complaints, or weak moats.
+- **What is genuinely impressive** — real moats, execution speed, distribution, regulatory depth, customer trust, unusual technical depth. Skeptical does not mean dismissive.
+- **Competitor wedge** — what a new entrant should target, what is not worth attacking, and what would be hard to copy.
+- **Business-model tell** — where the company likely makes money, what scales with software, what requires humans/capital/licenses/partners, and what margin pressure exists.
+- **AI reality check** for AI-marketed companies — what is actually automated, what is human-reviewed, what is just extraction/classification, and what evidence supports autonomy.
 
 ### Stream 5 (when applicable) — On-chain ground truth
 
@@ -454,6 +517,16 @@ While writing:
 - [ ] `diligence_questions.md` lists buyer/investor/competitor questions and ranks the top 10
 - [ ] Business model / unit economics / software-vs-services ratio is addressed
 - [ ] On-chain claims verified against block explorer reality (for protocols)
+
+Quality-gate before calling it done:
+- [ ] The folder contains enough numbers to support strategic judgment, not just category description
+- [ ] Named partners/entities are included wherever public; if not public, the absence is called out
+- [ ] Developer-facing products include API base URL/auth/scopes/webhooks/sandbox/SDK/package-quality notes
+- [ ] Marketing-vs-reality includes "what does not survive scrutiny," "what is genuinely impressive," and "competitor wedge"
+- [ ] Customer examples include named customers and concrete workflows, not only logo lists
+- [ ] The research states what this means for our product thesis or competitive strategy
+- [ ] A new teammate can understand the company from `README.md` + `explain_like_new_teammate.md`
+- [ ] A skeptical investor/buyer can pressure-test the company from `marketing_vs_reality.md` + `diligence_questions.md`
 
 While committing:
 - [ ] One file per commit
