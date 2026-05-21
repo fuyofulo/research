@@ -220,10 +220,24 @@ Cite sources inline as markdown links. Use Mermaid diagrams for
 architecture/flows where useful. Output the full report as your final
 message; do NOT write to files.**
 
+**Transcripts — required for the stream-1 (history/funding) agent:**
+Identify 3-5 founder podcast appearances or long-form YouTube interviews
+(20VC with Harry Stebbings, Lenny's Podcast, Logan Bartlett Show, This
+Week in Startups, BG2, Khosla's Origins, founder-specific YouTube
+appearances, etc.). Use the `youtube-transcript` skill (which calls the
+kome.ai API and bypasses YouTube's datacenter IP blocks) to fetch full
+transcripts. Save each transcript to
+`companies/<name>/transcripts/<short-slug>.txt`. In your final reply
+message, list (a) the YouTube URLs you fetched and (b) the local file
+paths you saved them to. Do NOT paste the transcript bodies into your
+reply — only the URL + path mapping. Transcripts surface origin stories,
+internal metrics dropped offhand, candid competitive views, and pivot
+narratives that never make it onto company websites or press releases.
+
 **Sources to prioritize:**
 - [company].com (about, blog, docs, case-studies)
 - [Specific industry press relevant to the company]
-- [Founder podcast appearances]
+- [Founder podcast appearances — for stream 1, fetched via `youtube-transcript`]
 - [Analyst coverage — Sacra, a16z, Bessemer, etc.]
 - [Any specific source the user has flagged]
 ```
@@ -246,6 +260,30 @@ Each agent's final report flows back into the parent's context. At 4,000-5,000 w
 - **Instructing agents to write their reports directly to `companies/<name>/<file>.md`** to skip the message-return step. Tried it. All four agents reported "report written successfully to <path>." Zero files appeared on disk. The agents' Write-tool calls either get sandboxed to an isolated filesystem or silently dropped. Required a full re-run with traditional output.
 - The existing instruction in §3's prompt template — *"Output the full report as your final message; do NOT write to files"* — encodes this lesson. **Do not override it on token-saving grounds.** Agents must return content as messages; the parent saves to disk. This is the rule, not a soft preference.
 - Subagent reports may also flag the same fact differently or hallucinate URLs that look plausible. When this happens, capture the disagreement in `contradictions.md` rather than averaging or silently picking one. The disagreement is itself a finding.
+
+### 3.2 Transcripts — non-optional input
+
+Founder podcast transcripts are one of the highest-value inputs for company research and one of the easiest to skip. Founders say things on podcasts they would never put on their website — pivot timing, internal metrics dropped offhand, candid takes on competitors, post-mortem narratives, founder-market-fit signals. Skipping transcripts is a direct quality loss; the resulting research will be thinner than runs that include them.
+
+**Mandatory rule:** every stream-1 agent prompt must instruct the agent to fetch 3-5 founder podcast transcripts via the `youtube-transcript` skill and save them under `companies/<name>/transcripts/`. The `transcripts/` folder is created at folder-init time and must not be left empty.
+
+**How to use the `youtube-transcript` skill:**
+
+- The skill calls the kome.ai public API. It bypasses YouTube's datacenter IP blocks and per-IP rate limits — direct `yt-dlp` / `youtube-transcript-api` calls from agent contexts typically fail with HTTP 429 / LOGIN_REQUIRED / IpBlocked. The kome.ai route works.
+- Useful for: single-video fetches, bulk-fetching a founder's appearances, scraping a whole podcast channel.
+- The skill returns the transcript text; agent should save to `companies/<name>/transcripts/<short-slug>.txt` using its own Write tool.
+
+**Naming convention:** `<podcast-slug>-<founder-or-topic>-<YYYY-MM>.txt` — e.g., `20vc-bouaziz-deel-pivot-2024-03.txt`, `lennys-arvanaghi-ftx-pivot-2023-02.txt`. Short and dated. The README index can link them if substantive.
+
+**What to do with transcripts after fetching:**
+
+1. Cite them inline in the relevant file (usually `deep_dive.md` or `marketing_vs_reality.md`) when a transcript-only fact appears: "Bouaziz on 20VC, March 2024 ([transcripts/20vc-bouaziz-2024-03.txt](./transcripts/20vc-bouaziz-2024-03.txt)): 'we were six months from death.'"
+2. Use them to cross-check claims made on the company website — founders often disclose more on podcasts than in marketing copy. Metric drift between the two is a finding.
+3. Keep them as raw evidence for future research runs. A transcript fetched today is still valuable two years later.
+
+**Reference runs that did this right:** Bridge (3 founder transcripts), BVNK (founder + investor interviews), Credible Finance (5 transcripts including a Sanctum fireside), Blockworks (3 founder transcripts). The pattern is: ~3-5 transcripts per company, saved as `.txt`, named descriptively, cited inline where they support a non-obvious claim.
+
+**Reference runs that did this wrong (lesson):** Slash, Deel, and Meow (the 2026-05 batch). The `transcripts/` folder was created but left empty. Stream-1 agents pulled WebSearch snippets that referenced podcasts but never fetched the full transcripts. The resulting deep_dives are thinner than they should have been on founder-narrative material. Do not repeat this.
 
 ---
 
@@ -277,6 +315,7 @@ Every non-trivial claim must carry one of three labels:
 - Headcount, hiring footprint, layoffs, offices, and leadership changes
 - Revenue/ARR/volume/customer/user metrics, with exact source and confidence label
 - Founder-market-fit signals: prior exits, domain background, investor relationships, regulatory experience, distribution history
+- **Founder podcast transcripts** (3-5 minimum) — fetched via the `youtube-transcript` skill, saved as `.txt` under `companies/<name>/transcripts/`. See §3.2 for the full discipline.
 
 ### Stream 2 — Architecture and products
 
@@ -496,6 +535,7 @@ Neither is dishonest standalone. Together they reveal that "what the company is"
 14. **Missing the unit-economic tell.** High-touch support, partner routing, capital needs, manual compliance, and concierge operations can be the product, but they change the business model.
 15. **Telling agents to write reports directly to `companies/<name>/` files.** Tried as a token-optimization in the Meow run (2026-05-21). Failed silently — agents claimed success, zero files on disk. Always have agents return reports as their final message and save to disk yourself. See §3.1 for the full token-efficiency playbook.
 16. **Trusting agent "report written successfully" confirmations without verifying.** Always `ls` or `wc -l` the file after a write. Catches both the failure mode in pitfall #15 and ordinary path/typo errors.
+17. **Leaving the `transcripts/` folder empty.** A `companies/<name>/transcripts/` folder created at folder-init time but never populated is a silent quality loss. Founder podcasts contain pivot stories, candid metrics, and competitive views that never appear in marketing copy. Stream-1 prompts must explicitly require fetching 3-5 transcripts via the `youtube-transcript` skill. See §3.2 for the full discipline.
 
 ---
 
@@ -521,7 +561,9 @@ Before starting:
 While running:
 - [ ] Spawned all research agents in parallel (single message, multiple Agent tool calls, `run_in_background: true`)
 - [ ] Each agent prompt is self-contained, has 10-15 specific questions, names sources to prioritize, requires confidence labels
+- [ ] Stream-1 prompt explicitly requires fetching 3-5 founder podcast transcripts via the `youtube-transcript` skill into `companies/<name>/transcripts/`
 - [ ] Saved each agent's output as a distinct file when it returns
+- [ ] Verified the `transcripts/` folder is populated (not just created) — `ls companies/<name>/transcripts/` returns ≥3 files
 
 While writing:
 - [ ] Every non-trivial claim has ✅/🟡/🔴 label
