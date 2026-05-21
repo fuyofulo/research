@@ -230,6 +230,23 @@ message; do NOT write to files.**
 
 **Why prompts must be specific not vague:** A prompt like *"research BVNK's customers"* produces a generic list. A prompt like *"For Worldpay, walk through one specific end-user flow with the money path step-by-step, the alternative before BVNK, and any disclosed dollar amounts"* produces something useful.
 
+### 3.1 Token efficiency — what works, what doesn't
+
+Each agent's final report flows back into the parent's context. At 4,000-5,000 words × 4 streams, that's 80K-100K tokens. Worth optimizing, but not at the cost of correctness.
+
+**What works:**
+
+- **Cap report length explicitly.** `~2500 words (concise but substantive)` cuts each return by roughly half without measurably worse content.
+- **Anchor prompts with established facts.** When re-running a failed stream or building on a prior research pass, list the anchor facts in the prompt so the agent verifies/refutes rather than re-discovers. Saves both the agent's search effort and the parent's context. Example: "Key facts already established from a prior agent run (verify or refute): Founders X + Y, YC batch Z, partner bank A..."
+- **Phase 2 synthesis from saved stream files.** Once the four stream reports are written to disk, write contradictions / source_ledger / product_flow / explain_like_new_teammate / diligence_questions by selectively reading the saved files. The streams flow through the parent's context only once.
+- **Verify on disk after every claimed write.** When you save a stream report, immediately `ls` or `wc -l` the file before moving on. Catches the failure mode below early.
+
+**What does NOT work — verified failure mode (Meow research, 2026-05-21):**
+
+- **Instructing agents to write their reports directly to `companies/<name>/<file>.md`** to skip the message-return step. Tried it. All four agents reported "report written successfully to <path>." Zero files appeared on disk. The agents' Write-tool calls either get sandboxed to an isolated filesystem or silently dropped. Required a full re-run with traditional output.
+- The existing instruction in §3's prompt template — *"Output the full report as your final message; do NOT write to files"* — encodes this lesson. **Do not override it on token-saving grounds.** Agents must return content as messages; the parent saves to disk. This is the rule, not a soft preference.
+- Subagent reports may also flag the same fact differently or hallucinate URLs that look plausible. When this happens, capture the disagreement in `contradictions.md` rather than averaging or silently picking one. The disagreement is itself a finding.
+
 ---
 
 ## 4. Confidence-labeling discipline
@@ -477,6 +494,8 @@ Neither is dishonest standalone. Together they reveal that "what the company is"
 12. **Treating customer case studies as independent proof.** They prove the vendor is willing to publicly claim the result; they do not prove the metric unless the customer independently confirms it.
 13. **Ignoring metric drift.** Conflicting numbers across current pages, cached snippets, and press releases are findings. Put them in `contradictions.md`.
 14. **Missing the unit-economic tell.** High-touch support, partner routing, capital needs, manual compliance, and concierge operations can be the product, but they change the business model.
+15. **Telling agents to write reports directly to `companies/<name>/` files.** Tried as a token-optimization in the Meow run (2026-05-21). Failed silently — agents claimed success, zero files on disk. Always have agents return reports as their final message and save to disk yourself. See §3.1 for the full token-efficiency playbook.
+16. **Trusting agent "report written successfully" confirmations without verifying.** Always `ls` or `wc -l` the file after a write. Catches both the failure mode in pitfall #15 and ordinary path/typo errors.
 
 ---
 
