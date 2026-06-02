@@ -1,0 +1,1366 @@
+(music plays)
+- [Josh] From the library of
+the New York Stock Exchange
+at the corner of wall and
+broad streets in New York city,
+you're inside the ice house,
+our podcast from Intercontinental
+Exchange on markets,
+leadership and vision and global business.
+The dream drivers that have made the NYSE,
+an indispensable
+institution of global growth
+for over are 225 years.
+Each week, we feature stories
+of those who hatch plans,
+create jobs and harness the
+engine of capitalism right here,
+right now at the NYSE
+and at ISIS exchanges
+in clearing houses around the world.
+And now welcome inside the ICE House.
+Here's your host, Josh King
+of Intercontinental Exchange.
+- [John] Stop me when
+this sounds familiar,
+an entrepreneur with a proven
+track record in FinTech
+sees an opportunity
+to disrupt centuries
+old business practices.
+It's in an increasingly digital world,
+trillions of dollars of transactions
+remain tied paper records.
+Some depending on Ledger's
+identical to those found
+in the New York Stock Exchange archives
+dating back to the 1700s.
+So our guest starts a company
+that provides technological solutions
+and infrastructure that resides
+in global information networks.
+The result is efficiency, portability
+and improved transparency
+to how cash is moving in
+and out of its client's coffers.
+The company's early impressive
+growth is further cultivated
+by partnering with traditional
+banks and other financial
+institutions to speed up adaptation
+and help transform an industry.
+Joining us inside the ICE House today
+to explain how bill.com
+is bringing automation
+to complex back office
+operations is Rene Lacerte.
+He's been here at the New
+York Stock Exchange all day.
+Following this morning's successful IPO,
+our conversation with Rene Lacerte
+on how bill.com is
+transforming businesses large
+and small through its end
+to end cloud-based software platform
+and how to cultivate
+intergenerational entrepreneurs.
+That's right after this.
+- [Josh] And now a word from John Berger,
+president and CEO of
+Sunnova NYSE ticker, NOVA.
+- [John] We're a solar company,
+we're out there to bring solar
+to every home in the country.
+We have such a vast market
+that remains untapped.
+I think it's less than
+3% of the market of homes
+in the United States. And so
+there's just so much potential.
+New York Stock Exchange
+is the home of capitalism.
+It's just where the action happens
+for no matter where you are in the world.
+All eyes on the New York Stock Exchange.
+Sunnova, now listed on the
+New York Stock Exchange.
+- [John] This episode was recorded
+on December 12th, 2019.
+- [Interviewer] Our guest today,
+Rene Lacerte is the CEO of bill.com.
+A company he founded in
+2006 to simplify payments
+for businesses, prior to bill.com,
+Rene founded PayCycle,
+the first and largest
+online payroll solution,
+which was acquired by Intuit
+in 2009, earlier in his career,
+he spent five years at Intuit
+growing its bill payment
+and credit card businesses and launching
+Intuit's first connected payroll product.
+Rene was a ENY entrepreneur
+of the year national finalist
+and the Northern
+California winner in 2017,
+for seven years in a row,
+he's been named as one of the
+100 most influential people
+in the accounting industry
+by accounting today.
+Welcome, inside the ICE House
+and to the New York stock exchange.
+- [Rene] Thank you very
+much. Great to be here.
+- [Interviewer] We're recording
+this episode on the day,
+Renee, that bill.com listed
+under the ticker symbol B-I-L-L.
+You've opened up the market
+for trading this morning
+from the Bill Podium in front
+of 150 of your employees,
+investors, advisors, and guests.
+How was that experience?
+- [Rene] It's a dream come true.
+In many ways, it's kind of surreal
+when you are an entrepreneur.
+One of the things that motivates you
+to start something is to give back,
+to actually change the world,
+make it a little bit
+better with your idea.
+And so to have an idea,
+and then to work on it for 13 years
+and to be able to work with employees
+and work with customers and partners,
+and then to get to the public markets,
+where, you know, the scrutiny on the idea,
+the scrutiny on the management team,
+the scrutiny on what you've built is just
+at a different level.
+And to have that market
+look at us and say,
+"You know what? The market's real."
+This is a real company
+that has great management,
+that has great capabilities.
+It's surreal.
+Like everybody wants that
+when you start something once,
+an acknowledgement to know
+that the idea was a good idea, right? So.
+- [Interviewer] Did you sleep soundly
+in your bed last night or toss and turn?
+- [Rene] I was going to sleep very well,
+'cause I was exceptionally tired,
+but then we had a little get together
+and some employees suggest
+that, "Are you gonna be
+able to sleep tonight?"
+And I hadn't thought that
+was an option, not sleeping,
+but once they suggested it, the
+idea wouldn't leave my head.
+So I did not sleep well, but
+I'm sure I will, tonight.
+- [Interviewer] How's the Roadshow?
+- [Rene] The Roadshow was
+a phenomenal experience.
+I mean, I had plenty of
+great advice from people
+I know that have gone public before.
+And the advice was like, and in general,
+my experience was just take
+the learn you can every day.
+And so I knew this was gonna be
+an exceptionally challenging opportunity,
+but also an exceptionally
+rewarding opportunity
+'cause I would just be able to learn.
+And so, you know, the
+public market investors,
+they are critical.
+I mean they have really
+hard lens they focus on
+and the questions they
+ask are much different
+than what I've had before.
+And so just preparing to
+understand how to communicate,
+what was unique about our
+business was really important
+and I just learned a ton. So for me,
+I thought it was invigorating.
+It gave me a lot of excitement
+about what capabilities the company has
+and the opportunities we have.
+And just getting to know that, you know,
+these, really thoughtful leaders
+in the investment community
+are behind the company.
+That's exciting.
+- [Interviewer] Getting to the other side,
+I've talked to a lot of CEOs,
+CFOs on their listing day
+and their view is fairly
+similar, which is, you know,
+a lot of people put a lot of
+stock literally in this day,
+there's a lot of excitement
+on the floor, but you know,
+tomorrow you're back to work.
+- [Rene] Totally, totally,
+I've been working today,
+a few, I've been busy on the interviews,
+but I've had a few moments where I've had
+to take care of a few things, right?
+And so the other side is really,
+how do you think about
+the growth opportunities
+for the business? And so for me,
+what I'm excited about
+is just using the awareness potential,
+obviously that we have,
+the capital that we now have,
+the long term permanent
+at capital investors
+that come with that and using that
+to go after the millions
+of businesses out there.
+- [Interviewer] So how did your experience
+with PayCycle inform how you
+started and grew bill.com?
+- [Rene] At the core,
+the whole idea came from
+managing and running PayCycle.
+So I'm a fourth generation
+entrepreneur, all of my,
+you know, ancestors, my parents,
+grandparents and great-grandfather
+serial entrepreneurs.
+So when I started my first company,
+one of the things that
+I thought was important
+to do was to manage cash.
+And so PayCycle was the first
+internet payroll company.
+And the thing I'd learned
+at the dinner table,
+what I actually call
+the dinner table MBA is
+that cash is king,
+you gotta stretch out the payables
+and pull in the receivables.
+And so when I was running PayCycle,
+the opportunity for me to do
+that was actually really hard.
+And I was trying to do,
+I was trying to decide
+which vendors not to pay,
+which customers to collect from.
+And none of the tools that I had built
+or looked at when I was at
+Intuit, none of those worked.
+And so I just started thinking about
+why am I not using these
+electronic payment tools
+that are out there,
+whether it was consumerable
+payment or whatnot.
+And what it dawned on me was
+that businesses have a lot more complexity
+in their payment process
+and that they use the check.
+The paper check is a control
+mechanism to slow things down
+because nobody had automated
+the processes leading
+up to the check.
+And I realized at the same
+time that the, you know,
+at the time we call it the internet,
+now we call it the cloud.
+That internet was not nearly
+as powerful as the cloud.
+The cloud is a central database
+with a central UI capability
+with an infinite number
+of different interfaces
+to that database.
+That allowed me to think about
+all the different processes
+that needed to happen and all
+the different UIs that needed
+to happen that you could automate.
+And so we were able to
+build that platform,
+the platform first mentality
+of really automating
+all the financial operations.
+And so it was PayCycle where
+I was actually doing the day
+to day, like my parents,
+like my grandfather did
+in his first business,
+walking around, talking to employees,
+hoping they're there and writing checks
+and putting stuff in filing cabinets
+and not finding stuff
+like that whole mess.
+It hadn't changed in 60
+years. I'm like it's time.
+And I know how to do it
+because I was already
+in the technology arena.
+- [Interviewer] Persistence,
+Renee is a word that you
+often use to describe how
+to succeed as an entrepreneur.
+I want to listen to a short clip
+and hear how your father
+exemplified that trait.
+(music plays)
+- [Interviewer] My friend,
+the New York times,
+reporter Mark Levin which
+will immediately recognize
+that tune 'cause it's a tune
+that we listened to a lot growing up,
+Chuck Mangione's performing feels so good.
+A song that your father
+taught himself to play.
+What did he teach you
+about the value of effort?
+- [Rene] So it's, and I'll
+try not to get emotional.
+My dad's with me. This is, you know,
+now I'm gonna segue here for you, but.
+- [Interviewer] Sure.
+- [Rene] This is a pen
+that my mom got my dad when
+they first were doing well.
+This is a ring that my
+grandmother got my grandfather
+when they were first doing well.
+And I don't wear a ring, daily,
+but today this is a watch
+that my mom's father
+got from his employees.
+And I got a picture of my
+grandmother's in my pocket.
+But anyways, so for me,
+family means everything right?
+And I grew up with my dad
+playing the piano all the time.
+He's an amazing piano player
+and I took it for granted.
+He had four fingers on his left hand
+and two fingers on his right.
+And he was born that way
+and he wanted to play
+piano when he was younger
+and he was able to take a few lessons,
+but pretty quickly the
+teacher was like, you know,
+I can't teach him anything
+because everything's written for classical
+and you need 10 fingers.
+So put that away for 10 years
+or maybe seven years, whatever
+and he played trumpet.
+But then at 16 he said to his parents
+and they supported him.
+He said, "Look, I just wanna play piano."
+So they bought him a baby grand piano
+and he taught himself in one summer
+and he was a phenomenal jazz pianist.
+And his music inspires me.
+And if you work in the company,
+you get to hear his music from
+time to time. But that song,
+what was amazing for me
+about the persistence,
+was I knew that the persistence
+from him playing the piano,
+just because you grow up,
+you take it for granted,
+but if you've studied his
+fingers, like how does he do that?
+And how did he do that in one summer?
+Like he just, he had blood
+and he just played, you know,
+6-8 hours a day and just,
+he wanted to learn and he taught himself
+and created his own style.
+So when that song came out, he loved it.
+He went down to the music shop.
+He bought a three horn.
+I had never heard my dad play trumpet.
+And he was, you know, I was 10 years old
+and he was really great, that night,
+he played it and it sounded
+as great as Chuck Mangione's.
+It wasn't, he to teach himself.
+Actually it was his skill was so
+because he'd done so much
+persistence as a kid,
+he played hours and hours
+a day on the trumpet
+before he switched to the piano,
+he was able just to get up and play it.
+And so that just taught me
+that you can never say no,
+you just do, right? Life is
+about doing, you don't get,
+he never liked excuses.
+There was no excuse that you
+were ever allowed to have.
+It's just go fricking do
+it. This is your life,
+make it happen.
+So, and that's what he did.
+And that's what that story is for me.
+- [Interviewer] And
+what was actually going
+on either physiologically
+or psychologically,
+like listening to that arrangement
+and saying I can, was it
+mimicry or repetition?
+- [Rene] I think for him,
+he had a pretty good ear.
+I mean, I might say he had,
+you know, perfect pitch.
+And so I think for him, it was like,
+that's the most beautiful
+trumpet song I've heard
+in 10 years. And I wanna
+see if I can play it.
+And I wanted to just remind him
+how beautiful the trumpet was.
+And he liked the piano
+'cause he wanted to write music
+and he wrote a lot of beautiful music.
+And I think it was just hearing that,
+that reminded him that you know what,
+that's a beautiful instrument
+and I wanna play it.
+And so that, to me, it's
+like, there's no excuses.
+If you wanna do it, just go do it.
+Now he had a talent that
+he sounded great that day,
+but it taught me that
+don't ever make excuses.
+If there's something you want to do,
+go do it and take the
+time you need to do it.
+So that's the persistence of
+teaching yourself to play piano
+or the number of businesses he started.
+He invented computers,
+got rid of punch cards.
+He invented the first,
+he started the first online
+payroll company in the 80s
+before we had the internet,
+it was all modem-based, right?
+So he just did it like no excuses.
+- [Interviewer] I mean
+the Lacerte household,
+your parents founded five companies,
+two less than the seven that
+your grandparents started.
+- [Rene] Yeah.
+- [Interviewer] Give me a flavor.
+You just said two of them,
+but like what's going on
+with this family, Rene?
+- [Rene] You know, that's
+one of the things for me,
+that's kind of, you know,
+surreal about the day and you know,
+maybe I'm making a little
+bit more at this moment,
+but I think anybody
+and I think most people
+don't have to go too far back
+to be an immigrant.
+And so, you know, on my
+dad's side, the Lacerte name,
+they came over in 1670,
+and that was obviously a hard time
+to travel and all that. But you know,
+I feel like those onto-
+- [Interviewer] To.
+- [Rene] To Canada.
+French Canada.
+- [Interviewer] Yeah.
+- [Rene] Right and so I just
+feel like the, you know,
+the risk taking, the persistence
+on making it happen in life,
+those roots are there, right?
+And so for me, you know, hearing about
+my great-grandfather
+had two general stores,
+my grandfather was, he was
+a consummate businessman.
+It didn't really matter
+what he wanted to do.
+He could just do it. So he
+had farming, general stores.
+He had car dealerships,
+he had data-processing.
+He had all sorts of companies.
+My dad was a technologist.
+He liked being creating
+around finance like I do.
+And so growing up around that,
+what you learn is that if you have dreams,
+go make them happen,
+right? And be creative
+and don't take no for an answer
+to go figure out how to make it happen.
+- [Interviewer] So the company name,
+you and I were talking about the role
+that David Hornik played as
+a investing partner for you
+and with you, it was
+not originally bill.com.
+It was called CashView until
+Salesforce's CEO stepped in.
+At the time, you said,
+a name is only a name,
+but when you can tie it to
+what you do, it makes sense.
+What did Mark Benioff approach you with?
+And does it still make sense?
+- [Rene] It totally makes sense.
+And Mark, so our, you know,
+first couple of engineers came
+outta Salesforce and our CTO,
+Eric knew mark well.
+And so when he realized
+that Eric had left,
+he stayed in touch. And at one
+point he kind of asked Eric,
+well, what are you doing?
+And so Eric told him what we
+were doing. He was like, hey,
+I've got this great year.
+I'll, you know, maybe,
+Renee would be, want to meet
+and we could talk about it.
+So we got together and we talked about it.
+And the decision for me really
+rested on the fact that when,
+you know, from a accounting perspective,
+one person's debit is
+another person's credit.
+So payables and receivables
+are two sides of the same coin.
+So I give you a bill and
+I expect you to pay me.
+So that's good for me.
+You get a bill from me,
+and now you have to take
+money outta your pocket
+to pay me. So it's the exact opposite,
+but the two sides of the
+same coin. And so for me,
+when that aha came up, I'm
+like, that makes total sense.
+So we worked out the deal
+and I was very grateful for that,
+and I think it's a perfect
+name for the company, given,
+you know, 81,000 customers,
+1.8 million in our network,
+that are used to just pay and get paid.
+Everybody gets introduced to the simple,
+as fastest way to get paid if
+you're a business or to pay.
+- [Interviewer] So help me sort
+of define exactly the kind of business
+that bill.com is best for.
+Is there a type or company
+profile that you cater to?
+- [Rene] So our focus
+and target is the small
+mid-size businesses.
+So the SMB for us is less
+than a hundred million,
+small businesses and revenue.
+Small businesses to us
+are less than 10 million,
+midsize companies are 10 to a hundred.
+So there's only 20,000
+businesses in the US
+that are more than a
+hundred million in revenue.
+And so the approach
+that we take is a broad,
+horizontal approach that can simplify all
+the financial operations
+that a business has around their payables
+or their receivables.
+And our opportunity is
+really just to get rid of
+that paper back office.
+And so we've seen that
+customers of all sizes
+and all industries, in those
+target segments, I just said,
+really get a lot of
+value outta the product.
+- [Interviewer] So digitization
+speeds up the transactions,
+which is important for a company needing
+to maintain liquidity.
+But what are some of the other benefits
+from unshackling the back
+office from these file cabinets
+and storing all the paper
+that we've been talking about?
+- [Rene] So I think one of
+the really challenging things
+in running a business,
+and this is what I felt when
+I was running a PayCycle.
+If you have the adage,
+which every entrepreneur I think has
+in their head is that cash is king.
+And one of the things
+we do in this country,
+and I think across the world is
+people don't always pay when
+they're asked to pay, right?
+They're waiting for the service
+to be at a certain level.
+Now you wanna do that at a restaurant
+that you might change the tip,
+or if you're unhappy, maybe
+it would send something back,
+but when you're an SMB
+and you have all these different services,
+people work on that.
+And so what makes that
+hard is all the process
+that you go in, that goes into, you know,
+checking into whether you
+should pay that bill or not,
+or whether you should
+invoice that customer,
+and you just need data.
+So the way I think about it
+is you don't make decisions
+about who you're not going to pay today
+or who you're going to collect from today
+without information,
+and you can't keep it in your head.
+So that information in a manual
+system would be sticky notes
+and filing cabinets and
+people around the office
+and you know, reconciliation, information.
+So what we are able to do is put all
+that on your phone.
+So you can ask those questions of yourself
+and of your team from
+anywhere in the world.
+And that makes a difference.
+It means you're free to do business,
+how you want to do business
+and you make better decisions.
+If you have the information,
+then you can make better decisions.
+And I felt that I wasn't making
+the best decisions when I
+was running the first company,
+'cause I didn't have
+the finger information
+at my fingertips.
+- [Interviewer] My company is
+one of those small companies
+that makes about $10 million in revenue.
+How much does bill.com cost me?
+- [Rene] Our average customers,
+probably paying us around, you know,
+around a thousand dollars
+a year, 1500$ a year,
+kind of depends on the
+number of transactions,
+the number of users they want to have.
+You can get started
+for as low as you know,
+40 bucks a month.
+- [Interviewer] We recently
+had on this podcast,
+the chief information security officer
+of our own parent company,
+Intercontinental Exchange,
+much of the conversation
+that I had with Jerry
+was around the importance
+of cybersecurity and risk
+management in today's world.
+How does bill.com provide
+that to its clients?
+- [Rene] So sometimes
+when I'm at conference,
+I'll ask the question.
+So anybody want to
+shoutout your bank account
+and routing information.
+- [Interviewer] No.
+- [Rene] And no,
+and actually you have no reason not
+to trust me personally, right?
+And actually a lot of times
+in a place with people
+that they have every
+reason to trust everybody
+in the room and nobody will do that.
+And I said, well then how come businesses?
+90% of the time rely on paper checks?
+'Cause the check has all that information.
+- [Interviewer] Yeah.
+- [Rene] So how do we
+help them get rid of that?
+That's the first thing. And
+so we do a lot of things,
+helping get rid of that. We, you know,
+their bank account's not known
+to anybody, but the signer,
+what happens on the payments
+is we manage those payments
+so that nobody ever
+knows the bank account.
+That's pretty cool.
+We manage all the exceptions and returns.
+That's pretty cool.
+So that's one way that we manage the risk.
+You know, we have a number of things
+that we do from our platform to make sure
+that our customers are safe.
+And one of the nice things
+about having a platform
+with 81,000 customers
+and 1.8 million network members
+and you know, 45 million
+documents a month, if you will.
+One thing about having all of
+that is you get at more data
+and data allows you to help
+ensure the success and accuracy
+for your customers and the
+safety for your customers.
+And that helps us build
+trust for our customers.
+And it's really important.
+- [Interviewer] I mean,
+talking about trust,
+it's important to all companies,
+but particularly those
+handling other people's money.
+Is there a secret to gaining trust?
+Or is it just gonna be
+slowly built over time?
+- [Rene] Definitely it's the
+secret is doing it well, right?
+And the secret is
+understanding the requirements.
+So we're licensed in all 50 states,
+we've gone to the states, we've
+spent five years doing it.
+We've done all the work and that matters
+'cause those states are coming in
+and doing audits and
+making sure that we're-
+So the secret is understanding
+the regulatory environment,
+understanding the risk
+and how money moves,
+understanding the data that's coming in
+and then creating the platform
+unless you actually
+escalate those transactions
+that might be risky.
+And so I think the
+secret is just hard work,
+back to your question about persistence.
+You just have to keep going at
+it and always be relentless.
+It's never end, you're never done.
+- [Interviewer] I think of an image
+that I might have of some
+of your grandparent's
+or parent's companies
+and the people writing
+the checks with the,
+having the green eye
+shades and the ledger books
+and they peel them off.
+And they're writing checks,
+the retail economy is
+increasingly being conducted
+on a digital platform,
+such as Airbnb or Uber
+or Seamless or Chewy.
+I was surprised to find out Rene
+that three quarters of
+payments are still checks
+and number even higher for
+these small businesses.
+Why is that?
+- [Rene] So I think it
+really goes back to,
+and this was the aha for me
+when I was running PayCycle,
+the check was my stop measure.
+It allowed me to slow down
+everything in the business
+and the way, so I can read a piano.
+(indistinct) can read a Piano, all right?
+Reading a Piano doesn't
+tell you where to go invest.
+The same way that if I ask you,
+you just hired this
+person to do this work.
+Did you get the return you wanted?
+You know, is there another
+opportunity doubled down there?
+You know, that customer, were they happy?
+Why can't we do something else for 'em?
+'Cause I like happy customers.
+If they're not happy,
+then what do we need to do to fix.
+That all happens in the payables
+and the receivables process.
+And that's a manual process
+because the paper allows
+that conversation.
+So if you can build a platform
+that has collaboration built into it,
+then you get to automate that.
+So the collaboration has
+to include the documents.
+It has to include the people.
+Those people can be employees,
+they can be accountants,
+they can be suppliers,
+they can be clients,
+but you have to be able to create
+that collaboration across all of that.
+And that's what has enabled our success is
+that we have that collaboration.
+We integrate with all of their systems,
+their banking into accounting systems.
+And we do it in a way that they get up
+and running in less than 15 minutes.
+And we don't charge
+'em, the first 30 days,
+it's a risk free trial.
+If they're not happy.
+They don't pay, that's our
+confidence in our platform.
+That's the confidence that
+we have in our customers.
+And that's something that we, you know,
+we think it's really important is
+that you gotta make a difference quickly.
+- [Interviewer] Digitizing
+the back office.
+I think I saw you answer a
+question similar to this on CNBC
+and certainly it's been
+part of your Roadshow,
+but what is the size of this
+prize that we're talking about?
+- [Rene] So, you know,
+there's 81,000 customers
+on our platform today.
+There's 6 million businesses in the US
+with less than a hundred
+million in revenue.
+And the opportunity is, you know,
+helping all of those move
+on to financial operations
+in the cloud. And so that's, you know,
+it's trillions of dollars in payments.
+It's, you know,
+I think billions of dollars
+of opportunity in revenue
+over time and that's the opportunity
+that we're talking about.
+- [Interviewer] Talking
+about the growth potential
+of the company.
+I watched your appearance
+on Emergence Capitals,
+Emergence Playbook from
+a couple years ago.
+At the time you spoke about the importance
+of following your gut
+when building a team,
+but what else are you looking for
+besides butterflies in your stomach
+as you position the
+company for today's listing
+and building that team?
+- [Rene] I think the execution rigor
+that's required of being
+a public company requires a discipline
+and experience that folks
+need to have, right?
+The gut part really goes back
+to do they fit the culture?
+Do they really understand what type
+of environment we're trying
+to create for employees?
+And that's super important.
+And obviously for me,
+that's probably the most
+important thing to get right.
+The execution is, you know,
+I wouldn't say the second most important
+it's also the most important thing.
+Those two things go hand in hand,
+you have to be able to have people
+that know how to do their job
+and take it to the next level.
+And so as you move to
+being a public company,
+that next level, that bar
+just jumped significantly.
+And so having people on our team
+that can kind of help all of us learn
+and grow, that's super important
+and that's, you know, something
+that we work hard to do so-
+- [Interviewer] As of today,
+you are a public company,
+but is bill.com still small enough
+for homemade granola in the bake room?
+- [Rene] It is right now, so yeah, yeah.
+So my wife still makes a
+granola for us at home so-
+- [Interviewer] What's
+the output of her kitchen?
+- She, you know, we
+have about 500 employees
+in the Palo Alto offices
+and you know, depending
+on how many people are
+eating it that week.
+Yeah, she can make enough
+to keep up for, you know,
+four to five days. So.
+- [Interviewer] You also
+talked about using a scorecard
+instead of a job description
+when hiring talent,
+how does a scorecard work
+and is that still your main metric?
+- [Rene] It is, yeah.
+So the scorecard concept comes
+from a book called "Who",
+and I'm forgetting the author right now,
+but "Who" is a wonderful book.
+And it talks about the driver
+of any hiring decision needs
+to be the expectations,
+that you're clear on the
+expectations for that position
+in that job.
+And so if I'm not clear
+on the expectations
+of what I want the person
+to do, how is it possible?
+The person that's interviewing
+for the job could ever
+deliver on my expectations
+because they don't even know
+what my expectations are.
+So the focus of a scorecard is to say,
+what do you think the person's
+gonna be capable of doing
+for the company in 90 days
+in 120 days in a 180 days in the year.
+And to be very specific,
+you can't just say they
+need to know the company.
+I mean, maybe that's the
+first two weeks, right?
+You need to have a specific goal
+to say they will impact performance
+in this way, on this
+program, by this timeframe.
+And what that does is it
+changes the conversation
+with the employee.
+You have some candidates
+that just won't even apply.
+They're like, well,
+that's not the job I'd be interested in,
+or I don't think I can deliver on,
+but then it changes the interview
+into so tell me why you think
+that's something that you can do.
+It's more of a give and take it's like,
+I don't wanna say that my style
+of interviewing was ever pointed,
+but that's the approach.
+I want to have the scorecard.
+I want people to self-select in
+and then I will ask questions
+and I'll make sure when I
+go back to talk about it
+with the employees, the others
+that are on the hiring team.
+Do we think the person's
+capable of delivering that?
+And that sets up a really
+good opportunity for success
+for both both company and the employee.
+- [Interviewer] After
+the break Rene Lacerte
+and I discuss how bill.com is partnering
+with the biggest names
+in banking and accounting
+to better serve clients.
+We'll be right back after this.
+- [Man] US is now one of
+the world's largest oil exporters
+as its high quality crude
+fulfills strong global demand.
+The ICE Permian WTI offering
+provides a complete solution
+for traders with export
+and pricing efficiency with
+with delivery in Houston,
+the future's contract offers
+unblended crude direct
+from the Permian Basin.
+Upon delivery, storage of
+Permian WTI is available
+at the terminal providing exporters
+with transparent pricing
+and the ability to plan crude movements.
+Permian WTI barrels could be
+moved directly to the water
+sending a quality US crew
+to the global market.
+ICE, a global oil complex,
+designed for the commercial trader.
+- [Interviewer] Welcome
+back before the break,
+Rene Lacerte, CEO and founder of bill.com
+and I were discussing
+the founding of bill.com
+and the company's successful IPO,
+Bill.com is a cutting-edge
+technology company.
+How is bill.com using
+artificial intelligence
+and other machine learning technologies
+to simplify all these
+back-office processes
+that we've been talking about?
+- [Rene] The AI capabilities
+that we have are built off of the really
+the massive data that we
+have from our customers.
+So those 81,000 customers
+manage, you know,
+on an annual basis, 45 million documents,
+millions of payments every
+month, those opportunities,
+71 billion dollars in the last fiscal year
+money moved that data
+creates opportunities
+for us to understand
+how to help them better.
+And so the AI that we
+first launched, productize,
+I should say,
+as a product called the
+Intelligent Virtual Assistant,
+we rolled that out last spring,
+and that takes the data
+from the documents,
+all those documents we
+have that have been entered
+by our customers and
+allows us to going forward,
+automatically enter the
+information for the bills
+that come in.
+So we can automatically
+prepopulate the vendor name,
+the invoice number, the invoice
+date, the invoice amount.
+If you've used us for
+paying that vendor before,
+we can now route the approval
+within the company and sync it
+with the accounting software,
+without you doing anything,
+you just take a picture of the
+bill or you send it in via,
+you know, an email or a scan,
+and we just saved you a ton of time
+and you're off to making
+your business better.
+And that's what's exciting.
+And there's so many more things like that
+that AI will do
+because of the technology
+and the data that we have,
+you know, on top of the platform.
+- [Interviewer] The Intelligent
+Virtual assistant, I mean,
+is it easy for a mom and
+pop shop to transition to it
+this fully digital system from
+what could be generations of
+file cabinets in the basement?
+- [Interviewer] Yeah, it's super easy.
+It's less than 15 minutes.
+We designed our programs.
+Like I said, you get up and running
+in first 30 days and it's risk free.
+You don't have to pay us.
+And so everybody,
+customer, our sales team,
+our marketing team is
+focused on getting people up
+and running. And so it's more
+about do they take the time?
+Which we think is, you know,
+can be as little as 15
+minutes to get set up,
+which isn't a lot of time.
+If you're gonna start
+saving 50% of the time,
+it takes you to manage it back office.
+So it's just an opportunity
+for us to kind of continue
+to really make a difference
+for what folks are doing.
+- [Interviewer] I mean,
+as folks are listening to this podcast
+and they're running a small business
+and they're intrigued
+by what they're hearing,
+what are the questions they
+should be asking themselves
+about whether they're
+ready or not for bill.com?
+- [Rene] I think the main question is
+could I do something better with my time?
+Do I feel like I have all the answers
+to all my questions all the time.
+If I had an audit,
+would I feel comfortable
+with all the information
+being easily accessible?
+Do I feel like I need a little
+bit better working capital
+or more information to be able
+to make that working capital happen?
+The cheapest form of working
+capital is stretching
+out your payables and
+pulling your receivables.
+So I think as questions like that,
+it's asking what could be
+better about your operation.
+And if you think anything can be better
+than hopefully you'll come
+to us and we'll help you.
+- [Interviewer] First
+thing I noticed when I went
+to your website was the names
+of the accounting software companies
+that bill.com works with.
+Where does bill.com sit
+in the ecosystem of banks,
+accounting firms and businesses?
+- [Rene] When I decided to
+go after the SMB market,
+I knew that SMBs were everywhere.
+There are millions of them,
+and that reaching them would required
+multiple diverse distribution strategies.
+So the first would be direct which we do,
+but then I also knew that
+businesses sometimes need a nudge
+from people they trust. So
+businesses, SMBs, trust,
+accounts, and what we're
+able to do there is the,
+have partnership with AICPA and cp.com
+and that allows us to
+get the accounting firm,
+to then bring their
+clients on the platform
+to help them manage the back offs
+and be a strategic advisor.
+Accounting software
+providers are trusted by SMBs
+because that's the platform they use
+for their general ledger.
+And so we've partnered with
+them to integrate the data
+and some of those
+integrations have gone so well
+that the apps or integrations
+have driven interests
+for deeper partnerships.
+So the partnership with Intuit
+is a important partnership
+for us.
+The third type of company
+that SMBs trust is their
+financial institution.
+Obviously we have payments
+and that's a core part of what we do.
+So we have four of the top 10
+and they trust us to reinvent payments
+for their business clients.
+So it's, you know,
+there's something about entrepreneurship
+that I think is interesting
+that sometimes gets overlooked
+that it's a sacred trust.
+There's the trust between
+me and the employees.
+There's a trust between me,
+and our company, and our customers.
+And there's a trust between
+our company and the investors.
+And then there's a trust
+between our company
+and our partners.
+And that trust is so important.
+And to be at the center of that ecosystem,
+that where people trust each other,
+it's actually a real fun part of the job
+to know that that matters
+and that it can make a difference.
+- [Interviewer] As we wrap up,
+we are recording this
+episode on the same day
+as bill.com's IPO,
+an event that we always say is the start,
+not the end of a journey,
+but do you have plans to
+catch up with mom and dad by,
+I don't know, starting three
+or four more businesses,
+what's next for you?
+- [Rene] You know, I think for me,
+this one has some amazing
+legs in front of it.
+The opportunity is so big
+and I'm loving what I'm doing
+and I'm growing as a person
+and I'm just gonna keep doing my best
+to help SMBs across the
+country with our platform.
+- [Interviewer] Our
+listeners will be hearing
+this episode about 60
+days after bill.com IPOed.
+What do you hope will have
+happened during the time
+that you and I are sitting here today
+and what's next for bill.com
+in the next year and beyond
+what's the plan for 2020?
+- [Rene] Well, we have a
+significant opportunity
+in front of us, which we've talked about,
+and there's a lot of
+initiatives that we're working
+on across the company,
+whether it's marketing
+and sales or product
+or engineering, there's lots
+of things that we're doing.
+And so I believe that in 60 days,
+we'll continue to
+understand more about how
+to reach those millions of businesses
+and how to do that with product
+and how to do that with
+marketing sales and so, you know,
+I stay focused on what I
+know to control and we will,
+as a team, get reinvigorated, if you will,
+to really deliver this for the SMBs,
+it's a privilege to be able
+to serve customers the
+way we get to serve them
+and to be in a position
+to have the permanent capital behind us,
+it gives us the confidence
+to go make the right term decisions
+for the long term.
+- [Interviewer] I look
+forward to hearing you
+in your first earnings call.
+- [Rene] Okay. Thank you.
+- [Interviewer] Thank you
+so much for joining us
+inside the ISS.
+- [Rene] Thank you.
+- [Interviewer] That's our
+conversation for this week.
+Our guest was Rene Lacerte,
+CEO and founder of bill.com.
+If you like, what you heard,
+please rate us on iTunes.
+So other folks know where to find us.
+And if you've got a comment or a question,
+you'd like one of our experts
+to tackle on a future show,
+email us at icehouse@theice.com
+or tweet at us at Icehouse Podcast.
+Our show is produced by
+Kearney Ferguson and Pete Ash
+with production assistance
+from Steven Romanchik
+and Ken Abel.
+I'm Josh king, your host,
+signing off from the
+library of the New York Stock Exchange.
+Thanks for listening.
+Talk to you next week.
+- [John] Information contained
+in this podcast was obtained
+in part from publicly available sources
+and not independently verified,
+neither ICE, nor is affiliates,
+make any representation
+or warranties express or
+implied as to the accuracy
+or completeness of the information
+and do not sponsor, approve or endorse any
+of the content herein.
+All of which is presented
+solely for informational
+and educational purposes.
+Nothing here in constitution
+offered to sell a solicitation
+of an offer to buy any security
+or a recommendation of any
+security or trading practice.
+Some portions of the preceding
+conversation may have been
+edited for the purpose of
+(indistinct) or clarity.
