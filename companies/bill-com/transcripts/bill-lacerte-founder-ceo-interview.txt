@@ -1,0 +1,749 @@
+hi today we are in the build.com office
+in palo alto with renee renee who are
+you and what do you do hi well my name
+is rene cert i'm the founder and ceo of
+bill.com prior to this i started a
+company called paycycle which did online
+payroll for small businesses we grew
+that to about a hundred thousand
+businesses and sold that tent to it i'm
+a fourth generation entrepreneur learned
+from dad and granddad that cash is king
+you gotta stretch out the payables and
+pull in the receivables and the way i
+came up with bill.com which i haven't
+told you yet what we do is that i was
+trying to do exactly what dad and
+granddad taught me when i was running
+pay cycle and there were no tools that
+helped me do it so we help businesses
+automate their payables automate their
+receivables and ultimately we give them
+freedom so they can actually focus on
+the real things that are important for
+their business so
+by automating the payables and
+receivables and all the workflow around
+it and all the payments and all the
+transactions syncing that with all the
+applications that they work with it
+removes a tremendous burden from them
+and really helps them grow their
+business so we hear that all the time
+what did your dad teach you
+dad taught me so many things uh the at
+the core of dad he was
+he just
+he never gave up
+uh my dad
+uh just uh he was born with a disability
+he had four fingers on his left hand and
+two on his right and
+he nobody would teach and play piano so
+he taught himself okay and uh and
+there's just all sorts of examples like
+that where
+you know he was a fabulous musician he
+was playing trumpet when he was a kid
+then he moved to piano and one year 1977
+chuck mangione came out with a song
+called feel so good and he heard it on
+the radio
+and he just went out he bought it
+through her and he was playing it the
+next day and it sounded just a good shot
+but if you apply that personal stuff
+that's the way it was at work like you
+just never gave up like he was
+persistent he was passionate about
+something if he really believed in it he
+was just persistent and just focused and
+he just delivered he just really focused
+that when you care about something it is
+worth fighting for and you don't listen
+to the detractors you just kind of focus
+on what you know you're capable of you
+just do it so that's probably the most
+important lesson that learned from that
+learned lots of tactical things about
+how important it is to
+manage your cash flow and how important
+it is to have obviously good benefits
+for employees
+but all that stuff you know uh really at
+the core building a product and starting
+a company you just got to persevere and
+actually
+focus and get it done great remembers me
+of the book poor that rich dad
+yeah um
+how did you come up with the idea of
+build.com yeah so with bill.com i was
+running the day-to-day pay cycle i had
+been a product manager added to it where
+i'd actually worked on consumer bill
+payment for intuit and i was finding
+that all the paperwork that was coming
+we had a check run every friday
+you know
+i just couldn't manage it it was i was i
+was unhappy i was angry i was kind of
+frustrated that all this paper stuff
+came to my desk and yet it didn't have
+all the answers i needed to make
+decisions so when you're making payment
+decisions this gets back to what dad and
+granddad taught which is to stretch out
+the payables and to pull on the
+receivables you need information you
+need context you need a lot of content
+to actually make a decision what does
+the contract say when did i pay them
+last um what do my employees say does my
+marketing head believe this is a good
+expense or not maybe i want to ask them
+why they did this because i might want
+to learn what's going on in the business
+all those questions require
+collaboration and so i just was kind of
+fixating on the fact that none of the
+tools that i had either built or looked
+at competitively added to it allowed me
+to actually do what i needed to do it
+didn't allow me to collaborate with the
+people which would be the employees the
+customers the vendors the accounts it
+didn't allow me to collaborate with the
+documents everything from a source
+document all the way up to the clear
+check image it didn't allow me to
+collaborate with my accounting systems
+or my banking system so i could have
+secure
+disaster proof so to speak
+you know backup office capabilities i
+didn't have any of that functionality
+out there and so i just started thinking
+about it's like you know this cloud
+thing is pretty collaborative i bet you
+i can kind of think about how i can
+actually make the transaction go from a
+payables to receivables and back without
+having to do any data entry on either
+side so that's kind of how i started
+thinking about it and realized there was
+an opportunity to give people the right
+access at the right time with the right
+information
+using the cloud which would allow
+for all that mundane paperwork that
+people have would allow that to
+disappear
+and how did you make your first product
+version reality and so did you hire some
+kind of developers helping you for this
+did you raise money up front or
+finally after you had the prototype how
+did it work i was fortunate that we had
+because of the success of pay cycle i
+was able to raise money
+fairly easily from existing investors a
+pay cycle who just wanted to put some
+money in
+um
+but
+yeah and i would recommend this i did
+this i paid so i can only did it
+bill.com and i'll do that in the next
+startup
+you can do a prototype fairly easily
+right and no technology in fact our
+original prototype was you know i would
+walk down to the businesses that we
+signed up
+i would actually take their bills for
+them i would scan them i would actually
+then attach them an email and route them
+for other people to approve i would then
+you know take care of printing the
+checks or moving the money
+electronically i would do all that stuff
+manually so that we could learn what we
+needed to build out in the system with
+the engineers so it didn't actually take
+much money to get a
+you know an alpha version out uh but it
+did take it does take time to build a
+payments company it's uh not easy work
+to to manage and build payments
+companies so it was more hard to really
+understand where the pain point is but
+not developing the first prototype and
+solution well the pain point i would say
+the uh what was hard was actually learn
+figuring how to scale the solution right
+the understanding the pain point was
+actually something i knew you know just
+from running the business and pay cycle
+and then
+getting to the prototype was fairly easy
+and then we knew what features we needed
+to build to actually you know enable
+that pain point to go away
+and so then it was okay how do you build
+a scalable system that enables those
+features and that's been hard that's
+what we've been doing for seven years
+renee let's talk about the business
+model how does the business model work
+right now can you walk through from a
+customer's
+perspective yeah so the customers we
+have multiple types of products we have
+accounts payable automation tool and we
+have an accounts receivable automation
+tool so customers come to us for one or
+either or both of those
+and when they come in there is a
+software subscription model where they
+need to pay us for the basically a
+license per user and depends on the
+license fee depends on the complexity of
+the business so the more complex the
+businesses the more sophisticated their
+accounting software is the more
+sophisticated their needs are you know
+the more expensive the product is but
+that price range is anywhere from you
+know 29 a month all the way up to i
+think 79 dollars a month
+and then we have transaction fees so
+every time we enable a customer to
+fulfill a transaction whether it's
+paying their vendor or collecting the
+receivable we charge 1.49 for any paper
+transactions and 49 cents for any
+electronic transactions so there's other
+fees but those are the the dominant
+transaction fees that we have and and
+what we you know we find is that
+customers
+quickly get on the system and then are
+able to really
+save a ton of money our customers tell
+us they save anywhere from 50 to 75 of
+the time and they get paid two or three
+times faster so the ri is actually very
+very high and they see that and they get
+that so
+you know the building of the the
+business model seems to be
+one of those simpler problems for us to
+solve
+the old payment process of paying your
+suppliers from my understanding works
+like this that in a small company the
+accounting department
+collects all the let's say the contracts
+that you made with the suppliers so you
+know when to pay them what are the dpos
+and the payment dates and then the
+managing director also
+signs them okay yeah this one please pay
+it or this one or maybe you we should
+really renegotiate the price etc uh this
+is the what i what i would call the old
+model how does your model work and
+improve this kind of process so the the
+model that we have is i guess at the
+core of any business transaction is what
+i
+term yeah it's kind of obvious but
+collaboration businesses collaborate
+with the people the systems and
+documents and so what you just said
+there's actually a fair bit of
+collaboration there what we do is we
+digitize everything so that
+collaboration becomes instantaneous
+right so i can collaborate with my phone
+i can actually look at a bill and see
+the exact same digital copy that you're
+looking at and at the same time even
+right and as soon as you approve it it
+can then go to me to approve if you have
+a question about it saying hey everybody
+i'm not really sure that you know this
+is exactly you know what we said then i
+can make a note and reply back why it is
+or why it changed whatever so that
+instant ability to have workflow built
+into all the transactions and also
+provide an audit trail so you can see
+who's looked at something and if they've
+approved it and if it's been initiated
+for payment and all that good stuff
+that type of you know systemic
+integration makes for a lot simpler a
+collaboration tool with all the people
+that you work with as well as all the
+documents when i part of the reason i
+started the company is
+at pay cycle we had one big filing
+cabinet with all the vendor and customer
+records in it right so
+two people had a key the general counsel
+and myself
+so i would go back to i would be paying
+a bill or looking for an invoice to
+collect on i go back to the cabinet and
+i don't you open up the filing cabinet
+and i go pull out the file that should
+have the contract in it that i'm looking
+for and you'd open it up and it'd be
+empty
+right because somebody else needed to
+look at it and had replaced it and now
+we had to run around the office and find
+where is that copy of the contract
+nobody had it right
+so the document should be centralized
+and it should be tied to the
+transactional stuff because from a
+financial perspective
+the managing director the ceo the owner
+of the business the controller cfo
+whoever it is signing the checks
+they need access that data quickly and
+that's what we do who's digitizing the
+the contracts then is it the company
+your client or is it you that are
+supporting them and digitizing this
+content it's mostly them i'd recently
+say mostly is that we give our customers
+the ability to fax a document in so that
+creates a digital copy so every customer
+gets their own fax number every customer
+gets their own email address so vendors
+or customers anybody can just email a
+document in to that particular address
+anybody can fax the document into that
+fax number and in addition you can take
+a picture with the phone and send it in
+that way or upload it from a file on
+your on your machine so all the
+documents come in that way and then once
+they're in then we start the workflow we
+do the data entry if you ask us to we
+start the payment processing and we have
+all the security and audit trails that i
+talked about how's the interconnection
+between build.com and the typical
+accounting systems like sap and oracle
+is there some kind of automation link
+between them yeah so the accounting
+systems that we primarily work with
+would be
+intuitive quickbooks quickbooks online
+intact netsuite zero
+we do have customers using us with mass
+90 great planes i don't think we have
+anybody with oracle sap those tend to be
+much much larger companies kind of the
+fortune 2000 and in the united states
+right there's six million businesses
+with employers employees six million
+employers and that kind of tends to be
+our focus and they tend to use those
+first five that i mentioned so
+our belief is that the accounting
+software is a tremendous tool that gives
+you the data and the the ledger and the
+reporting that you need around how to
+look at and analyze your business but
+when it comes to actually understanding
+your payables and receivables they don't
+have the process workflow that we have
+so we are a tool that works side by side
+uh with the accounting system and so we
+have partnerships and integrations with
+each of those applications
+and our customers typically will
+sync the data from the accounting
+software into bill.com in the initial
+you know
+day or whatever and they will take over
+all the list items the customers the
+vendors charter accounts the expense
+categories all that stuff will come over
+and then from there once they put the
+documents in they can categorize it in
+bill.com and then we just sync back and
+forth if they add a vendor it goes over
+to quickbooks if they add a customer who
+goes over all that stuff just
+automatically gets
+integrated and synced in a seamless
+fashion so the customer doesn't have to
+worry about their books being accurate
+so accountants that's one of the things
+accountants love is that
+they can actually have their clients
+involved in bill.com but not necessarily
+involved in the accounting software
+which is where they can kind of make
+mistakes
+your domain is i think too good to be
+true
+how did you get that
+a little bit lucky um
+the the cto
+uh eric had a friend uh mark benioff
+from salesforce and mark benioff owned
+the url and so
+mark had
+state connected to eric and after about
+you know a year of working here had kind
+of you know asked eric a little bit more
+about what we were doing when he heard
+what we were doing he was like you know
+i've got a url that might be appropriate
+and so we went and talked and we talked
+about the business and uh you know as a
+friend he did us a favor and sold it to
+us so it was
+good
+okay let's talk about the corporate
+strategy so what do you think is the
+competitive advantage of build.com over
+other software as a service companies
+that might also streamline the
+accounting process or payables and
+receive this process
+i think the
+core
+advantage we have the the primary
+challenge that
+there is in building what we've done is
+that the reason the name is a good segue
+so the reason i
+ended up buying bill.com the original
+company was cash view which in some ways
+is more descriptive about what we
+actually do
+but bill.com is too good to pass up
+because
+bill.com represents two sides of the
+same coin the payables and the
+receivables process and that's what you
+think about a quarter there's head and
+there's sales but it's a quarter right
+so we are two sides of the same coins
+the transaction that businesses use to
+communicate and transact across
+that transaction
+if you really want to make it electronic
+and really want to create the
+collaboration across it you need to both
+do the payables part you need to do the
+receivables part you need to create the
+collaborative tools for customers and
+vendors need to create the payments that
+need to happen back and forth you need
+to sync with either type of accounting
+system if you're on quickbooks and i'm
+on intact if you're on netsuite and i'm
+on xero all that stuff just needs to
+kind of go together
+and so at our core we've always had a
+data model
+that represents that it is both you know
+the transaction is either a payable or a
+receivable but it's actually both at the
+same time so i think that's one of the
+bigger barriers entry the other barrier
+entry is money movement we're one of the
+few companies that actually does the
+money movement and actually processes
+the transactions and manages the fraud
+risk and the credit risk and all the
+things that come with money movement and
+that is really really hard stuff to do
+and and in this particular regulatory
+environment since 2008 in the united
+states has gotten a lot harder to do
+those those activities and so um and we
+have a lot more
+costs and expense that we are putting
+into the system to kind of manage and
+work with regulators and that's not
+something that i think most startups
+should be doing because it's it's
+actually fairly expensive and fairly
+risky
+and did you think of moving towards
+supplier management and to towards the
+trade reservations management adapter
+management in terms of
+selecting the right adapters or
+suppliers uh managing them um building
+this kind of database so we believe that
+the the network that we have that
+connects you know customers and and
+vendors together right the uh the
+payables of shubble's connection
+ultimately does create a supplier
+network if you will
+but it's going to be different than the
+aribas or the tradeships it's going to
+be different than that because we think
+that most businesses you look at the u.s
+right
+in the u.s the top 4 000 companies in
+the us
+create 70 of the consumer bills right so
+consumers only have to talk to 4 000
+companies to be able to get everything
+electronic it's a much simpler problem
+than you think about the 29 million
+businesses that the u.s has right
+so
+we believe that you know the network
+that needs to really that will solve the
+problem is going to be one that creates
+some transparency no matter your size
+and so i think that's it's just a
+different way of approaching the problem
+so we haven't gone after go get the top
+five thousand billers and you know which
+is everybody's kind of got the top
+thousand right and then they've gone out
+to all of their network it's a great
+strategy uh but i think it's you know
+ours is to say well let's make sure this
+works for anybody and anyone at any time
+okay great
+let's talk about the market development
+in the payment industry and the sas and
+accounting industry so what kind of
+entrance can you identify
+specifically related to the accounting
+department
+i think one of the things that that i'm
+seeing there's kind of three big trends
+in general right there's big data
+there's social or collaboration that's
+what i think it translates to in the
+business world and then there's
+electronic payments
+and obviously we play in all those i've
+talked about those words that what's
+interesting is this you know
+when we first you know when i did pay
+cycle one it was it was an internet
+payroll solution we did not think of it
+as a cloud solution we did not call it a
+sas solution we did not think of it as
+the benefits that that environment
+really provided from a customer
+perspective there were benefits for us
+from a company building on it right
+faster development times and better
+ability to kind of fix bugs like that
+and now when you think about the cloud
+it is kind of sharing this phrase i use
+is sharing the right data with the right
+person at the right time and allowing
+people to collaborate across all of that
+and that's kind of a trend that we're
+seeing is that businesses want that they
+want the ceo or the owner wants to be
+able to pay a bill in a taxi cab in new
+york city they you know or you know the
+the woman who owns the business wants to
+be able to pay a bill while she's
+picking up the kids or the dad wants to
+be able to pay the bill or invoice a
+customer while he's at the soccer game
+whatever the stereotypical role that you
+come up with right they want to be able
+to do this activity from anywhere and
+that activity is very different
+than when you think about the finances
+of you know what did i spend on this
+this and that right and so it's it's
+kind of
+it's the instant real time nature that
+business and the demands that business
+are going to be all business owners are
+being placed on today which is a
+business never stops you're always
+connected it is that that phrase which
+you know i've heard many times in the
+valley or maybe not many but i use it
+many times which is the
+the news is looser looser but the leash
+is longer right that's what the that's
+what the internet has done for us we're
+always connected right you've always got
+that leash but i got a lot bigger rope
+around my neck so i'm not going to hang
+myself but i'm always connected right
+and so i think that
+enablement of technology is driving what
+businesses expect from their financial
+applications they want that freedom and
+flexibility because everything else they
+do to run their business can be done
+from anywhere so i think that is driving
+a big need in the accounting space and
+the finance space and so you can't make
+a decision about paying a bill unless
+you've got all the filing cabinets you
+know at your fingertips there was a
+one of my first demos i did
+uh for the demo conference in 2007 i got
+up on stage and had a tool belt around
+my waist and the tool belt on on the
+tool belt i had calipers which um
+paper hanging off like a whole room of
+paper all the way around my waist right
+and they were all bills and invoices and
+the comment i made is like if you wanted
+to have all the paper and invoices to be
+able to pay your bills anywhere this is
+what you would have to do nobody's going
+to do this right you want to be able to
+do it on the phone
+it should look very funny yeah yes it
+was it was a good video it was fun great
+renee your dad taught you so much about
+how to start a company and how to become
+a successful entrepreneur what do you
+teach your two boys so they become an
+entrepreneur if they want yeah it's a
+great question i think one of the things
+that we fail to do and actually there's
+all these studies in the us about this
+which is dinner table conversations are
+probably the most important thing for a
+successful child to become a successful
+adult and so when you come home you know
+what do you talk about dinner table
+everybody talks about their day so i
+share very openly with the kids all the
+good stuff and all the bad stuff about
+running a company and i explain it so
+they understand it so if i'm having a
+challenge hiring somebody i talk about
+why this role is important what would
+this person do for the company what i'm
+looking for how i evaluate the person
+where they've been all that type of
+stuff we kind of get into that so they
+can potentially learn about the people
+side of business right if i'm evaluating
+um you know how to organize the company
+i'll go through the organizational
+structure of the company if i'm
+evaluating a product feature we'll talk
+about hey i got this new idea this is
+what i'm thinking about and don't ask
+questions poke holes at it so i think
+and my dad did this with me this is a
+really important thing no matter
+what you do it might be why you see
+actors kids oftentimes become actors and
+you know businessman's kids oftentimes
+become businessmen right or whatever and
+so i think that's kind of an interesting
+way to kind of share that learning so
+there's no one thing other than as i'm
+learning i'm sharing that with the kids
+right so they get to learn a little bit
+of something and that dinner table mba
+as i call it i think is one of the more
+valuable educational experiences that
+our kids can have
+so understood this kind of educational
+practice that we are doing and for
+some people who are not that's
+privileged to have an entrepreneur as a
+daddy
+what kind of advice would you give them
+for starting a company well the first
+thing is that it's always harder than
+you thought or think right it's always
+harder and so just you know back to the
+first question you asked me which is you
+got to persevere you got if you believe
+in what you're doing
+you have to keep doing you can't let
+somebody else tell you no it's not right
+uh that said you should always validate
+right so if you think about the examples
+i gave both the paid cycle one year i
+did a pay cycle i did payroll by hand i
+filled out forms by hand but for the
+customer their experience was they got a
+complete internet experience they could
+email me the hours i would then create
+the paychecks and i would deliver it to
+their door because i didn't have the
+ability to just send it through email at
+that point right but they got that
+experience and when i could see aha that
+solved the pain point then i knew it was
+worth investing so there are ways to
+kind of you know prototype sets out make
+sure that your customers value the pain
+points that you're solving before you
+invest and i would recommend that
+the other advice that i always tell
+people is
+really
+you cannot underestimate the value of
+the network that you have
+do not be afraid to tap into it and ask
+people can always say no um and
+and kind of an adjunct to that is
+focus on developing a board of advisors
+a board of directors or something that
+you have to be accountable for
+everybody always thinks it's interesting
+everybody always thinks hey you know
+being your own business you know it must
+be being your own boss must be great i
+am not my own boss i work for the people
+above me i work for people below me i'm
+the guy in the middle that has people
+you know all around me that i need to to
+work with right and they're all telling
+me what to do now i get to set the
+course but i'm listening to all of them
+and i'm trying to make sure they're all
+satisfied and if you don't have that
+accountability
+then it's actually very easy to say well
+you know i said i was going to get this
+product research done
+by
+next month
+three months go by and you haven't done
+it but if you have a board meeting and
+you have a board meeting six weeks where
+you have to report on the product
+research guess what
+you'll get the product research done by
+six weeks from now right so i would
+recommend that so i think that there's
+probably more ideas but those three tips
+seem like the ones that i focus on the
+most when i tell other entrepreneurs
+great really thank you very much for
+your time thank you and the next time
+you want to start a company or even
+better want your kids to start a company
+talk to your kids and educate them on
+the dinner table thank you very much
+okay great thank you
