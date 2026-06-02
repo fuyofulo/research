@@ -1,0 +1,1025 @@
+Bill, in hindsight seems obvious.
+>> It's one of those things that um and
+best ideas always do seem obvious in
+hindsight, right? So,
+>> but I I can tell you that it was not
+something that was obvious. The genesis
+really comes back to just experiencing
+life. But in 2006, I left the day-to-day
+of pay cycle to start Bill. Many SMB
+fints have failed. I'm going to ask you
+a question. What did you deliberately
+not chase so that you can be true to
+your focus?
+and succeed where so many fints have
+have failed in that space.
+>> That stock is on cloud9 up nearly 75% in
+the past year. Joining us now is founder
+and CEO Bill.com.
+>> Think about 1999 2000. It was like oh I
+mean I can release software any day of
+the week and I can actually improve it
+any day of the week. Like that's super
+powerful as a developer. And so we were
+focused on that. But what I realized in
+2001, it wasn't the software that was
+powerful. It was the data. The software
+ETF IGV notching an all-time high this
+week. One of the top performing names in
+that fund, Bill Holding.
+>> What it is that customers need
+irrespective of what they're telling us
+and then listening to customers on how
+to make it better. That's kind of the,
+you know, the evolution that we've
+worked on at Bill is constantly
+becoming, you know, more and more of an
+expert when it comes to SMBs, more and
+more of an expert when it comes to
+payments. We do a lot on payments that
+businesses don't really have the time to
+understand. and then you know becoming
+an you know an expert if you will on
+pulling all that together technology
+whether it's AI or whether it's you know
+Java or C or whatever like we're going
+to use all the capabilities of
+technology to be able to make the engine
+run. Today's episode is a mini MBA for
+founders and leaders. Our guest is Renee
+Lassert, who built Bill from the ground
+up, led it through an IPO, and scaled it
+into a public company with over 1.5
+billion in annual revenue and a market
+cap exceeding $5 billion.
+We unpacked the real lessons behind that
+journey. scaling culture, leading
+through uncertainty, building personal
+resilience, and mastering when to move
+patiently versus when to act with speed.
+This is a master class in leadership,
+scaling, and building momentum, building
+something special that lasts beyond the
+IPO moment. So, let's go.
+So Renee Leart, thank you so much for
+joining us on the podcast. It is an
+honor to have you. What a great story.
+We have incredible founders like you
+that come on the podcast and talk about
+in very humble terms how you had an
+idea, you brought it to life, and then a
+few years later now you're a
+multi-billion dollar organization. Um
+I'm I'm incredibly inspired by your
+story because um you started
+in very similar terms like an idea to
+solve a painoint, right? Would love to
+kind of go back to your Genesis story
+like where did the idea for Bill come
+about? What inspired you and let's go
+from there.
+>> Okay. Well, thank you. Appreciate it.
+It's always good to be here. So, you
+know, I think the genesis really comes
+back to just experiencing life. I grew
+up in and around small businesses. My
+parents and grandparents each had, you
+know, north of half a dozen businesses,
+all of them since the 60s serving SMBs.
+And so I had worked in accounting at
+Price Waterhouse. So I was pretty
+comfortable with the language of
+business, which is accounting. I moved
+into uh working uh for my parents
+payroll company writing code and
+developing operational capabilities for
+uh kind of like the first online payroll
+company out there. Honestly, my dad had
+started in the 80s using 2400 baud
+modems to actually, you know, transfer
+payroll files. Anyways, so I did that
+and then I worked out in it where I got
+to really learn the excellence of
+product management uh and the focus on
+customer orientation and then I started
+a company called Pay Cycle. We were the
+kind of the first and uh at the time
+when we sold the largest online payroll
+company in the country u and we sold
+that to in 2009 but in 2006 I left the
+day-to-day of pay cycle to start Bill
+and it was because when I was running
+pay cycle I felt this painoint and this
+painoint was it was really uh having to
+walk around the office collect invoices
+talk to employees understand whether
+invoices you know should be paid or not
+were we happy with the work
+understanding bills that we were sending
+out, whether they were getting paid by
+our partners or not, understanding the
+reconciliation across all the
+transactions. And I realized that
+everything I was doing was the same way
+my parents and grandparents had done it.
+It was all paperbased filing cabinets,
+checks being sent, checks being
+reconciled, you know, in a return
+envelope uh with the bank statement.
+Like all these things were just painful.
+Sticky notes all over the place, files
+missing from the filing cabinet, not
+filed appropriately. Um and that
+painoint helped me really understand
+that there was something that technology
+could do. So this was you know probably
+2001 2002 and we had started the you
+know this online payroll company and the
+reason we started it was to focus on
+software delivery um meaning that you
+know in the software world of intuitit
+at the time there was a release once a
+year and so you had to do everything it
+was very rigorous product management but
+everything depended on getting that
+right once a year and the beauty of the
+web right if you think about 1999 2000
+it was like oh I mean I can release
+software any day of the week and I can
+actually improve it any day of the week.
+Like that's super powerful as a
+developer. And so we were focused on
+that. But what I realized in 2001, it
+wasn't the software that was powerful.
+It was the data. And if you think about
+this 20 years later, right? 24 years
+later now. Uh data is the essence of
+what's actually powering the AI, you
+know, uh evolution, what's powered
+everything in the cloud. And so I think
+in that 2003 4 window, I realized that I
+could solve all those pain points that
+my parents and grandparents had that I
+was having because the data could be
+centralized and be in the cloud and I
+could leverage that across, you know,
+the customer um experience to be able to
+make their experiences better. And so
+that was the genesis. It was something I
+started noodling, you know, at night and
+uh when I I couldn't stop noodling it,
+that's when I decided to leave the
+day-to-day pay cycle and start the next
+one, which is Bill.
+>> Yeah. Because um Bill in hindsight seems
+obvious, but you know, take me back to
+when you were kind of looking at this
+going, "Hey, there's a realw world
+problem here." like and um just I just
+want to understand how you kind of
+pinpointed that and then inspired you to
+kind of start taking action. [snorts]
+>> Well, I mean I appreciate thankfully
+thank you for saying it's obvious. I
+mean I think it's one of those things
+that um and best ideas always do seem
+obvious in hindsight, right? And so
+>> but I I can tell you that it was not
+something that was obvious. uh when I
+had uh I told my dad about it and he you
+know he was supportive and didn't really
+get it until I showed him a demo
+>> and I showed him a demo in 2007.
+Um and it was actually you know people
+ask me sometimes how did you know you
+had something? It's like well company
+was a year old and I show him the demo
+and when I'm done with the 10-minute
+demo he turns to me and says holy
+Renee I had no idea that's what you're
+talking about. that solves all of my
+pain points that I ever had running a
+business. You know, Godspeed, have fun,
+all that good stuff, right? And and so I
+knew that there was something there, but
+then when I went to the first customers,
+nobody would do it except people I knew.
+And it was because they trusted me and
+like, "Look, I don't really have that
+problem. Like, it it works. I have a
+filing cabinet. Like, do something else.
+I have other problems you need to fix.
+Like, just try it." And so, they would
+try it. And then 90 days later, they'd
+come back and they would say, "I had no
+idea. I didn't understand my business
+that well because I didn't have all the
+documents. I didn't have all the
+support, the reconciliation. I didn't
+have the information I need to be able
+to run the business. And so that um was
+the first part of being like okay well
+this is something that's critical for
+businesses and I need to keep listening
+to what their experience is. But the
+other thing I will kind of say on this
+and this is always hard for folks is
+that you know there is the Henry Ford
+you know statement where he says if you
+ask the customer what they want they'd
+say a faster horse and so that's not our
+job as software developers is not to ask
+people what they want. I think once you
+have something it is to ask them what
+they want to make sure that you're
+hearing their experiences and
+understanding how to make it better for
+them. But the job of a software
+developer is to be an expert on the life
+of their customer and understand the
+pain points better than the customer
+does. Customers don't think about their
+pain points. They think about driving
+you know customer adoption or they think
+about you know something you know
+uniquely uh you know to their passion
+that they started out with. So I think
+that focus of saying what it is that
+customers need irrespective of what
+they're telling us and then listening to
+customers on how to make it better.
+That's kind of the, you know, the
+evolution that we've worked on at Bill
+is constantly becoming, you know, more
+and more of an expert when it comes to
+SMBs, more and more of an expert when it
+comes to payments. We do a lot on
+payments. Some businesses don't really
+have the time to understand. And then,
+you know, becoming an, you know, an
+expert, if you will, on pulling all that
+together with technology, whether it's
+AI or whether it's, you know, Java or C
+or whatever, like we're going to use all
+the capabilities of technology to be
+able to make the engine run.
+It's it's it's fascinating because you
+know many SMB fints have failed. So what
+what did you deliberately I'm going to
+ask you a question. What did you
+deliberately not chase so that you can
+be true to your focus
+and succeed where so many fintexs have
+have failed in that space?
+Well, I think the the first uh thing
+that I would start with just the first
+answer comes to mind is, you know,
+patience does matter. Um there's I think
+one of the things as an entrepreneur and
+I I've said this before, but I think
+it's really worth saying again. Um
+entrepreneurship is about the perfect
+balance of patience and impatience.
+Impatience is what gets you off your ass
+to go do something, right? That is
+exactly why you started your company.
+It's why I started my company. I thought
+the world could be better. Right? That's
+impatient.
+>> Patience is okay. I'm going to let the
+market develop. I'm going to let the
+software develop. I'm going to let
+customer relationships develop. I'm
+going to take time and every now and
+then you push because you get impatient.
+And so that balance of patience and
+patience, I think, is is super, you
+know, um, important. And it's one that,
+you know, uh, you know, now that Bill's,
+you know, 20 years old, I've been
+obviously working on that for a long
+time. And it's it is one that I never I
+would say I never get tired of actually
+you know uh exploring and thinking about
+like am I being impatient enough or am I
+being too patient. These are all things
+that I think entrepreneurs should be
+thinking about every day. Um and I I
+think you know what we found is that uh
+customers really do value saving time
+and that was always that we have a very
+strong purpose-built mission. And our
+mission is to make it simple to connect
+and do business. You know, nobody gets
+in business to actually do the finances
+except for me. I mean, most people don't
+think so. When you ask the question
+about fintech, it's like, well, our
+mission was actually to eliminate the
+pain points of connecting and doing
+business. I mean, it pain doing business
+should be about the joy of business.
+Whatever your passion is, it shouldn't
+be about the hassle of business, which
+we all have. Life has plenty of hassles.
+And so, if we can eliminate those
+hassles, then that enables people to
+actually go be more creative and you
+pursue their passion. So, so one thing
+on why we succeeded, we had this
+long-term view. An example of things I
+did not always choose, and this may be
+counter to many uh entrepreneurs, I did
+not choose the investor that gave me the
+highest valuation. I turned down
+investors that gave me higher
+valuations.
+>> Um, and I think it was important because
+I wanted to have that um that sympatico,
+if you will, on the mission and the
+culture of the company. Um and you know
+I many things where I I don't for
+example believe in 10x class shares. I
+don't believe in dual class shares. Uh
+and I you know chose not to go down that
+path. I wanted to be held accountable.
+And so I think you know the question on
+success doesn't always come back to
+fintech. To me it comes back to kind of
+what are the elements of my
+entrepreneurship story that were unique
+to me that helped me be successful. And
+the reason I talked about the dual class
+shares is it has forced me not having
+that has forced a level of
+accountability along the way that has
+made me a better CEO. And I think that
+matters for everybody who's in the seat
+to realize that they've got, you know, I
+would say multiple hats that we wear.
+You wear a founder hat and that's never
+going to change. You wear um a CEO hat
+and that is going to change. you wear a
+board member hat which has different
+fiduciary responsibilities than CEO and
+that will also change over time. The
+only one doesn't change as founder. The
+others change and you have to earn your
+right to be there for those seats. And
+so I you know for me like those types of
+decisions actually helped keep me honest
+around the journey that I'm on.
+>> That's so in insightful. We could do a
+whole master class on just those um you
+know personal traits and that commitment
+to um those values. Um um maybe you can
+speak a bit about as the um the company
+started scaling you know what are some
+of the things you know you had to hone
+in on from a personal leadership
+perspective
+um as well as maybe some of the things
+you had to stop doing as a company hit a
+certain size threshold.
+Yeah, I think the one of the more
+important things I did in company number
+two compared to company number one is I
+had a coach.
+>> Um so I've had a coach, you know, for
+the entire existence of Bill. Um that
+coach has meant, you know, meeting at
+least twice a month, uh for the last 20
+years. Uh you know, we cover had two
+different coaches, but we cover all
+sorts of topics from executional
+um you know, questions to obviously
+leadership questions to personal
+questions, right? And so,
+>> um, I think one of the things that that
+I've focused on, uh, is making sure that
+in order to develop that you have
+somebody in the outside keep me honest.
+Uh, I think the dual class share thing
+also keeps my board honest, keeps me
+honest, and I think that's important.
+Um, I think that, you know, uh, things
+that
+I've had to change, if you will, like I
+I think this a lesson from company one
+to company two was, you know, the buck
+stops with me. Uh, and I have to accept
+that. Uh, the first company it was, uh,
+had a co-founder and we had somebody
+else that we brought in as a CEO that we
+treated as a Trump. And that's hard.
+It's hard for employees. It's hard for
+the board. It's hard for people to know
+who's in charge and what decision, who's
+going to make the decision.
+>> And so for me, when uh when I started
+Bill, I was I was clear that um you
+know, I needed to be responsible and
+accountable to myself uh for those
+decisions. And so one of the things for
+example I did probably I don't know a
+dozen years ago I changed my title from
+founder and CEO to CEO and founder
+because the job this is the point that I
+just me mentioned that I needed a
+reminder every day that the CEO job is
+earned. It's earned from your employees.
+It's earned from your board. It's earned
+from the market. And what that means I
+have to be accountable for the decisions
+that the company makes you know good and
+bad. And so to your question that that's
+just like a a mindset that helps me. Um
+one of the things that helps with is
+understanding that over time um teams
+have to change and it's never fun to
+change your teams. Um but I feel good
+about the fact that we have had a lot of
+great people in the company and when
+they've moved on I you know remain
+friends and stay connected and they do
+great and they root for Bill and so like
+there is this I think you maybe a
+fallacy I had in company one that there
+was there was no way to do change
+without losing those connections and
+those friendships and so that kept them
+and me from making decisions around you
+know change and that I think is critical
+when you think about what makes a
+company. It's going to be the leadership
+team that's driving the priorities and
+the initiatives across the company. And
+so having clarity about it's okay to,
+you know, it's okay to leave and it's
+okay to to be asked to leave like that
+doesn't change the work you did doesn't
+change uh the friendships that were
+made. So very talk about that, but
+>> no that that I actually want to get into
+scaling because that that's a that's a
+good segue into that because you know
+many of our founders that watch the show
+are sort of at that cusp of scaling past
+like 100 to 200 employees and they're
+looking looking at like changing the
+profile of the business both from the
+leadership profiles um putting in
+processes that maybe didn't exist when
+they were a smaller company. Um, so I
+would love to hear your perspective on
+you know when do when does business
+processes and operating discipline start
+to show up uh without adding layers of
+bureaucracy but to allow you to scale
+globally maybe. Um and then this notion
+of like do you have to look for maybe
+new leadership talent um to you know go
+from early stage to now more you know uh
+or do you develop the talent you have to
+help you grow at a at a much bigger
+scale?
+>> Yeah. Yeah. So um I'd say the first
+thing uh it's this is easier to say than
+it is to do but to be building a
+business always thinking you know the
+endgame and the endgame to me isn't an
+exit. the endgame is a sustainable
+business that thrives in on its own,
+right? Regardless of me being here or
+any of the leaders being here, right?
+You that's I think ultimately when you
+start a company, uh I think that's one
+of the goals is that you want this
+company to actually be independent. Just
+like when you have kids, you want them
+to thrive and be independent and have
+their own
+>> their own values and all that, but you
+want them to be able to have success. So
+that endgame for me has meant always
+thinking in the long term and so some of
+the processes you talk about like I was
+thinking about that day one okay someday
+you know we are going to be moving 1% of
+GDP what are the things we need to put
+in place today so that we can have the
+controls and the the trust that is
+required to move money what are the
+things we need to put in place today so
+that we can grow with that as it moves
+and so if I wasn't thinking about that
+endgame of always being a trusted place
+for people to move money to, you know,
+send and receive money. I probably would
+have, you know, poo pooed, if you will,
+the beginning of all the risk monitoring
+that we did by hand using Excel
+spreadsheets.
+>> And yet that created the DNA for us to
+actually understand and become experts
+around risk and money movement.
+>> And so then that becomes something you
+can build into a process over time. Now
+that team is much bigger today than it
+was, you know, when we were
+>> in a small house, you know, with 10
+employees, but it it does uh I think
+point to how you always have to be
+thinking about, you know, where you're
+going. You can't just be thinking about
+what I need today. That's the balancing
+act of patience versus impatients. Um
+and there's [clears throat] obviously we
+didn't build the perfect system back
+then, but we did enough that we could
+understand so we could grow and scale.
+Um and so I think you know across
+processes you know one of the things
+that that you know I mean everything
+changes but one of the things that
+doesn't change is kind of the culture
+and the values of the company and if you
+do it right the culture and the values
+are the DNA they're the foundation of
+the company but what happens as you get
+bigger at 2100 employees how do you help
+everyone understand and appreciate what
+those values are how do you help people
+managers for example to understand how
+do you align the coaching that we do for
+employees around those values. And so
+those are systems that obviously get
+developed over time. And you go from,
+you know, mixing margaritas and making
+guacamole for the team and having a
+conversation when we're 30 or 40
+employees to now having, you know, today
+we have a company meeting where I will
+talk about things that are super
+important to the company to kind of help
+folks understand the cultural alignment.
+So processes change, but there's always
+an endgame. And when it comes to scaling
+people,
+I think uh I think it really depends on
+the person and and I think at Bill and
+I've already used this word a few times.
+I I think we're a culture a lead you
+know a team of experts and so uh
+expertise requires constant honing of
+your skill whether that's you know a
+musician or whether that's an athlete
+like you're constantly trying to make it
+better. And so for those people in our
+culture that are very strong at actually
+constantly trying to self-improve,
+>> they have a very long path, career path
+in that bill.
+>> Uh for those that don't know how to
+self-improve, they can still contribute
+and feel part of it and feel great. Um
+but you know, they might end up not
+being here as long, right, um as
+[clears throat] others. And so I think
+the it you know the choosing to to grow
+sometimes it's a you know it's a
+attribute of the individual sometimes
+it's an attribute of the company or the
+leader who's managing them. Um there may
+be time when you don't have the time to
+have somebody grow into a role and
+that's happened I would say for most of
+the people that have been reporting to
+me that have not you know that aren't
+reporting to me today it's probably you
+know either more there wasn't time for
+them to develop this necessary skill or
+they wanted to go do something else
+right and so that that transition is
+something that you know I actually
+talked about up front had one of my uh
+uh coaches said to me uh early on he
+said, "Look, you know, people don't seem
+to understand this. Um, when you are
+hired as the CEO, accept that you've
+been fired. Get over it and move on."
+>> Right? And so, the conversation that I
+have had with I've had many friends work
+with me. It's like our friendship is our
+friendship. Personal is personal.
+Business is business. If it comes to the
+fact that you don't like working here,
+which has happened, or it's not the
+right place for you, which has happened,
+we'll have a conversation, but our
+friendship's not going to change. and
+none of it has like we've maintained all
+sorts of great connections and helped
+each other you know you know in and
+outside of bills. So I think being
+direct upfront and that wasn't exactly
+your question but like when you work
+closely with people you're going to
+become friends right if you at least I
+am like you have you you earn and and
+are given respect there's just an amount
+of trust that develops when you work
+together for years and so it becomes
+hard when you have to make you know some
+of these decisions in either direction
+and so I think making sure that people
+understand what's personal is personal
+what's business is business
+>> yeah I think I think one of the themes I
+hear consistently is, you know, being a
+founder is, you know, can be the best of
+times and the worst of times and and and
+then the best of times often is about
+the people, right? Like the
+relationships you you build along the
+way. Looking back at like these multiple
+successes now in scaling, um what do you
+think are like some of the most common
+mistakes in hindsight that you would you
+know advise you know early founders on
+you know paying attention to? [snorts]
+I I do think uh one of the most critical
+things is the culture
+>> and because the culture is what governs
+the company when you're not around. And
+by the way, you know, just like with
+your with anyone's kids, I mean, you're
+not around, right? Like even when you
+think when you're they're six years old,
+you're around, you're not. They're at
+school more than they they're at school
+more than they are with you, right? And
+>> I I think that, you know, having a
+foundation around, hey, this is how we
+think about things allows people to make
+those decisions. And so I think the
+scaling thing really comes back to being
+very clear. Like we've always talked
+about the culture. I I think it's super
+important. We do not have what I would
+call aspirational values. Many companies
+will have aspirational values. I say
+that we have foundational values. I we
+try hard to understand who it is as a
+person that we like working with and
+what's required of that person as a
+person not you know irrespective of what
+they're doing anywhere in the world
+>> and we align on that before they come in
+and then when they're here you know we
+all do that so that's being authentic
+it's being humble it's being passionate
+it's being accountable and it's having
+fun together
+>> those aren't aspirational they're just
+descriptive words of who we are
+>> and everybody knows that and then if the
+leaders model that which you know we
+work hard not we don't work hard to
+model but we make sure that we're not
+afraid to show that we're modeling it
+that allows us to you know continue to I
+think you know keep the the mentorship
+going across the company so so I think
+that's one that people miss is like
+spend time on the culture understand
+what your foundational values are that
+is going to be what governs the company
+it's going to be the glue that keeps
+teams together I think having a very
+clear mission is is super important like
+everybody at Bill identifies with SMBs.
+You know, SMBs and I think are, you
+know, the special sauce of the economy.
+I think a lot of people say that, but I
+think it's more important than the
+economy. I think they're part of what
+makes a community special. You know, if
+you think about whether it's Toronto or
+Miami, your favorite places to go eat or
+go shop or go be aren't going to be
+chains. They're going to be something
+local that's going to have a little
+flavor of that community. And so that's
+something that's super important, you
+know, I think to make sure that our
+customers know that they're heard and
+that our employees love working on SMB
+problems. So those two things mean that
+even though there's lots of other things
+I may not get right every day, that's a
+governing principle that actually helps
+us get things right every day.
+>> Um I think you know uh being clear on
+when you're going to be patient and when
+you're going to be impatient. That's the
+hardest one for me, right? because you
+know if you're going to be impatient all
+the time well then that's a dictator and
+you know people don't really like
+working for dictators and that long term
+doesn't actually build a culture that
+can sustain itself in my opinion right
+so to me balancing and letting the best
+of other people's ideas come out um
+that's you know it's really fun to watch
+but it's also really hard to know when
+is it time for me to be impatient to say
+do it this way
+>> yeah it's it's really uh and I I work on
+this a lot um how to teeter between
+being patient and when to kind of maybe
+speed things up culturally. Um, so it's
+something that I think every founder,
+you know, you can things can never
+happen fast enough, but your words are
+so wise to know when to have patience
+and it it's it's great for all of us to
+hear that um in in business, right? Um
+so let's uh let's um move a bit to you
+know your personal journey in terms of
+what what leadership lessons have you
+picked up along the way of this you know
+great journey that's still on unfolding
+that you know you would use to you know
+chart your future and also you know help
+you know next generation of leaders.
+What are some of the things that have
+really,
+you know, become ingrained as part of
+your [sighs] value system?
+>> Uh, my coach and I talk about one thing
+in particular around hiring employees.
+Uh, there's a choice. You can have
+mercenaries or you can have
+missionaries.
+And mercenaries are essentially hired
+for a paycheck.
+>> And missionaries are there for a
+purpose,
+>> a mission. And
+obviously we pay people well. We have to
+pay people well. It's a competitive
+market. But ultimately I want people to
+want to be here more than than anything
+because they identify with the mission,
+the culture of the company, not because
+of the money, right? Money is just a
+byproduct of what we need to do because
+people need to make a living. And so I
+think that means like how do you make
+sure you have a culture and an
+environment where you're able to attract
+the people that are attracted to the
+mission that they're not there just for
+the paycheck. And that goes back to the
+things I just said around you know
+culture and mission I think are super
+important. I think um
+I think another uh you know tenant and
+principle uh which we talked about at
+the beginning of the the podcast here
+was you know balancing innovation with
+customer needs and the the way we talked
+about it was
+>> Henry Ford's statement that hey like you
+know if you asked the customer what they
+wanted it be a faster worse
+>> there is a need and there are plenty of
+companies that they only do what
+customers ask them to do and I think
+that that leads incremental improvements
+and it's actually the size company that
+we are at right now. It's actually one
+of the hardest things because you think
+about our scale, half a million
+businesses, 1% of GDP. There's so much
+stuff going on from customers right now
+that we could incrementally make our
+product better until the end of time
+because customers are always going to be
+like, "Oh, that could be a little bit
+better. Oh, that could be a little bit
+better." That's not the game changer.
+Why are we here?
+>> Because we understood a pain point. We
+were experts around SMB financial
+operations. We understood a painoint
+better than anybody, better than
+customers. customers didn't want what we
+were going to go build. And so that
+balance of innovation like okay
+customers need us to make that
+incremental improvement. Yeah. Yeah. We
+got to do that
+>> versus you know what we can blow all
+this out of the water. We can totally
+game change the experience for
+customers. They don't know it. They're
+not going to ask for it. And we have to
+then have that conviction to go do that.
+>> That is not an easy thing to balance.
+But that's one of the things when you
+ask like you know over time leads that's
+one of the things we focus on here is
+like making sure that innovation is
+front and center that we're not just
+listening to customers on the
+incremental that we are actually
+leveraging our expertise around problems
+that the customers have technologies
+that we understand and the skills domain
+expertise that we bring as humans that
+we can leverage that into a better you
+know experience for customers and you
+know we just did an example that uh you
+know AI is a big thing right now
+obviously and we announced an agent in
+October that was to collect W9. So,
+every business that pays people has to
+collect W9's. Well, we didn't ask
+companies what they wanted. We went and
+said, "This is a painoint." And we have
+an agent that goes and collects W9. So,
+we have 10,000 customers signed up for
+it already. You know, over 40,000 W9's
+collected. We expect it'll be 3 million
+this year. Like, that's a tremendous
+amount of load that we just took off
+that customers weren't asking for. So,
+that's balancing innovation with
+actually customer input. And so it's
+kind of this combination I think that's
+important. Um and then very tackle
+things on leadership lessons. Hire a
+coach,
+>> make time for it. Like everybody's like,
+"Oh, I don't have time." This is the
+most important thing I think any CEO can
+do for themselves. And wow.
+>> And the the reason I think that is um
+I've used this analogy because people
+It's funny. I can't remember the first
+time somebody said this. Somebody said,
+"Hey, you know what? It's got to be
+lonely at the top. I mean, you're the
+top dog, blah blah blah." And I'm like,
+it's not lonely at the top. You have no
+idea. I'm not at the top. I'm in the
+middle. This is an hourglass. When you
+are the CEO of a company, especially a
+public company, you've got, you know,
+investors and customers on top of you,
+and you got employees below you. And
+some days it's the exact opposite.
+Employees become number one thing, and
+investors become the thing on the
+bottom. And it's information that's
+going between, and my job is to funnel
+the right information in both
+directions. It's not so it's lonely
+because there's just not a lot of people
+there, right? So
+>> when [clears throat] you think about
+like that fact that it is a lonely job,
+who do you go talk to about it?
+>> And so for me, a coach needs to be
+somebody I talk to about everything
+because for me, my job is a 24/7 job.
+Like and and by the way, most of my
+friends like they don't understand. Like
+we went to the Warriors game last night
+and and on the way back, uh you know, I
+pulled up my laptop and I worked and
+they're like, "You have to work." I'm
+like, "Yes, [snorts] like I work, but
+I'm going to have some fun, right? I was
+at the game for a couple hours." And
+like that ability to say like, "If it is
+a 247 job, then that means your coach
+has to help you as a human in my
+opinion."
+>> So, I don't just ask for expertise on
+how do I be a better CEO? Like, I go in,
+I'm like, you know what, this stress of
+being in the middle is hard. Help me
+think through it today. Or, you know
+what, I missed this for my kids event or
+you know, my kids going through this
+issue. I don't know how to think about
+it or my board's being challenging on
+this issue. I'm worried they're going to
+be challenging on this issue. Who do you
+get to share that with? And when you
+build rapport like I have with you both
+coaches I had for, you know, a number of
+years, you end up having consistency and
+message and experience that helps you
+understand yourself, right? And that's
+the thing like to give me the energy
+like you know you need the help in being
+able to understand how any of us are
+growing how any of us are fitting into
+the scheme of life and a coach does that
+and I think it's you know super super
+important. Um and you know I I would say
+another leadership lesson relish
+accountability.
+It's not fun being the bad guy sometimes
+but that is the job. Do it humanely. Do
+it thoughtfully. do it lovingly,
+but know that when you get to make the
+choice that that's what people expect of
+you and it's how you do it that changes
+their lives.
+>> Being an ass is easy.
+>> Being compassionate, being, you know,
+loving,
+>> that's the hard part. Um and
+>> uh I think that's something that you
+know and maybe the last thing I would
+say on this is um on leadership lessons
+everyone should expect and know that the
+impact they have on their teams
+is something that goes on for decades.
+>> And the example I give on this is my dad
+uh had an employee that worked for him.
+Um they both have been passed let's say
+15 or 20 years and one year at
+Thanksgiving uh the son of this my dad's
+employee called my brother who had the
+same name as my dad and
+>> just said look I called because I wanted
+to say thank you the best days in our
+house were when my dad worked for you
+and he was always happy when he came
+home and had dinner with family.
+>> Wow. And I don't think we understand and
+appreciate that everybody, including us
+as CEOs, take all the baggage into the
+front door when we sit down to have
+dinner with our loved ones.
+>> And if you can make a place that that
+baggage is a little less baggagey,
+>> that has a huge impact. And so that the
+other piece of advice is like play the
+long game, don't play the short game.
+>> And that's part of the long game.
+>> Brilliant. Brilliant. I I feel like we
+can do a whole master class on like
+values-based leadership. Um, and I'm I'm
+definitely going to ask you to come back
+because our viewers are just going to
+have so much wisdom uh package here. I
+know you have a hard stop. So, I'm going
+to ask you one last question. Um, when
+people study Bill years from now, you
+know, what do you hope they understand
+about how it was built? you know, not
+just that it was a clear success market
+dominant player, but what do you want
+Bill to be remembered and thought about?
+>> So, um, intentionality,
+hard work, perseverance,
+grit endurance.
+I think people often times look for the
+hype to build a company.
+>> Life is not one on the hype.
+>> It really isn't. Like today's society
+makes you think it is. Every battle that
+was ever won that needed to be won was
+because of the things I just said.
+Intentionality grit perseverance
+endurance,
+>> love, not hate, right? Like those are
+the things that win in the long run. And
+I think it's easy to forget that because
+there's too much hype right now and
+everybody's like, "Oh, well so and so,
+you know, did this." Like, don't worry
+about that. What's your intention?
+What's your, you know, leverage your
+grip? be p have the perseverance and
+endurance to beat everybody else. So,
+>> what a great way to end it. Renee, I'm
+going to ask you to come back because
+you have been such a profound you you
+made such a profound impact on our show
+today. Some of the the the the lessons
+you've you've you've shared have been
+really impactful for me personally.
+Thank you for your time and I look
+forward to staying connected. [snorts]
+>> Yeah, likewise, Dr. Thank you. Looking
+forward to it as well.
+>> Take care. Okay.
