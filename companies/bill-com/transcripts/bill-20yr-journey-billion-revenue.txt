@@ -1,0 +1,1375 @@
+There's nothing like being a public
+company. The investors, uh, there's no
+stone left unturned. They're not always
+right, but they force an accountability
+inside the leadership team's, you know,
+purview that doesn't happen from, you
+know, private investors. One of the
+biggest questions facing some of
+fintech's most successful CEOs is,
+should I take my company public? What
+was it that gave you conviction that you
+should IPO and that that was the right
+time as well? To answer that question
+today, I drove from my office in San
+Francisco down to San Jose to talk to a
+founder who's done just that. And so we
+were stalling and so now there's hard
+decisions that need to get made. Renee
+is one of the OGs of fintech, having
+started Bill in 2006 and taken it public
+in 2019. I believe today you're
+partnered with 9,000 accounting firms
+and about eight of the top 10 banks.
+Yeah. Today, Bill has 500,000 small
+businesses as customers and they process
+over $300 billion in payments annually.
+That's about 1% of GDP, millions of
+transactions, billions of dollars. In
+this conversation, we're going to cover
+how a failed pitch to in it led to his
+first company. So, I'd started at into
+it to help them go do payroll. Also, why
+he parted ways with his first company to
+start Bill. So, what what really
+happened is we had three people that
+were acting as a charm from running the
+company. Yep. And how he navigated Bill
+through layoffs and some personal
+challenges during the Great Recession.
+and we laid off 40% of the team uh by
+November 1st. As the founder of fintech
+focused venture funds, one of the
+conversations I'm most excited to have
+with Renee is talking about the extent
+to which SMBs are underserved as a
+segment and how you build for this
+segment differently than for say
+enterprise. And then I started taking
+notes. I'd wake up in the morning like,
+"Oh, what about this idea? What about
+this idea?" One of the learnings there
+is that you have to always always be
+cognizant of.
+We'll also cover why he took the company
+public and how other founders should be
+thinking about this opportunity now that
+the window may be opening. And then you
+look at market penetration. You look at
+how many hours are still spent doing
+like pretty routine things across the
+whole and you're like we're still Yeah.
+like just getting started. Uh Renee,
+welcome. It's really great to to have
+you on. No, thank you Rex. Looking
+forward to the conversation. I thought
+we could start off with an anecdote you
+mentioned just before we kicked this
+off, which is what was your mother doing
+the night you were born? Yeah. So, my
+parents had started a data processing
+company in DC and and she wasn't feeling
+well. It was a Wednesday. She wasn't
+feeling well and she said to my dad
+like, "Look, I'm not feeling well. I
+think I'll go home early and just come
+back tomorrow." I was born two and a
+half weeks early. Uh, and my dad said,
+"Is it the baby?" And she said, "No,
+it's not the baby. I was baby number
+two." So, she was pretty sure it wasn't
+labor. Well, he's like, "Look, why don't
+we just finish the job tonight and then
+you can go home and take the have a long
+weekend." Um, and she's like, "Okay,
+that sounds fine." And so there at 12:30
+at night, she was, for some reason, she
+didn't gain any weight with me. She was
+110 lbs, 5'4, carrying around 50 lb
+punch card trays and doing the jobs.
+Dad's helping, but they're doing the
+jobs. Uh I was born at 3:30. 3 hours
+later, I popped out, right? Uh and the
+doing punch cards for Yeah. So she was
+doing uh the largest defense contractor
+in DC who had been sourced by an
+accounting firm that my dad had sold uh
+was doing a payroll GL job. So not too
+different than what I'm doing today.
+Hey, I just don't carry around 50 lb,
+you know, trays of punch cards. Yeah,
+you seem destined to go and do something
+around SMB and payroll and other things
+if that's what your mother's doing about
+your brother. And tell us a little bit
+about your father's company actually and
+what they were doing. Yeah, so they had
+dad and mom had a number of different uh
+financial uh fintech companies. One was
+around data analytics. Actually, they
+started in the 70s. He had a couple
+around data processing and payroll. Uh
+the last one he did uh in the 80s the
+mid to late 80s uh was really about
+bringing the capability of the internet
+before we called it that bringing
+digital processing across electrons
+across phone lines right so uh we had I
+worked for them in the early 90s it was
+you know basically 1200 B modems that
+our clients would use to actually send
+the data file into a central processing
+not too different than what happens now
+central processing where we had not
+mainframes so we had a bunch of micro
+computers interesting about all the GPUs
+like it's just like we had trays and
+trays of you know servers back then that
+could then calculate all the different
+payrolls for all of our clients and so
+they could send in a file that would
+probably be you know in the old days it
+would have taken somebody an hour to
+call in because you would call all that
+in they could key it in on a nice little
+PC that file would come through and then
+within 10 15 minutes they'd get back the
+entire payroll file this is way ahead of
+the time compared to this is like even
+before internet way before internet
+right? Uh and the files come back and
+then you count paychecks. So you had the
+ability then to process your payroll
+much faster, much earlier than you could
+have done before. And it really shifted
+the equation to be a lot about service
+and really engaging the teams to be able
+to really think ahead about what they
+could do with their time if they had
+more time. And so that was probably the
+first real glimpse because I, you know,
+I got to see my parents and grandparents
+in their businesses, but that's when I
+was actually working in the business on
+a daily basis. and he got to just see
+how much creativity you could unlock for
+SMBs when you actually gave them
+technology that made a difference. And
+it's, you know, definitely when it
+kicked off the passion of me to think
+more about that later in life. Yeah. I'm
+kind of curious what the LER family
+Thanksgivings look like because your
+cousins also sold a tax business to into
+it. So there's a lot of there was a lot
+of conversation around business. I I
+joke that it's called I call it the
+dinner table MBA. So I don't have a
+masters in business administration but I
+definitely got one from listening to all
+the conversations and what you learn
+what I learned in those conversations
+that uh I think is true regardless of
+whatever business or whatever job you
+have is that people are the most
+important thing. You really have to
+understand the people that you're
+working with the customers that you're
+serving um how employees are doing. You
+really have to understand that because
+the most interesting conversations that
+you would always have the Thanksgiving
+dinner would be about the people and
+that's when there you would see my dad,
+my grandfather, my mom and my
+grandmother have different opinions
+about different people or like no that
+one's great like that one's I'm not
+worried about and that you realize that
+that's there's a huge opportunity if you
+invest in people and invest in a culture
+that it makes a difference because that
+culture carries through when you're not
+around and it carried through at the
+dinner table. You would just see that
+the other part of the dinner table and
+it was always my dad that had this. My
+dad was the visionary. He would come and
+be like, "Hey, I got this new product
+idea. Let's go do this." My grandfather
+was the consmate salesman. He could just
+sell anything to anybody. Um and so my
+dad would have these ideas around how do
+you bring this technology together and
+really help folks. He came out to
+Silicon Valley uh in the early 80s and
+had to went to Where was your family
+most? in Florida. Mhm. And he went to
+Intel and there's a picture of him
+somewhere where he's in one of those
+suits because it was a fab, right? And
+like head to toe can have any germs. Uh
+and they came up with this chip and that
+was the the remote payroll thing that he
+was doing. Like that was the beginning
+of it all. So yeah, and we're recording
+this down in San Jose, which is your
+headquarters. Yeah. And which is true
+Silicon Valley. We think about San
+Francisco Silicon Valley, but that's not
+not really the case. I want to fast
+forward a little bit from, you know,
+family Thanksgiving to your own
+entrepreneurial journey, which to me, I
+think really started when you were an
+executive at into it and you pinched the
+executive team on an idea that they
+didn't buy into. Yeah. Yeah. So, I'd
+started at into it to help them go do
+payroll. Um, and then we had this uh
+bill payment product that we launched
+and within like I don't know 90 days, we
+had 300,000 customers on it. That
+product had some issues. I got involved
+to go fix that and help fix that. And
+then I did launch a payroll product for
+them. And what we called at the time was
+a into its products would have been like
+a a do-ityourself like here's quick and
+go use it yourself. And then we launched
+something that we called do it with you.
+Like let's help you do the taxes and do
+direct deposit. Um but I could see that
+the internet was coming and and there
+was a market of payroll that was not
+served and it was the household payroll.
+Yeah. Um and so mid 1990s. Yeah. It was
+99. Yeah. When we left. So there was
+nanny there were you know some nanny
+gates here or there that had happened
+and we're like this could be interesting
+and so I went to and there was a few
+different flavors on how we were going
+to do the payroll application. I went to
+into the management and said hey how
+about this and the answer was not really
+square in our customer segment. They
+pitched me on doing some other things.
+Uh, and I just I remember a conversation
+um I had with uh Bill Campbell, which
+was a great conversation where he, you
+know, I'm like, "Hey, like I think I'm
+just a small company guy. Like my
+parents and grandparents had a lot of
+SMBs in them and I think I just want to
+go do that." And uh he said, "Bullshit,
+sir. You can do whatever the [ __ ] you
+want." Right? Excuse me. I don't know if
+I'm allowed to say that on YouTube, but
+anyways, sure I can. Right. Uh, and I'm
+like, "Yeah, but maybe I can do what I
+want, but this is what I want." Right?
+So, it was a good conversation. Left on
+obviously very good terms. Started the
+nanny payroll. Uh, pretty soon we uh had
+a lot of interesting conversations with
+accountants that were like, "Hey, I need
+So, what was the name of that that
+company?" That name company was called
+Pay Cycle. Y uh and we had interesting
+conversations with accountants that then
+I realized that there was a real
+opportunity to really unleash
+accountants and their creativity and
+their efficiency and helping their
+clients if we actually gave them the
+tool to help them process multiple
+payrolls. Uh and so that was the you
+know the the cornerstone of pay cycle.
+Was your original thinking you would go
+directly to families for the go to
+market and then you discover that
+because yeah it was original thinking
+was go straight to the families. uh you
+know there are different like uh people
+where they hire their nannies from there
+different places and we had interesting
+you know uh lead referral from that and
+and you know definitely I have a lot of
+people today that were in the valley in
+and had kids between you know let's say
+99 and 2010 before it was shut down uh
+by into it the the the nanny payroll
+shut down by it's still the cornerstone
+of the payroll product anyways um that
+tell me best product they ever had right
+for being a parent. Like it just made it
+so easy. Um and so it was it was great
+to kind of start there but then I when I
+realized what the internet could do like
+one of the ahas for me was it was really
+interesting because I was a software
+developer. I had been doing that you
+know obviously out into it as a product
+manager and just helping you know come
+up with different uh you know vision
+visionary products uh was that once I
+you know started pay cycle and you
+started doing this development really we
+didn't call it the cloud in 99 or 2000 I
+don't think Benhouse started calling
+cloud until 2003 or four right but it
+wasn't called the cloud it was just oh
+we get to go develop software in in you
+know a space that we get to control the
+experience
+every
+SMBs go serve accounts and you know we
+had checked you know with into it hey do
+you want a partnership now and they
+didn't at the time so we just went built
+uh out tons of capabilities and over
+time they eventually wanted a
+partnership because they end up having
+QuickBooks online they need a payroll
+solution and we were the backbone of
+that and that led to that acquisition uh
+you know from into it and that's you
+know the backbone millions of customers
+on one of the platforms I built uh you
+refer into it either what I did there or
+what I did at pay cycle yeah and so into
+it ended up acquiring pay cycle and now
+that's integrated into yeah they
+acquired in 200 uh9 I left the
+day-to-day at pay cycle in 2006 so I was
+a board member very interesting uh
+that's one of the things I wanted to ask
+about is you know kind of the first
+entrepreneurial thing was trying to
+build something into it and realizing
+you want to build something on your own
+and then the second was getting pushed
+out of your first company by the board
+and that led to Bill but yeah tell us a
+little bit about navigating that. Yeah
+so uh I would say um wasn't so much
+pushed out by the board as much as to
+step down which is a little bit
+different just to be clear uh because
+everybody who invested in pay cycle also
+invested in bills. So if I had been
+pushed out that probably wouldn't make
+as much sense. Uh so what what really
+happened is we had three people that
+were acting as a charm from running the
+company. Y uh the co-founder and then a
+board member who I brought in to be COO.
+So we had three of us running the
+company and the the challenge of that is
+that when you get to hard times uh and
+hard decisions uh decisions don't get
+made. Yeah. So the decisions you make
+that you agree upon this is true in most
+personal and relationships is this is
+after the com bust. It was after the do
+bust. We had grown nicely, but we were
+stalling, you know, in the mid- teen
+revenue. Uh, and it wasn't growing fast.
+It was 20% growth or something like
+that. And so, we were stalling. And so,
+now there's hard decisions that need to
+get made. And so, those hard decisions,
+how are they going to get made? Well,
+you got two other people you have to
+convince of those hard decisions. Y uh
+because we really did treat it like a
+Trump. And so, that led to us moving
+more slowly than the board wanted. And
+so, the board engaged all of us on like,
+hey, you guys need to address this. we,
+you know, worked and looked at
+addressing it and came up with different
+uh ways to address it. Uh the solution
+that, you know, the three of us came to,
+uh we weren't all aligned on. I had a
+different path forward that I wanted to
+do. Uh but the other folks uh had a
+different perspective and so we went
+back with the triumphant and two weeks
+later the board said, "Nope, we don't
+want a term. We want Renee to be the CEO
+and if it's not going to be Renee, we
+want somebody else to be the CEO." Yep.
+And so that conversation I what I was
+appreciative of is the board invited me
+into the conversation. We had a
+conversation. I came up with, you know,
+hey, this is how I think about what we
+would need to do differently. Um, and
+just given where the company was and
+some of the relationships that were
+inside the company, the board made a
+decision which I supported, which was,
+hey, it's going to be too hard for you
+to kind of fix this. So I stayed on,
+hired a CEO to replace me, uh, was the
+CFO and head of BIS dev. We signed our
+biggest deal which was Bank of America
+payroll at that time. Uh at the time
+when we got that launched was the
+fastest growing payroll in the country
+inside of the fastest growing payroll in
+the country because pay cycle was
+already growing fast. And that led to
+you know uh me starting to get that itch
+again of wanting to go do something on
+my own. Um and I'd learned a ton from
+the entire experience. Uh a lot from the
+entire experience. What were the lessons
+from Payycle that identified the
+opportunity for what would later become
+bill.com and then Bill? And then also
+I'm curious when you set out to build a
+founding team, how your experience at
+Payycle might have informed that. Yeah.
+Yeah. Great questions. Uh so the the
+thing that was interesting to me when I
+had started um pay cycle was I had built
+I mentioned I had built the bill pay
+products add into it. Y I didn't use any
+of them and I was and I tried them. I'm
+like, they just don't do what I need.
+Yeah. Uh and I started thinking about
+all the weekends when I was a kid, I
+would go in with my dad some Saturdays
+or my mom and they would be doing
+payables and receivables. This was the
+backbone of every business, financial
+operations that didn't get done during
+the week and into its bill pay products
+at that time were consumer consumer all
+consumer products. Uh so I just started
+thinking like why is it that I'm not
+using something that I know is good for
+consumers but isn't working for me? And
+I start thinking about that problem. And
+one of the things that I do at night if
+I can't sleep, I will not think about
+problems of running bill today. Like
+that would actually keep me awake all
+night because I could be doing that
+right then even though I might be tired.
+So I will pick other problems because I
+do like problem solving. So I will pick
+other problems. So this was the problem
+I kept iterating. Starting maybe 2003 or
+something like that. became kind of the
+problem of you know every not every
+evening but like six seven times a
+quarter I would have a sleepless night
+and I would think about that and fall
+asleep and then I started taking notes
+I'd wake up in the morning like oh what
+about this idea what about this idea
+sometimes it was about culture which
+we'll talk about that learning sometimes
+it was about product sometimes it was
+about management sometimes it was about
+my responsibility and accountability as
+a CEO these were all things that I would
+take notes on and and then eventually
+you know when we changed the uh the
+structure of the company and I was going
+to be the CFO. Um I signed up for it. I
+wanted to make that work, but about six
+months into it, I'm like, "God, this
+idea just keeps coming back to me." And
+I actually did talk about doing an
+inside of Pay Cycle. There wasn't
+interest in demand at that point. Again,
+I guess kind of like into it. There
+wasn't interest in demand at that point.
+Uh when I started pay for into it. So
+that's when I like, you know what, I'm
+just going to go do this. um and was
+very fortunate like I said that you know
+every investor in pay cycle invested in
+Bill at some point. Uh the last investor
+in Pay Cycle was the first investor in
+Bill. David Hornick was the first
+investor from August Capital at at Pay
+Cycle ended up being the third investor
+here. And all those relationships
+matter. And I think maybe one of the
+learnings there is that you have to
+always always be cognizant of the
+relationships you have, the people that
+you engage with, building trust with
+them and understanding that you know
+business is business. Uh but trust is
+not like there was a tremendous amount
+of trust across both parties even in
+that hard situation. And that led to
+fueling more trust that hey if we work
+together again you know I'm going to be
+reasonable. they were reasonable. I
+don't have any heart any heartache about
+any of those conversations. So yeah, in
+the mid200s, you know, it's not like
+today where there are hundreds of VC
+firms. There's, you know, much smaller
+number and it still matters today like
+relationships matter and you see the
+same people around uh quite a bit. Talk
+to me through growing up uh the company
+through the great recession because I
+know in particular 2008 was a very hard
+time both for the company but then also
+for you personally. Yeah. Yeah. So I
+think um one of the lessons from the
+experience of pay cycle uh I said I
+mentioned reference you know how I need
+to be accountable for myself. Yeah. So
+and you'd asked this in the last
+question I didn't fully answer it. Um
+from a founding perspective I just know
+enough about me that if I'm in a
+partnership I actually will not be
+forceful on a decision. I will be more
+consensus driven. So I knew for me I had
+to say like I'm the CEO. I just have to
+own that. I have to accept that every
+day. have to live with the
+accountability that that's required to
+actually execute and it's you know the
+buck stops here Teddy Roosevelt I think
+had that on his desk right like that's
+what I had to do work on for myself
+definitely prove this and so taking that
+you know kind of you know philosophy
+allowed me to think differently about
+you know how do I think about the great
+recession the great financial crisis I
+don't know what we call it then uh just
+to give you you know some you know some
+context Uh I will say too I find
+increasingly the founders I back there's
+usually one primary founder or even a
+solo founder. I think it's something
+that's a little more common. Yeah. Yeah.
+I think and I think it helps to be very
+clear uh for everybody. So for me that's
+what and they're almost always second
+time founders because they've had some
+kind of experience where like I just
+understand the velocity it enables. It
+it definitely helps and the clarity it
+definitely Yeah. So anyways and sometime
+let's say February March my dad's
+diagnosed with stage four lung cancer
+and that's 2008. Uh he unfortunately
+passed away in uh September 2008. And
+then uh for any of those that remember
+the the deck from Sequoia with the skull
+and crossbones on it that comes out.
+Good times. Yeah. Yeah. Rest in peace.
+The good guy. And so that was probably
+uh September. I got a somebody sent it
+to me in early October and we laid off
+40% of the team uh by November 1st. So
+it was really within two weeks. The data
+was very convincing. Um, and I realized
+I only had cash for five months, unless
+I did something, then I would have cash
+for a year. Turns out we raised cash at
+month 11. So, it was good that I made
+that that change and I thought hard
+about that. But, it was because of
+learning that pay cycle where I'm like,
+you know, I have to be accountable for
+this. And by the way, accountability is
+something that I think people oftenimes
+don't think about. It's a future
+accountability that matters, right? You
+can be accountable today. I can say,
+yes, I screwed up. I didn't do this
+right. But if you're thinking about any
+of the decisions you make in running a
+company and building a company, you have
+to think about five years from now, was
+I accountable five years ago for the
+decision I made that actually brought me
+here. And so that was me thinking like,
+okay, what are the different ways this
+could go? And I had to be accountable.
+It was an exceptionally hard day. Um,
+but another learning from Pay Cycle was
+that we had a very strong culture at Pay
+Cycle and it was because we were always
+transparent. We had the same type of
+culture at Bill. We still do. And so we
+were transparent. I went to the
+whiteboard. I actually drew lots of
+charts and explained the challenges and
+then I said, "Look, like this is going
+to be hard for us, but this is what we
+need to do." So, the people that were
+laid off were told, but then we sat down
+together, ate pizza, and we all cried.
+But it wasn't the we've hired some of
+them back. We've stayed connected. So I
+think it's um you know some really key
+learnings is that you have to actually
+you can't separate like here my dad had
+passed and yet I had this other loss I
+was getting ready to go through I had to
+be accountable like even with my dad
+being sick I went home every 3 weeks for
+a three-day weekend and my wife's
+parents were also sick so on the other
+weekends she was going home to Hawaii to
+be with her parents and so a lot of
+stress two young kids right and yet you
+make your work. You're accountable like
+what's the experience I want my kids to
+have? What's the experience I want the
+company to have? What's the experience I
+want my parents to have? What do I want
+as a son? Like you have to put all of
+that in perspective because you don't
+get those times back. And I don't have,
+you know, really any regrets about how I
+spent my time. I regret that we needed
+to lay off 40% of the team. That was not
+fun. Yep. Um, and then how did you think
+about starting to scale the company? I
+know some of the partnership angles you
+were thinking through from pay cycle are
+very much the drivers of growth at bill.
+Yeah. Yeah. I think the one of the
+things that people uh sometimes
+lament around SMBs is that they're hard
+to reach, right? Consumers are
+everywhere, so takes money, but they're
+easier to reach. Uh enterprise very
+focused. Hire a good sales leader and
+you're you're done, so to speak. Um but
+you know, SMBs, they're hard to reach.
+And so understanding that I put a lot of
+thought into both pay cycle and now bill
+like how do you reach them and well you
+go to where where they are and who they
+trust and so they are trusted um you
+know their business with accountants
+they trust their business with financial
+institutions and they trust their
+business with their ERP programs and
+applications and so we worked hard to be
+early like we were the first and into
+its app store uh we uh have had you know
+very high ratings in the app store since
+the beginning and that allows us to
+drive customers and partnership with
+them. We had a partnership at one point
+uh with them as well and that drove some
+customers but then we also got you know
+a number of the large banks in the
+country where we were able to kind of go
+into them and say hey like this is going
+to change now it's interesting when I go
+to a bank I believe today you're
+partnered with 9,000 accounting firms
+and about eight of the top 10 banks and
+then at pay was it or pay cycle pay
+cycle you had that bank America we had
+probably four banks at Pay Cycle. Yeah.
+Uh, all of them, you know, did well. Um,
+but accountants are the bread and butter
+for Bill, right? That is the uh the the
+anchor tenant, if you will, for Bill. We
+have great relationships. It's, you
+know, both my grandmothers were
+accountants. All the businesses have
+served accountants, like you said,
+cousins build tax software, which
+actually is the number one tax
+preparation firm for a tool for
+accountants, right? So, there's a lot of
+accountant DNA and and accountants,
+their work is super important. It
+matters a lot. their insights to
+business make a huge difference and if
+we can free up their time to do a better
+job with the insights then that means
+business is going to be better so we've
+done a lot so I would say that focus day
+one we had a partnership with the
+AICPA's division called CPA to biz which
+today is called CPA.com that division is
+focused on bringing technology to
+accounts and bringing learning to
+accounts and so we've been partnered
+with them since day one there's a
+practice uh in accounting firms called
+client advisory services cast that did
+not exist this prior to Bill and it's a
+partnership that we had with CPA.com and
+going to market saying this is how
+accountants can actually serve more
+clients with more strategic insights and
+that's been a huge home run for us and
+there's so much opportunity in front of
+us uh with accounts because of the
+technology that we're able to build and
+obviously AI is going to be a huge part
+of that. Yeah. So about a year before
+the IPO 2018, you're doing 65 million in
+revenue. Like what were the big things
+that unlocked to get to that level of
+growth? I think the a couple of things.
+So one uh and our scale is so much
+bigger now, but scale we had started to
+see scale at that point. Uh and what
+does scale mean? Means like going to the
+partnerships. I think at that point JP
+Morgan came in as a partner. We were
+able to go to JP Morgan and be like,
+"Okay, well we have 5,000 customers that
+do this much business with us." And
+they're like, why aren't they using our
+bill pay product? Oh, because yours is
+better, right? Why aren't they using our
+receipts? Oh, yours is better. So, that
+type of scale mattered. Yeah. The other
+thing that matters is we had built the
+infrastructure and everything that we're
+doing today in payments was designed
+from the beginning. So, I've always, you
+know, it said I would say been, you
+know, on the um focus of actually
+converting payments in software. I
+believe software is a great efficiency.
+I believe payments are the backbone of
+how obviously business gets done. You
+need to converge the two. And so the
+platform from day one was built to
+actually help support that convergence.
+And so when we get to a year before the
+IPO, we now have a platform that's
+doing, you know, you know, probably tens
+of billions. I'd have to go back to do
+the math, but tens of billions in
+payment volume, which allowed us to
+start thinking about other payment
+products that our customers would want
+or their suppliers would want. So in
+2018 is when we started launching and
+working on international payments and
+virtual card payments. And so you
+combine that with the timing of the IPO
+and then we end up bringing on spend and
+expense uh program divy uh to be able to
+kind of be our divvy you know card for
+the bill base uh and then you add in
+obviously real time none of other
+payment vehicles that we've added. So
+scale begets scale right scale allows us
+to add these capabilities. it creates
+more opportunity and today you know 1%
+of GDP goes through bill u millions of
+transactions billions of dollars
+obviously in any given month and that
+scale allows us to learn and help
+customers in ways that we couldn't do
+before yeah and so I want to talk about
+the IPO to in 2019 we're recording this
+conversation May 2025 maybe IPO window
+is opening some companies have been
+going out seem to be wellreceived what
+was it that gave you the conviction that
+you should IPO and that that was the
+right time as well
+Well, it was the scale. So, we our
+trailing revenue was around 110 115
+million. So, we had scale. We saw growth
+in the future. Um, by the way, right,
+like it is interesting for us to think
+about like it was 115 million six years
+ago. Yeah. And now we're approaching a
+billion and a half, right? So, that's a
+lot of growth in a short amount of time.
+And and I think we saw, you know, some
+of that, probably not all of that, but
+we saw some of that. and we just leaned
+in that you know the capital markets
+would be additive to the growth. So
+there's a couple of reasons I thought of
+going public. One the currency having a
+stock that could be liquid and used for
+acquisitions which we have done
+successfully is super valuable. Um I
+think having the cash uh we've had three
+convertible debt raises in the history
+of Bill. All of them at a 0% coupon all
+of them you know somewhere around a
+billion dollars. So we've been able to
+raise plenty of equity and cash and you
+know debt to be able to actually drive
+the business forward. So that was
+helpful. And then there was a third
+thing which I didn't know as well uh but
+I suspected it would help that but now I
+really know. Uh the rigor of being
+public is real. Yeah. Like there's
+nothing like being a public company. The
+investors uh there's no stone left
+unturned. They're not always right, but
+they force an accountability inside, you
+know, the leadership team's um, you
+know, purview that doesn't happen from,
+you know, private investors. So, yeah.
+Why do you think it is so many private
+company CEOs don't want to be public?
+And it seems like sometimes they worry
+that that is not accountability, but is
+that is like short-term thinking that
+forces them to reorient from being
+long-term focused. I think there's u
+there, you know, there is work to being
+in public, right? I mean there's work in
+the systems that you need to have.
+There's work in obviously the
+conversations you have every quarter.
+There's work. So I think that's probably
+part of it. Uh I would say that work
+actually makes us better. So um you know
+I haven't ever done the analysis say is
+it that much better or not? But it makes
+us better like we learn more every
+quarter uh from whether it's internal
+tools that we in develop to support
+being you know public or it's the
+conversations we have with investors. I
+think the other thing is people worry
+that they don't have control of their
+company anymore. And I just, you know, I
+just don't see that. So, you know, I
+have my own perspectives on this. Like I
+I am the CEO of the company. I've hired
+everybody who reports to me and I'm the
+one who, so to speak, blesses every
+board member that comes to be on the
+board. So, I have a tremendous amount of
+of control and you could say potentially
+too much control, right? But I don't
+think that I I think that it's a two-way
+street and there's an opportunity. But
+if you were worried about that, uh, then
+you would be like, "Oh, I'm going to
+give up control." Like, I don't have I
+think the core of your argument would be
+accountability drives performance and
+results. Accountability definitely
+drives performance and results. forces
+uh you know the other way I would say it
+is that investors are very smart they
+have lots of if you like if I think
+about my private board yeah I have six
+people that are spending a lot of time
+thinking about me I've got hundreds of
+investors thinking about Bill right now
+asking me questions right yeah it's
+funny because I hear this from I feel
+like folks who have gone public and say
+like the accountability is real and it
+helps drive performance and results and
+then you hear like John Kis and say
+like, "Oh, I want to be private forever
+and I don't want to have to answer
+quarterly questions from a 26-y old Wall
+Street analyst." And those are the kind
+of two sides of the story. You Well,
+nobody wants to answer a question from a
+26-y old analyst who doesn't understand
+your business. But at the same time that
+you're getting the 26-y old, you're
+getting somebody who's 45 or 55 years
+old that's seen so many different things
+happen in the market and they're asking
+you questions and you come back with
+ideas, right? It and it does force an
+amount of accountability that I think is
+different. And I just I personally
+believe that accountability is a healthy
+uh opportunity and being accountable to
+to yourself to investors to employees to
+customers all those things need to you
+know blur together and I think investors
+hold an important part of that
+accountability. I think that's great to
+hear. I also want to hear you talk about
+dual class share structures because I
+know you have unique opinions there
+perhaps although I don't know if your
+answer is going to be surprising given
+how much you've talked about
+accountability to this point. Yeah, like
+um I just feel like you know it's really
+pretty simple. I started the company
+with 100%.
+And then I made a decision. I hired
+somebody. My decision. I gave them some
+stock. Then I made a decision. I took
+somebody's money. Again, my decision.
+You just, you know, do that many, many
+times. And so now I don't have 100%.
+Yeah. But every one of those decisions I
+need to be accountable for in the
+future, which is what I just talked
+about. Yeah. And so dual class shares
+allows in some ways for me to say I
+don't have to be accountable for bad
+decisions I make today because I will be
+able to trump my decisions in the
+future. And I don't know if that's
+healthy for business because I actually
+think accountability I think when I go
+to the board and explain why I wanted to
+have a strategic direction shift I have
+to be articulate about I have to you
+help them understand how are investors
+going to respond to this. I have to be
+able to have those conversations in a
+meaningful way and being you know uh
+required to have those conversations
+makes that decision even better in my
+opinion. So I think the accountability
+does drive uh a lot of of goodness in a
+company and goodness in leadership and
+has also part of the you know stamina
+staying power if you will uh for how I
+lead. I think the the opportunity to
+kind of you know shift and say I'm gonna
+have you know dual class shares I think
+that just changes the conversation and
+like I said I have the ability to
+influence everybody is going to
+influence my staying power of the
+company and if I don't do a good job on
+that then you know that'll be that and
+that's and I'm okay with that. I accept
+that. I had a coach once tell me the day
+you hire yourself as a CEO, except that
+you're fired. And it's just a good life
+lesson in general. I mean, not just
+accept that a negative outcome can
+happen and just move on. Like do your
+job and focus on that. And maybe folks
+with dual class are not willing to
+accept that they might be fired someday.
+And it's like wasn't the end of the
+world for me, right? To step down as
+CEO. So, yep. I also want to talk about
+uh one of the biggest strategic
+decisions you made which was your 2021
+acquisition of Divvy. So what was the
+logic for that acquisition and how do
+you think that plan has played out?
+Yeah, so it's been a wonderful
+acquisition, a great team, great people,
+great product. Um the way we got to that
+is if you think about what build does
+from a spend perspective um we probably
+have you know roughly 100% let's say 95%
+of the non-payroll spend that a company
+has of that 95% let's say roughly 20%
+goes to the corporate charge card. Yep.
+And so we have all the information on
+75% but not the last 20%. Yep. And so
+there was no way for us to get that when
+we started the company. But you know
+around 200 let's say 19 is when all
+these corporate smart charge card
+programs were getting developed. Uh and
+so when we started looking when we had
+gone public and we had the the currency
+and all that we started saying okay
+what's going to be a natural agency and
+add on to the capabilities like we want
+to get all the spend on the platform. We
+want to see all of it. So that was the
+rationale. We go and we look at our
+customer base and you can see that
+customers are starting to use products
+like divvy, sometimes ramp, sometimes
+brakes and we were able to go talk to
+the customers and for our customers find
+out what was the thing they loved the
+most uh and what was the product they
+loved the most and the experience and it
+was divy hands down. Uh and so Divy was
+more focused on the SMB market whereas
+Brex and Ramp historically have not been
+in. Brexit went in and then pulled back
+out. Exactly. Yeah. So Exactly. I think
+that was part of it. uh and and so our
+ability to kind of find that connection
+and be able to develop that was super
+important. So, you know, since you know
+since we bought uh since we bought
+Divvy, it's probably six in revenue. So,
+it's had been phenomenal growth. Uh
+we're still I would say in the early
+days across selling inside of Bill that
+we're having great success. So we think
+that's a significant opportunity and
+we're still seeing lots of opport maybe
+no more than 20% or so of businesses
+at at bill are using divvy. Yeah, that's
+probably about it's probably probably
+around 10%. Yeah, something like that.
+Um and so the the opportunity for us is
+to continue to create more value like we
+just added a bunch of stuff for the you
+know the lower mid-market and larger
+businesses around procurement and
+multi-entity and mass payments and
+obviously corporate charge card fits in
+with that. The opportunity for us to
+continue to enhance the experience for
+the SMBs and our platform that need that
+those capabilities are exciting for us
+and we see an opportunity to really make
+a difference that we didn't have before
+and and so Divvy has done that. The
+team, like I said, has been great. The
+talent, it's nice to have presence in
+Utah. Uh very strong, you know, culture
+and very strong opportunities for us to
+continue to drive our culture forward
+and to really kind of, you know, bring
+on, you know, more of um the opportunity
+with SMBs that we see. Yeah. So really
+to see 100% of the spend and then for
+that 25% you also get, you know,
+hundreds of bips on the process. Yeah.
+Yeah. Yeah. Yeah. The revenue the
+revenue model is a strong revenue model.
+uh you know one of the things that we
+worked you know hard at early on with
+the acquisition was getting the costs in
+line right so there's obviously with any
+charge card program there's credit risk
+there's fraud risk uh we you know have
+got those things I think where we want
+them and have an opportunity to continue
+to grow and accelerate that part of the
+business for for the company yeah and
+then when you do an acquisition it's not
+just about merging business also about
+merging like cultures so what has that
+been like for you know again like life
+is all about learning so I think we We
+have I think we're there now. I think
+you know the cultures are emerged and a
+lot of great like I said a lot of great
+people a lot of great things come from
+the the culture that uh that Blake
+started at Divvy. Um and you know but it
+wasn't you know wasn't quite as smooth
+uh as I would have liked and that was
+because they were growing fast and we
+kind of you know did not pay attention
+to the things that we needed to uh to
+unite the cultures if you will. Uh and
+but you know for example an example this
+would be you know uh creating teams
+reporting to each other in different
+locations. Yeah we kept everybody in
+Salt Lake in Salt Lake or Draper right
+we kept everybody in San Jose in San
+Jose and so now the teams are
+cross-pollinating each other and so
+they're able to bring ideas. So simple
+things like that that you you know I
+think in hindsight are kind of obvious
+that we could have done better at
+creating that synergies early on. Uh but
+like I said, super super happy with what
+the teams are doing today and and how we
+got here. Yeah. One thing I was curious
+to ask you about too is how you view the
+competitive landscape for Bill because
+on one hand you're you know 4% market
+penetrated the SMB world is huge on the
+other hand there are companies like ramp
+and bre and now divy that's inside of
+bill although they focus in different
+areas and you also have the rise of
+vertical SAS. So you have people who
+want to, you know, try and do everything
+through a single pane of glass and
+sometimes that includes the AP or AR
+flows that Bill would like to do as a
+horizontal platform. So like how do you
+just think about competition in this
+present moment? Yeah, I'd say, you know,
+I think we're the only company that
+started to do financial operations and I
+be I'm being very specific on this. I
+hate inefficiency.
+I didn't start the company to do
+something else. I started it to
+eliminate the mundane tasks that
+business had to deal with. And our focus
+has always been what are the workflows,
+what are the you know the transactional
+challenges that happen with the
+business. And so when I think about the
+competitive landscape, I think about
+well our focus, our origin story around
+how do we eliminate inefficiencies to
+help a business get time back. And so
+our number one measure is how much time
+do we save our customers? We our
+customers tell us anywhere from 50 to
+75% of the time and that's before we
+apply AI to all these problems, right?
+It's applied to some of the problems.
+But that opportunity to save that much
+time means customers are freed up to go
+do what they love. And I often joke
+about this. I don't think there's any
+small business in America that started
+the company to actually do financial
+operations other than me. Meaning like
+if I was not doing this, I'd probably be
+baking cookies because I love cookies.
+And I wouldn't be doing it to go do the
+payables or receivables. I would be
+doing it to go watch customers eat the
+cookie and to tweak the recipe and to
+engage more customers by opening stores.
+Like you want to do those things. You
+don't want to figure out how to pay the
+bills. And so I think we are the only
+company that started with that mission,
+that purpose to make it simple to
+connect and do business. And that leads
+to a deep level of expertise inside the
+company that we tap every day. And so
+our ability to kind of tap that into
+creating different experiences means we
+have a platform that's very broad, which
+we talked about, which does financial
+operations. We have customers that are
+one employee. We have customers that are
+well north of 100 million in revenue.
+Our focus is on driving efficiency
+gains, getting rid of the mundane,
+eliminating the mundane tasks that a
+business has. And I think that
+differentiates us from our competition.
+A lot of people look to what we've done
+and say, "Oh, they want to go do that."
+And I always kind of feel like if you're
+not leading, you're following, and I'd
+rather be a leader. So, we're going to
+continue to innovate and reinvent how
+business gets done, and that's going to
+be our focus. Yeah. And as an example of
+that, maybe talk through some of the
+recent product announcements around
+procurement. Yeah. Yeah. Yeah. So, you
+know, one of the nice things about a
+broad platform is that we get to ask
+customers and hear customers say, "Hey,
+they need this, they need that." And
+then the one of the nice things about
+being a technology company is that we're
+able to look at where technology can
+help. And so our broad horizontal
+platform of customers was asking for
+help with multi- entities a lot of times
+from accountants because accountants
+will serve all their businesses the way
+we do. And accountants will say, I've
+got customers that have multiple
+entities. I've got customers that have
+procurement needs. Have customers that
+are paying thousands of bills in any
+given week and they need mass payments.
+These are things they needed. And so we
+were able to talk to customers and
+refined what we had. I shouldn't say
+refine because these are all new
+offerings. They were hacking their way
+into these solutions because they were
+using the platform and now we were able
+to give them the solution that means
+they can manage all of their clients in
+one place. They can manage all the
+organizations that they support in one
+place. they can have procurement and
+this is I think a testament to again the
+scale against scale because we wouldn't
+have built these things this way without
+having the scale that we have today
+because we get to learn from customers
+in ways that we didn't before and it's
+one of the things I love is there's a
+you know we have plenty of slack
+channels but one of them is around
+product and just seeing the different
+iterations
+every day coming in like what about this
+how do I solve this how do I solve that
+so much content is coming in from
+support teams from sales teams from
+customer interactions that We sometimes
+forget that how much expertise we're
+building inside the company. Yep. And
+we're sitting here today in Silicon
+Valley, so we have to talk about AI. So,
+how is AI changing the products that you
+guys are building? But I'm also curious
+to think about the business model
+because a lot of your business model is
+per seat pricing. Yeah. You drive
+efficiency. You may need fewer seats.
+So, you have interesting product things,
+interesting business model
+considerations as well. Yeah. I think
+the the way I'm thinking about AI, the
+way the company's thinking about AI is
+that if you think about the Fortune 500,
+they've got teams of people with jobs
+that are focused on payables,
+receivables, cash management, uh, spend
+and expense, corporate card charges, T&
+whatever. They have teams of people
+focused on those jobs. We're in a
+position because of the scale that we
+have, the 1% of GDP, the hundreds of
+thousands of business on the platform
+that we can use AI to develop agentic
+task agents, if you will, to go after
+these jobs. So, we can directly attack
+how do we go help a firm have a team of
+people that the Fortune 5 million can't
+afford that the Fortune 500 can afford.
+And that's what Agentic AI is going to
+do. is going to enable us to create you
+know obviously ways to simplify the
+experience from payables, receivables,
+procurement, spend and expense, uh cash
+management. These are all things that
+are inside the platform and we can just
+level up if you will all the learnings
+we have and apply that to the agent uh
+you know technology that's coming about
+and that we're obviously actively
+building. So I I think that becomes an
+unlock for SMBs, right? Right. And the
+reason this unlock for SMBs is that the
+the amount of time even though we save
+people a lot of time, the amount of time
+that it takes to actually shift a
+process will go down dramatically if you
+have agents doing that work. So super
+exciting on that. And then remind me the
+second part of the question. The
+business model consider the business
+model. Yeah. Yeah. So the business
+model, you know, uh when you save
+businesses time, you should get paid
+appropriately for that. And so, uh, I
+think the opportunity for us is to look
+at, you know, how do we bundle some of
+these features together? How do we think
+about, you know, agents doing the work?
+What is it that accountants want? What
+is it that SMBs want? Uh, we obviously
+make money on all the payments. So,
+there's ways to get paid from that. So,
+the business model is, you know, far
+more robust than it was when we started,
+which was a software fee, a check fee,
+and a fee. We now have lots of ways that
+we make money, and I think that will
+continue to be the case. And I think
+Agentic AI will allow us to think about
+you know the software side of the house
+a little bit more uh than we have been
+in recent past. Yep. Great. And then one
+last question because we have a lot of
+entrepreneurs watching this and SMB is
+just a huge underserved category. What
+are just interesting problem areas or
+insights you have for folks who want to
+go and build and serve SMBs generally? I
+I think the uh have a couple of not
+exactly your question but I'll try to
+stick to it. So the number one thing is
+have a lot of passion about what it is
+that you're solving. Right? I've had
+friends that go and start companies that
+they're like, "Well, let me just go
+cover the landscape and see what needs
+to get done." But then they don't have
+the passion. And so the reason the
+passion matters is you have much more
+creativity around solving the problem.
+You have much more commitment around
+solving the problem. And that that
+matters a lot. So I'd say one, have
+passion. Two, I would say find a way to
+hack a solution day one. And so both
+companies, you know, I did things by
+hand before we had technology. So we did
+payroll by hand for customers. They had
+the equivalent of being able to, you
+know, just call us like, you know, the
+old days, call us and give us the hours
+and we would actually take care of the
+paychecks and create all that. At at
+Bill, we actually did all the check
+processing, all the approvals and
+workflows, did all through email. We had
+ways that we hacked it. So I would say
+make sure that whatever solution you're
+going to market with isn't that ultimate
+vision. It has to be something that you
+can start learning from customers on. Uh
+and then I think this convergence of
+software and payments which maybe is
+more where your question was at like
+there is a lot more to happen there.
+There is so much efficiency to be driven
+by software and so much value in
+connecting payments to that. payments
+have been, you know, kind of old and
+stale, if you will, because they've been
+disconnected because the systems are so
+critical. And I understand that our
+system is very critical. Like finding
+ways to connect in and actually help
+payments keep up with the rest
+technology is super important. So, I
+would say that's a pretty interesting
+area. Obviously, we spend a lot of time
+there. Yeah. I think AI is blurring the
+lines between all software products
+because you can connect so much more
+than you used to be able to. Yeah. Yeah.
+It's blurring a lot of lines uh both on
+the tools to develop and then on the
+experiences that are created. Yeah. And
+on passion, you know, you've been at it
+for almost 20 years now and you're still
+still very passionate. So, thanks so
+much for coming on and sharing your
+thoughts with us. I appreciate it, Rex.
+Yeah. There's when you find something
+you love, it's easy to keep the the love
