@@ -115,6 +115,8 @@ That gives a true Altitude AUM. As of this report I do not have that number.
 
 ### 3a. Top vaults?
 
+> **⚠️ Correction (2026-06-06):** The Plume/Kamino routing below is stated more confidently than the public sourcing supports. Fresh research (see [`yield_mechanics.md`](./yield_mechanics.md)) finds the **headline ~5% "rewards" are most likely reserve-interest pass-through on plain USDC** (Circle/Bridge Treasury reserves, BlackRock-managed) — NOT on-chain DeFi. Plume Nest and Kamino are *available "DeFi integrations,"* but the explicit "Altitude routes user deposits in" link is **inferred, not confirmed**. Treat the two bullets below as plausible DeFi paths, not the verified source of the advertised APY.
+
 🔴🟢 **There are no protocol-level "top vaults" for Altitude.** Each customer = one smart account. The closest analog to "vault PDAs" are:
 
 - The Plume **Nest RWA vault** on Solana (a Plume-owned account, not Altitude-owned), into which Altitude customers can deposit for RWA yield. Third-party vault Altitude routes to. Specific vault address not published in coverage; Plume's [announcement](https://plume.org/blog/building-solanas-real-world-yield-layer-with-plume) says five Nest vaults launched on Solana Dec 4, 2025.
