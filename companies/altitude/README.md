@@ -21,6 +21,7 @@ companies/altitude/
 ├── architecture.md             ← Solana programs, IDLs, PDAs, CPI graph, SDKs
 ├── use_cases_and_examples.md   ← named customers (Jupiter), persona walkthroughs, money paths
 ├── marketing_vs_reality.md     ← claim-by-claim audit, dual-positioning, moat analysis
+├── yield_mechanics.md          ← how the ~5% actually works (reserve pass-through vs DeFi; GENIUS-Act "rewards" wrapper)
 ├── on_chain_truth.md           ← program IDs, vault check, holder concentration, anomalies
 ├── developer_experience.md     ← Grid API quality, sandbox, KYB, SDK, pricing, gotchas
 ├── product_evolution.md        ← Q3-2021 hackathon → Dec-2025 Altitude launch (changelog)
@@ -38,6 +39,8 @@ companies/altitude/
 - **[use_cases_and_examples.md](use_cases_and_examples.md)** — Only **one** publicly named customer (Jupiter, via Kash Dhanda). Yield/integration partners: Kamino, Gauntlet, Plume, BlackRock-via-BUIDL. PSPs: Bridge, MoonPay, Infinite, Due. Four marketed personas (exporters, agencies, crypto-native co's, remote teams) — none with public testimonials beyond Jupiter. The data void itself is a finding: $200M throughput likely concentrated in <50 Solana-native protocols, not the long tail Squads markets.
 
 - **[marketing_vs_reality.md](marketing_vs_reality.md)** — 25-claim audit table. Survives audit: Squads' formally-verified custody, real cap table, real self-custody architecture. Doesn't survive: "Banking" framing (it's not a bank), "CFO stack" (cards/bill-pay/accounting are roadmap), "trusted by leading companies" (no logo wall), "BlackRock-backed" (actual yield issuer never named), "Trade Any Asset" pitch (quietly removed between May 2025 and Dec 2025). Heavy Bridge/Stripe counterparty risk. Selimor Investments Limited as opaque operating entity.
+
+- **[yield_mechanics.md](yield_mechanics.md)** — How the advertised ~5% APY actually works. Two blurred paths: **Path A** = reserve-interest pass-through on plain USDC (Circle/Bridge Treasury reserves, BlackRock-managed) wrapped as discretionary "rewards" — the headline number, low-risk, instant-liquidity; **Path B** = self-custodial DeFi lending via SquadsX CPIs into Kamino/Lulo/Maple/Plume (custody retained in the smart account). The custody mechanism (smart account signs CPI, receipt token returns to same account) explained. Who earns what (Altitude keeps the spread; rewards discretionary/revocable). The **GENIUS-Act "rewards-not-interest" third-party wrapper** + EEA/SG/JP geofencing. Corrects: BUIDL unverified, Gauntlet-curation unconfirmed, the on_chain_truth Kamino/Plume routing over-stated. Blueprint implications for a Squads-based competitor.
 
 - **[on_chain_truth.md](on_chain_truth.md)** — Standard rug-check playbook returns mostly N/A: no Altitude token, no airdrop, no vault PDAs to inspect, no DefiLlama listing (the "Altitude" on DefiLlama is a different EVM bridge). On-chain footprint = Squads V4 + SAP PDAs deployed by Altitude's backend keypair. The $200M throughput claim is plausible but not on-chain-verifiable without enumerating Altitude's deployer keypair. Squads V4 immutable + 4-firm audited; SAP audited but upgrade authority not yet burned. Five-minute verification recipe included.
 
